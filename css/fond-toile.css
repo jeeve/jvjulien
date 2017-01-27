@@ -1,0 +1,14 @@
+body, .fond {
+	background-image: url('/images/toile.jpg');
+    background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+.fond-table {
+	background-color: white;
+}
+
+.encadrement-table {
+	border: 2px solid grey;
+	padding: 5px;
+}

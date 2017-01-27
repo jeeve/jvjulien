@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /science/science.php
+Disallow: /informatique/lothop.php
+Disallow: /informatique/twithop.php
+Disallow: /informatique/wescheme.php
+Disallow: /informatique/racket.php
+Disallow: /reflexions/voyage-au-coeur-de-la-matiere.pdf 
