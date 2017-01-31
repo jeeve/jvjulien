@@ -126,6 +126,7 @@
 
 	              
 				<br><br>
+				<a name="le-banc"></a>
 				<p align="center">
 				<img alt="Le banc" title="Le banc" src="images/le-banc.jpg" class="img-responsive ombre-image" />
 				</p>
