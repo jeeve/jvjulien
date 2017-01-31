@@ -61,7 +61,9 @@
 						surface : 7,5 m²</p></li>          
 						</ul></p>
 		<p align="center">ça dépote !</p>
-
+					<h2>Kitesurf</h2>
+					<p>Après quelques années de pratique, j'ai déposé les armes pour me recentrer sur la planche.
+					</p>
                         <p><br></p>
                      </div>
                      <div class="col-xs-12 col-sm-6 fond">
