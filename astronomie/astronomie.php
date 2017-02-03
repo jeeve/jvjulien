@@ -27,15 +27,37 @@
   	  	
         <!-- main area -->
         <div class="col-xs-12 col-sm-12 col-md-9 fond">
+		
+		
           <h1>vers les étoiles</h1>
-          <a href="http://www.google.com/moon/#lat=12.554563&amp;lon=10.898437&amp;map=visible&amp;apollo=" target="_blank">
-		  <img src="images/lune.gif" alt="La Lune depuis Malakoff - 8 octobre 2003" title="La Lune depuis Malakoff - 8 octobre 2003" class="img-responsive"/>
-		  </a>
-		  <br>
+
+		 
+		  <a name="expansion"></a>
+		  <h2>Expansion</h1>
+<p>	  
+		  <a href="http://www.google.com/sky/#latitude=31.222803&amp;longitude=6.613&amp;zoom=12&amp;Spitzer=0.00&amp;ChandraXO=0.00&amp;Galex=0.00&amp;IRAS=0.00&amp;WMAP=0.00&amp;Cassini=0.00&amp;slide=1&amp;mI=-1&amp;oI=-1" target="_blank"><img src="images/galaxie.gif" align="right" alt="A plus de 60 millions d'années-lumière de la Terre, la galaxie spirale NGC 4414" title="A plus de 60 millions d'années-lumière de la Terre, la galaxie spirale NGC 4414" class="img-responsive image-dans-texte"></a>		  
+
+L’expansion de l’univers est une théorie physique confirmée par les observations.<br>
+Les galaxies, ces univers-îles, s’éloignent les unes des autres.<br>
+Ce qui est fascinant dans l’histoire, ce n’est pas le fait qu’elles se déplacent.<br>
+En fait, elles restent fixes.<br>
+Mais c’est l’espace lui-même qui se dilate.<br>
+Ce n’est pas le contenu qui bouge mais le contenant qui grossit.<br>
+Étrange.<br>
+L’univers est en expansion.<br>
+Les distances entre chaque point de l’espace augmentent et ce depuis 13 milliards d’années.<br>
+L’univers n’est pas une simple salle de spectacle où des acteurs célestes se meuvent.<br>
+L’univers bouge, l’univers grandit, l’univers vit.
+</p>  
+		  
+		  
+		  
 		  <a name="regardez"></a>
 		  <h2>Regardez</h2>
 		  <p>
-<a href="http://www.google.com/sky/#latitude=31.222803&amp;longitude=6.613&amp;zoom=12&amp;Spitzer=0.00&amp;ChandraXO=0.00&amp;Galex=0.00&amp;IRAS=0.00&amp;WMAP=0.00&amp;Cassini=0.00&amp;slide=1&amp;mI=-1&amp;oI=-1" target="_blank"><img src="images/galaxie.gif" align="right" alt="A plus de 60 millions d'années-lumière de la Terre, la galaxie spirale NGC 4414" title="A plus de 60 millions d'années-lumière de la Terre, la galaxie spirale NGC 4414" class="img-responsive image-dans-texte"></a>		  
+		  <a href="http://www.google.com/moon/#lat=12.554563&amp;lon=10.898437&amp;map=visible&amp;apollo=" target="_blank">
+		  <img src="images/lune.gif" alt="La Lune depuis Malakoff - 8 octobre 2003" title="La Lune depuis Malakoff - 8 octobre 2003" class="img-responsive"/>
+		  </a>
 Regardez l’univers et ses habitants aux formes étranges, tourbillons de lumière voguant dans les profondeurs cosmiques.
 <br>
 Regardez, regardez bien là-bas, tout près d’Andromède, cette galaxie déployant les bras comme pour nous accueillir.
