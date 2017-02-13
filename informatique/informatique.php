@@ -37,6 +37,7 @@ Avec ces techniques, on peut se rapprocher des applications traditionnelles dite
 <p>
 Voici un exemple maison qui m'a permis de me faire la main avec cette techno. Cette application présente des radiographies numériques effectuées sur des pièces de fonderie. Les photos de pièces ont été remplacées par des photos quelconques par souci de confidentialité, et pour les mêmes raisons, les radios ont été floutées :<br>
 </p>
+<br>
 				  <div class="row">
 				 
 				  <div class="col-xs-12 col-sm-3 fond"></div>
@@ -51,7 +52,7 @@ Voici un exemple maison qui m'a permis de me faire la main avec cette techno. Ce
 			  	  </div>
 				  </div>
 
-
+<br>
 <p>
 Le code source est disponible sur <a href="https://github.com/jeeve/defautheque" target="_blank">Github</a>
 </p>
