@@ -57,7 +57,8 @@ Le code source est disponible sur <a href="https://github.com/jeeve/defautheque"
 </p>
 <p align="right"><em><font size="2">dimanche 12 février 2017</font></em></p>					
 
-<br>			
+<hr>
+			
 <a name="lecteur-audio"></a><h2>Lecteur audio HTML5</h2>
 <p>Voici un petit lecteur audio multipistes avec visualisation du spectre. Il fonctionne en HTML5 et comprend les fonctions lecture aléatoire, pause, morceau précédent, suivant, boucle, volume... Bref idéal pour ce site.</p>
 <br>
