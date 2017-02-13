@@ -19,13 +19,43 @@
 			
                         <br>
 						<ul class="sommaire">
+						<li><a href="#angular">Angular</a></li>
                         <li><a href="#lecteur-audio">Lecteur audio HTML5</a></li>
                         <li><a href="#informatique-cognitive">Informatique cognitive</a></li>
                         <li><a href="#ia">Intelligence artificielle</a></li>
                         <li><a href="#scheme">Le langage Scheme</a></li>
 						</ul>
                      
-					
+<br>			
+<a name="angular"></a><h2>Angular</h2>
+<p><a href="https://angularjs.org/" target="_blank" >AngularJs</a> est un framework javascript pour développer des applications Web, en l'ocurrence des SPA (Single Page Application). Les sites Web conçut avec Angular ne contiennent qu'une seule page.<br>
+D'ordinaire, un site Web renvoie au travers du serveur différentes pages HTML en fonction des demandes du client, le navigateur. Avec Angular, la démarche est différente, la page fournit par le serveur contient déjà la logique du site. Le rôle du serveur se limite alors à fournir les données à l'application chargée dans le navigateur.<br>
+Cette technologie est devenue possible depuis l'optimisation des moteurs d'exécution javascript dans les navigateurs. Dans une application Angular, c'est donc principalement le client qui travaille.<br>
+Pour cela, Angular offre un modèle de développement orienté MVC (modèle-vue-contrôleur), c'est à dire que les données, leur affichage et leur traitement s'effectuent de manière séparés.<br>
+Avec ces techniques, on peut se rapprocher des applications traditionnelles dites riches, à la différence qu'elle s'exécute dans un navigateur Web et donc à priori partout.<br>
+</p>
+<p>
+Voici un exemple maison qui m'a permis de me faire la main avec cette techno :<br>
+</p>
+				  <div class="row">
+				 
+				  <div class="col-xs-12 col-sm-3 fond"></div>
+				  <div class="col-xs-12 col-sm-6 fond">
+				  <p align="center">
+				  <a href="http://defautheque.000webhostapp.com" target="blank">
+	              <img alt="Défauthèque" title="Défauthèque" src="images/defautheque.jpg" class="img-responsive ombre-image" />
+				  </a>
+				  </p>
+				  <p class="legende"><a href="http://defautheque.000webhostapp.com" target="_blank">Défauthèque</a></p>
+				  </a>
+			  	  </div>
+				  </div>
+
+
+<p>
+Le code source est disponible sur <a href="https://github.com/jeeve/defautheque" target="_blank">Github</a>
+</p>
+<p align="right"><em><font size="2">dimanche 12 février 2017</font></em></p>					
 
 <br>			
 <a name="lecteur-audio"></a><h2>Lecteur audio HTML5</h2>
