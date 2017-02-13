@@ -29,13 +29,13 @@
 <br>			
 <a name="angular"></a><h2>Angular</h2>
 <p><a href="https://angularjs.org/" target="_blank" >AngularJs</a> est un framework javascript pour développer des applications Web, en l'ocurrence des SPA (Single Page Application). Les sites Web conçut avec Angular ne contiennent qu'une seule page.<br>
-D'ordinaire, un site Web renvoie au travers du serveur différentes pages HTML en fonction des demandes du client, le navigateur. Avec Angular, la démarche est différente, la page fournit par le serveur contient déjà la logique du site. Le rôle du serveur se limite alors à fournir les données à l'application chargée dans le navigateur.<br>
+D'ordinaire, un site renvoie au travers du serveur différentes pages HTML en fonction des demandes du client, le navigateur. Avec Angular, la démarche est différente, la page fournit par le serveur contient déjà la logique du site. Le rôle du serveur se limite alors à fournir les données à l'application chargée dans le navigateur.<br>
 Cette technologie est devenue possible depuis l'optimisation des moteurs d'exécution javascript dans les navigateurs. Dans une application Angular, c'est donc principalement le client qui travaille.<br>
-Pour cela, Angular offre un modèle de développement orienté MVC (modèle-vue-contrôleur), c'est à dire que les données, leur affichage et leur traitement s'effectuent de manière séparés.<br>
+Pour cela, Angular offre un modèle de développement orienté MVC (modèle-vue-contrôleur), c'est à dire que les données, leur affichage et leur traitement sont codées de manière séparés.<br>
 Avec ces techniques, on peut se rapprocher des applications traditionnelles dites riches, à la différence qu'elle s'exécute dans un navigateur Web et donc à priori partout.<br>
 </p>
 <p>
-Voici un exemple maison qui m'a permis de me faire la main avec cette techno :<br>
+Voici un exemple maison qui m'a permis de me faire la main avec cette techno. Cette application présente des radiographies numériques effectuées sur des pièces de fonderie. Les photos de pièces ont été remplacées par des photos quelconques par souci de confidentialité, et pour les mêmes raisons, les radios ont été floutées :<br>
 </p>
 				  <div class="row">
 				 

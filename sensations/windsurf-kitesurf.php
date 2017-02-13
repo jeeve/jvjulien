@@ -169,7 +169,18 @@
 				  </p>
 					</div></div>				  
 				  
-				  
+				  <br><a name="webcam-poses"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				  <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x450&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="450" frameborder="0"></iframe>
+				  </div>
+				  </p>
+				  <p class="legende"><a href="https://www.google.com/maps/@49.303566,1.222959,2349m/data=!3m1!1e3?hl=fr" target="_blank">En direct du lac de Léry-Poses</a>
+				  </p>
+					</div></div>					  
 				  
 			<br>
 			<div id="swipe" class="row">
