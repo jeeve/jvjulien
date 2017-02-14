@@ -26,7 +26,7 @@
                         <li><a href="#scheme">Le langage Scheme</a></li>
 						</ul>
                      
-<br>			
+			
 <a name="angular"></a><h2>Angular</h2>
 <p><a href="https://angularjs.org/" target="_blank" >AngularJs</a> est un framework javascript pour développer des applications Web, en l'ocurrence des SPA (Single Page Application). Les sites Web conçut avec Angular ne contiennent qu'une seule page.<br>
 D'ordinaire, un site renvoie au travers du serveur différentes pages HTML en fonction des demandes du client, le navigateur. Avec Angular, la démarche est différente, la page fournit par le serveur contient déjà la logique du site. Le rôle du serveur se limite alors à fournir les données à l'application chargée dans le navigateur.<br>
