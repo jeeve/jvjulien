@@ -7,6 +7,14 @@
         <description>Pour des balades en textes et en images les soirs d'hiver et les autres aussi.</description>
 	
 		<item>
+            <title>Webcam lac de Léry-Poses</title>
+            <link>http://jvjulien.free.fr/sensations/windsurf-kitesurf.php#webcam-poses</link>
+            <guid isPermaLink="false">webcam-poses</guid>
+            <description>Le lac de Léry Poses en temps réel.</description>
+            <pubDate>Tue, 14 Feb 2017 13:28:00 GMT</pubDate>
+		</item>		
+		
+		<item>
             <title>Angular</title>
             <link>http://jvjulien.free.fr/informatique/informatique.php#angular</link>
             <guid isPermaLink="false">angular</guid>
