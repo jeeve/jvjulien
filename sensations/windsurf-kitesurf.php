@@ -104,8 +104,8 @@
 
 				<a name="webcam-poses"></a>
 				  <p align="center">
-				  <div class="embed-responsive embed-responsive-16by9 ombre-image" style="background-image: none; background-color: black;">
-				  <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x450&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="450" frameborder="0" style="margin-left: -5px; margin-top: -5px;"></iframe>
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
+				  <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x600&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="600" frameborder="0" style="margin-left: -5px; margin-top: -5px;"></iframe>
 				  </div>
 				  </p>
 				  <p class="legende">En direct du lac de Léry-Poses (<a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés</a>)
