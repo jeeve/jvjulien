@@ -145,7 +145,7 @@
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=166776" target="_blank">
 				  Inside Baie de Beaussais 29 août 2016</a><br>
-				  Départ prématuré du camping (la marée n'est pas assez haute, donc splach), demi-tour, puis cap sur une crique secrète, traversée de la baie jusqu'à la plage de la Manchette pour une petite baignade...
+				  Départ prématuré du camping (la marée n'est pas assez haute, donc splach), demi-tour, puis cap sur une crique "secrète", traversée de la baie jusqu'à la plage de la Manchette pour une petite baignade...
 				  </p>
 					</div></div>
 								  
