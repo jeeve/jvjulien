@@ -58,7 +58,7 @@ Le code source est disponible sur <a href="https://github.com/jeeve/defautheque"
 </p>
 <p>
 Pour cet exemple, afin d'établir la liaison entre l'application AngularJs cliente et la base de données MySql sur le serveur, j'ai utilisé l'api <a href="https://github.com/mevdschee/php-crud-api" target="_blank">php-crud-api</a> particulièrement efficace. Merci à leurs auteurs. 
- Celle-ci permet de créer un service Web de type REST afin de communiquer avec la base de données. Ainsi la requête GET api.php/alliage renvoye sous forme de tableau javascript les lignes de la table "alliage" de la base de données.
+ Celle-ci permet de créer un service Web de type REST afin de communiquer avec la base de données. Ainsi la requête GET <a href="http://defautheque.000webhostapp.com/rest/api.php/alliage" target="_blank">api.php/alliage</a> renvoye sous forme de tableau javascript les lignes de la table "alliage" de la base de données.
 </p>
 <p align="right"><em><font size="2">dimanche 12 février 2017</font></em></p>					
 
