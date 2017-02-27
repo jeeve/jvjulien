@@ -27,7 +27,7 @@
 				node.innerHTML = "";
 				var html = "";
 				while (t <= b) {				
-				    h = Math.round(t / 60);
+				    h = Math.trunc(t / 60);
 					m = (t % 60);
 					if (m.toString().length == 1) {
 						curtime = h.toString() + ':' + '0' + m.toString(); 
