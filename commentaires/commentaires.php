@@ -35,7 +35,7 @@
 merci de votre visite, à bientôt...
 </p>
 </div>
-<p class="numero-page">page 25</p>	
+<p class="numero-page">page 26</p>	
 <br><br>
 </div>
 

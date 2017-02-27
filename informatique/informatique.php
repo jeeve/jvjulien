@@ -393,7 +393,7 @@ mots que j'appris pour dire bonjour :&nbsp;</p>
 <div class="col-xs-10">
 			<p align="right"><a id="page-suivante" href="hop.php">hop</a> - <a href="wescheme.php">wescheme</a> - <span class="hidden-xs"><a href="racket.php">racket</a> - </span><a href="../science/science.php">e^(i.pi)+1=0</a></p>
 			</div>
-			<p class="numero-page">page 19</p>	
+			<p class="numero-page">page 20</p>	
 <br><br>
 </div>
 			

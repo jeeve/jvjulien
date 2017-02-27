@@ -159,7 +159,7 @@ Puis s'endormir à ses côtés					</p>
 <div class="col-xs-10">
 			<p align="right"><a id="page-suivante" href="../en-chemin/en-chemin.php">en chemin</a></p>
 			</div>
-			<p class="numero-page">page 15</p>	
+			<p class="numero-page">page 16</p>	
 <br><br>
 </div>
 			

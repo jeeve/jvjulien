@@ -134,7 +134,7 @@ Prévenez vos proches d'une attaque imminente en leur communiquant ce message<br
 <div class="col-xs-8">
 			<p align="right"><a id="page-suivante" href="../reflexions/reflexions.php">?!?</a></p>
 			</div>
-			<p class="numero-page">page 17</p>	
+			<p class="numero-page">page 18</p>	
 <br><br> 
 			</div>
 			

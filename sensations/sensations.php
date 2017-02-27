@@ -152,10 +152,11 @@
 				 </div></div>		
 			
 
-<br><br><div id="swipe" class="row">
+<br><br>
+<div id="swipe" class="row">
 <div class="col-xs-2"><p><a id="page-precedente" href="../impressions/impressions.php">impressions</a></p></div>
 <div class="col-xs-10">
-<p align="right"><a id="page-suivante" href="windsurf-kitesurf.php">windsurf / kitesurf</a> - <a href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
+<p align="right"><a id="page-suivante" href="windsurf-kitesurf.php">windsurf / kitesurf</a> - <a href="lac-lery-poses.php">lac de Léry Poses</a> - <a href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
 </div>
 <p class="numero-page">page 12</p>	
 <br><br>

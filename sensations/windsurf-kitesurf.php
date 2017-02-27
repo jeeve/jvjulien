@@ -57,8 +57,8 @@
 						</li>
 						<li><p>voile Neilpryde V6 modèle 2006<br>
 						surface : 6,5 m²</p></li>          
-						<li><p>voile Neilpryde V6 modèle 2009<br>
-						surface : 7,5 m²</p></li>          
+						<li><p>voile Neilpryde V8 modèle 2017<br>
+						surface : 7,7 m²</p></li>          
 						</ul></p>
 		<p align="center">ça dépote !</p>
 					<h2>Kitesurf</h2>
@@ -108,7 +108,7 @@
 				  <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x600&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="600" frameborder="0" style="margin-left: -5px; margin-top: -5px;"></iframe>
 				  </div>
 				  </p>
-				  <p class="legende">En direct du lac de Léry-Poses (<a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés</a>)
+				  <p class="legende">En direct du <a href="lac-lery-poses.php">lac de Léry Poses</a>
 				  </p>
 				</div>
 				</div>	
@@ -188,7 +188,7 @@
 			<div id="swipe" class="row">
 <div class="col-xs-3"><p><a id="page-precedente" href="sensations.php">sensations</a></p></div>
 <div class="col-xs-9">
-			<p align="right"><a id="page-suivante" href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
+			<p align="right"><a id="page-suivante" href="lac-lery-poses.php">lac de Léry poses</a> - <a href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
 			</div>
 			<p class="numero-page">page 13</p>	
 <br><br> 

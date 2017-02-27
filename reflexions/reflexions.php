@@ -295,7 +295,7 @@
 <div class="col-xs-7">
 			<p align="right"><a id="page-suivante" href="../informatique/informatique.php">01101</a></p>
 			</div>
-			<p class="numero-page">page 18</p>	
+			<p class="numero-page">page 19</p>	
 <br><br> 
 </div>
 			
