@@ -89,15 +89,14 @@
       </div>
       <!--/.page-container-->
 	  <?php include("../includes/footer.php"); ?>	
+
 	  <script> 
-   jQuery('#meteo').load(function(e){
-       // $('iframe #meteo').contents().find('#mainContainer').remove();
+ /*  $('#meteo').load(function(e){
 	   console.log("toto");
-	//   console.log($('#mainContainer:contains("Wind Speed")', $('#meteo').contents()).next().html());
-    //    $("#vitesse-vent").html($('#mainContainer:contains("Wind Speed")', $('#meteo').contents()).next().html());
+		$('#meteo').contents().find('body').css("background-color", "#BADA55");
     });
-	
-	  jQuery(document).ready(function($) {
+*/	
+	  $(document).ready(function($) {
 		  console.log("titi");
 		var hier = new Date(new Date().setDate(new Date().getDate()-1));
 		var annee   = hier.getFullYear();
@@ -106,6 +105,7 @@
 		$("#ma-date").attr("value", jour + "-" + mois + "-" + annee);
 	  });
 	  </script>
+
 	  <script type="text/javascript" src="js/imagebankleryposes.js"></script>	
    </body>
 </html>
