@@ -12,6 +12,12 @@
 		figure {
 			position:relative;
 			}
+		label {
+			display: block;
+			width: 160px;
+			float: left;
+			font-weight: normal;
+		}
 	  </style>
    </head>
    <body>
@@ -54,17 +60,14 @@
 				  </div>	
 				  
 				  <br>
-				  <h2>Archives</h2>
+				  <h2>Archives webcam</h2>
 					
 					<form id="datetimeform">
-						<p>Date (JJ-MM-AAAA) 
-						<input id="ma-date" type="text" name="date" value="25-02-2017"></input><br>
-						entre (HH:MM)
-						<input type="text" name="heure1" value="12:00"></input>
-						et (HH:MM)
-						<input type="text" name="heure2" value="17:00"></input><br>
-						toutes les
-						<input type="text" name="delta" value="15"></input> minutes
+						<p>
+						<label for="ma-date">Date (JJ-MM-AAAA)</label><input id="ma-date" type="text" name="date" value="25-02-2017"></input><br>
+						<label for="mon-heure1">entre (HH:MM)</label><input id="mon-heure1" type="text" name="heure1" value="12:00"></input><br>
+						<label for="mon-heure2">et (HH:MM)</label><input id="mon-heure2" type="text" name="heure2" value="17:00"></input><br>
+						<label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="15"></input> minutes<br>
 						<button type="button" onclick="getpicture()">Afficher</button>
 						</p>
 					</form>
