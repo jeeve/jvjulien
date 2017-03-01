@@ -67,7 +67,7 @@
 						<label for="ma-date">Date (JJ-MM-AAAA)</label><input id="ma-date" type="text" name="date" value="25-02-2017"></input><br>
 						<label for="mon-heure1">entre (HH:MM)</label><input id="mon-heure1" type="text" name="heure1" value="12:00"></input><br>
 						<label for="mon-heure2">et (HH:MM)</label><input id="mon-heure2" type="text" name="heure2" value="17:00"></input><br>
-						<label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="15"></input> minutes<br>
+						<label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="15"></input> minutes
 						<button type="button" onclick="getpicture()">Afficher</button>
 						</p>
 					</form>
@@ -94,11 +94,7 @@
 	  <?php include("../includes/footer.php"); ?>	
 
 	  <script> 
- /*  $('#meteo').load(function(e){
-	   console.log("toto");
-		$('#meteo').contents().find('body').css("background-color", "#BADA55");
-    });
-*/	
+	
 	  $(document).ready(function($) {
 		  console.log("titi");
 		var hier = new Date(new Date().setDate(new Date().getDate()-1));
@@ -106,7 +102,13 @@
 		var mois    = hier.getMonth() + 1;
 		var jour    = hier.getDate();
 		$("#ma-date").attr("value", jour + "-" + mois + "-" + annee);
+/*		
+    $("#meteo").load(function() {
+        var doc = this.contentDocument || this.contentWindow.document;
+        var target = doc.getElementById("mainContainer");
+		target.innerHTML = "Found It!";	
 	  });
+*/	  
 	  </script>
 
 	  <script type="text/javascript" src="js/imagebankleryposes.js"></script>	
