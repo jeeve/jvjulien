@@ -54,11 +54,15 @@
 				  
 				  <div class="row">
 					<div class="embed-responsive embed-responsive-4by3 ombre-image">
-						<iframe id="meteo" src="http://www.weatherlink.com/user/troislacs/index.php?view=summary&amp;headers=1" width="770" height="780" frameborder="0" style="overflow-x: auto; overflow-y: auto";></iframe>				  
+						<iframe id="meteo" src="http://www.weatherlink.com/user/troislacs/index.php?view=summary&amp;headers=1" width="770" height="780" frameborder="0" style="overflow-x: auto; overflow-y: auto;"></iframe>				  
 					</div>
 					<p id="vitesse-vent"></p>
-				  </div>	
-				  
+				  </div>
+				
+				<br>
+				<h2>Prévisions méteo</h2>
+					<iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="500" height="230" frameborder="0" style="overflow-x: auto; overflow-y: auto;"></iframe>
+				  <br>
 				  <br>
 				  <h2>Archives webcam</h2>
 					
@@ -96,7 +100,6 @@
 	  <script> 
 	
 	  $(document).ready(function($) {
-		  console.log("titi");
 		var hier = new Date(new Date().setDate(new Date().getDate()-1));
 		var annee   = hier.getFullYear();
 		var mois    = hier.getMonth() + 1;
@@ -108,7 +111,8 @@
         var target = doc.getElementById("mainContainer");
 		target.innerHTML = "Found It!";	
 	  });
-*/	  
+*/ 
+	  });
 	  </script>
 
 	  <script type="text/javascript" src="js/imagebankleryposes.js"></script>	
