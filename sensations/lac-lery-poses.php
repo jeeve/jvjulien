@@ -54,7 +54,7 @@
 				  
 				  <div class="row">
 					<div class="embed-responsive embed-responsive-4by3 ombre-image">
-						<iframe id="meteo" src="http://www.weatherlink.com/user/troislacs/index.php?view=summary&amp;headers=1" width="770" height="780" frameborder="0" style="overflow-x: auto; overflow-y: auto;"></iframe>				  
+						<iframe id="meteo" src="http://www.weatherlink.com/user/troislacs/index.php?view=summary&amp;headers=1" width="770" height="800" frameborder="0" style="overflow-x: auto; overflow-y: hidden;"></iframe>				  
 					</div>
 					<p id="vitesse-vent"></p>
 				  </div>
