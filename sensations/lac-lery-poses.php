@@ -5,6 +5,19 @@
       <META NAME="Description" CONTENT="Le lac de Léry Poses."/>
 	  <?php include("../includes/header.php"); ?>	
 	  <style type="text/css">
+		.back {
+			position: absolute;
+			bottom: 0px;
+			background-color: white;
+			width: 50px;
+			height: 30px;
+  filter: alpha(opacity=60);
+  /* IE */
+  -moz-opacity: 0.6;
+  /* Mozilla */
+  opacity: 0.6;
+  /* CSS3 */
+			}
 		figcaption {
 			position: absolute;
 			bottom: 0px;
@@ -39,18 +52,18 @@
 				  <p class="legende">En direct du lac de Léry-Poses (<a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés</a>)
 				  </p>
 				  
-				  <br>
+				  <br><br><br>
 				 				  
 				  <div class="row">
-					<div class="col-xs-12 col-sm-3"></div>
-					<div class="col-xs-12 col-sm-6">
+					<div class="col-xs-12 col-sm-2"></div>
+					<div class="col-xs-12 col-sm-8">
 						<div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
 							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d17454.995066904972!2d1.2294165352311524!3d49.29599766103288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1488211223091" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 						</div>	
 					</div>
 				  </div>
 
-				  <br><br>
+				  <br><br><br><br>
 				  
 				  <div class="row">
 					<div class="embed-responsive embed-responsive-4by3 ombre-image">
@@ -59,7 +72,7 @@
 					<p id="vitesse-vent"></p>
 				  </div>
 				
-				<br>
+				<br><br>
 				<h2>Prévisions méteo</h2>
 					<iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="500" height="230" frameborder="0" style="overflow-x: auto; overflow-y: auto;"></iframe>
 				  <br>

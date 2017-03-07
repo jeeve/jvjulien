@@ -41,7 +41,7 @@
 					img_src = img_src + curdate;
 					img_src = img_src + "&time=" + curtime;
 					
-					html = html + '<figure><a href=" ' + img_src + '" target="blank"><img class="img-responsive ombre-image" src="' + img_src + '"></a><figcaption><p>' + curtime + '</p></figcaption></figure>';
+					html = html + '<figure><a href=" ' + img_src + '" target="blank"><img class="img-responsive ombre-image" src="' + img_src + '"></a><div class="back"></div><figcaption><p>' + curtime + '</p></figcaption></figure>';
 					t = t + delta;	
 				}
 				node.innerHTML = html;
