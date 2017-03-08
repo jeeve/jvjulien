@@ -1,0 +1,33 @@
+		.back {
+			position: absolute;
+			bottom: 0px;
+			background-color: white;
+			width: 50px;
+			height: 30px;
+  filter: alpha(opacity=50);
+  /* IE */
+  -moz-opacity: 0.5;
+  /* Mozilla */
+  opacity: 0.5;
+  /* CSS3 */
+			}
+
+		figure {
+			position:relative;
+			}
+			
+		figcaption {
+			position: absolute;
+			bottom: 0px;
+			}
+
+		label {
+			display: block;
+			width: 160px;
+			float: left;
+			font-weight: normal;
+		}
+				
+		 #meteo td p {
+			 margin-bottom: 0;
+		 }
