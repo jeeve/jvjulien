@@ -115,6 +115,14 @@ Prévenez vos proches d'une attaque imminente en leur communiquant ce message<br
 					Mais c’est ses connaissances scientifiques qui feront la différence lorsque <a href="#simulation-gibbs">Maître Gibbs</a> recherchera une pointure pour intégrer le team. En effet, même si on le sait moins, Jeff est l’inventeur du module de Youn en référence à son acteur, réalisateur, scénariste préféré.<br>
 					Il reste néanmoins beaucoup de mystères autour du personnage.
 					</p>					
+
+					<br><p><a name="simulation-communique"></a><em><u>Communiqué NCIS du 7 mars 2017</u></em><br>
+					<img src="images/jeeve-barbu.jpg" class="ombre-image image-dans-texte" style="float: right" alt="Jeeve l'informaticien - 13 avril 2009" title="Jeeve l'informaticien - 13 avril 2009">
+					Cet informaticien vivait reclus dans son bureau depuis des mois.<br>
+					Il ne doit son salut qu'à une <a href="#simulation-caboulettes">caboulette</a> d'ampleur relativement mineure mais nécessitant une intervention immédiate. L'informaticien a été découvert en l'état, devant l'écran, le regard hagard, figé devant moultes lignes de codes aussi incompréhensibles qu'un rapport de <a href="#simulation-jose">José del Rio</a> sur l'emploi de talons de lavage en encombrement limité.<br>
+					Devant l'état préoccupant du jeune homme, l'équipe du NCIS a décidé d'un commun accord de lui administrer une cure de café et de blagues de José corsées mais faciles à comprendre afin de stimuler ses neurones lors de séances quotidiennes. Les résultats semblent prometteurs même si on constate toujours une absence totale de répartie imputable selon les spécialistes à un délai de latence neurologique qui laisse à désirer.<br> 
+					Aussi des effets secondaires sont à déplorer sur le sujet, celui-ci se livrant depuis à des écritures compulsives fort mystérieuses, qui n'épargneront personnes pas même le prestigieux José del Rio, et comble du narcissisme, l’informaticien lui-même.
+					</p>
 					
                      </div>
 

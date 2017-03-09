@@ -7,11 +7,19 @@
         <description>Pour des balades en textes et en images les soirs d'hiver et les autres aussi.</description>
 	
 		<item>
-            <title>Nouvelle pgae : lac de Léry-Poses</title>
+            <title>Nouvelle page : lac de Léry-Poses</title>
             <link>http://jvjulien.free.fr/sensations/lac-lery-poses.php</link>
             <guid isPermaLink="false">lac-lery-poses</guid>
             <description>Une nouvelle page dédiée au lac de Léry Poses voit le jour. Au menu, webcam avec archives, météo en temps réel et prévisitions, lien vers l'association WLPA.</description>
-            <pubDate>Wed, 8 Mar 2017 13:16:00 GMT</pubDate>
+            <pubDate>Fri, 10 Mar 2017 15:45:00 GMT</pubDate>
+		</item>		
+		
+		<item>
+            <title>Communiqué du NCIS</title>
+            <link>http://jvjulien.free.fr/en-chemin/ncis.php#simulation-communique</link>
+            <guid isPermaLink="false">communique-ncis</guid>
+            <description>L'auteur adresse ici un communiqué à l'attention du National Center of Intensive Simulation.</description>
+            <pubDate>Tue, 7 Mar 2017 9:25:00 GMT</pubDate>
 		</item>		
 		
 		<item>
