@@ -51,32 +51,28 @@
                         </div>
                      </div>
                   </div>
-                  <br><br><br>
-				  			
-			
-				  <!--
-                  <div class="row">
-                     <div class="embed-responsive embed-responsive-4by3 ombre-image">
-                        <iframe id="meteo" src="http://www.weatherlink.com/user/troislacs/index.php?view=summary&amp;headers=1" width="770" height="800" frameborder="0" style="overflow-x: auto; overflow-y: hidden;"></iframe>				  
-                     </div>
-                     <p id="vitesse-vent"></p>
-                  </div>
-				  -->
-				  
+                  <br><br><br>			  
                   <br>
+				  
                   <h2>Prévisions méteo</h2>
-                  <iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="500" height="230" frameborder="0" style="overflow-x: auto; overflow-y: auto;"></iframe>
+				  <div class="row">
+					<div class="col-xs-12 visible-xs fond" style="margin-left: 15px;"><a href="https://www.windguru.cz/4864" target="_blank"><img class="ombre-image" src="images/logo-windguru.gif"></a>
+					</div>
+					<div class="hidden-xs col-sm-12">
+						<iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="500" height="230" frameborder="0" style="overflow-x: auto; overflow-y: auto; margin-left: 5px;"></iframe>
+					</div>
+				  </div>		
                   <br>
                   <br>
                   <h2>Archives webcam</h2>
                   <form id="datetimeform">
-                     <p>
-                        <label for="ma-date">Date (JJ-MM-AAAA)</label><input id="ma-date" type="text" name="date" value="25-02-2017"></input><br>
-                        <label for="mon-heure1">entre (HH:MM)</label><input id="mon-heure1" type="text" name="heure1" value="12:00"></input><br>
-                        <label for="mon-heure2">et (HH:MM)</label><input id="mon-heure2" type="text" name="heure2" value="17:00"></input><br>
-                        <label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="30"></input> minutes
-                        <button type="button" onclick="getpicture()">Afficher</button>
-                     </p>
+                     
+                        <div><p><label for="ma-date">Date (JJ-MM-AAAA)</label><input id="ma-date" type="text" name="date" value="25-02-2017"></input></p></div>
+                        <div><p><label for="mon-heure1">entre (HH:MM)</label><input id="mon-heure1" type="text" name="heure1" value="12:00"></input></p></div>
+                        <div><p><label for="mon-heure2">et (HH:MM)</label><input id="mon-heure2" type="text" name="heure2" value="17:00"></input></p></div>
+                        <div><p><label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="30"></input> minutes
+                        <button type="button" onclick="getpicture()">Afficher</button></p></div>
+                
                   </form>
                   <br>
                   <div id="pictureform">
