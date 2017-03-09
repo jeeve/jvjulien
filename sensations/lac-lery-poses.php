@@ -36,7 +36,20 @@
 				  
 				  <h2>Météo en temps réel</h2>
 				
-				  <?php include("meteo.php"); ?>
+				 <table id="meteo">
+					<tr>
+						<td><p>Vitesse du vent </p></td>
+						<td><p id="vitesse-vent"></p></td>
+					</tr>
+					<tr>
+						<td><p>Température de l'air </p></td>
+						<td><p id="temperature-air"></p></td>
+					</tr>
+					<tr>
+						<td><p>Température de l'eau </p></td>
+						<td><p id="temperature-eau"></p></td>
+					</tr>			
+				</table>
 			
 				  <!--
                   <div class="row">
@@ -100,6 +113,7 @@
          */ 
          });
       </script>
+	  <script type="text/javascript" src="js/meteo.js"></script>
       <script type="text/javascript" src="js/imagebankleryposes.js"></script>	
    </body>
 </html>
