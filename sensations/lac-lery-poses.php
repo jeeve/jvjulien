@@ -20,23 +20,9 @@
                   <br>
                   <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
                      <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x600&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="600" frameborder="0" style="margin-left: -5px; margin-top: -5px;"></iframe>
-                  </div>
-                  <p class="legende">En direct du lac de Léry-Poses (<a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés - association WLPA</a>)
-                  </p>
-                  <br><br><br>
-                  <div class="row">
-                     <div class="col-xs-12 col-sm-2"></div>
-                     <div class="col-xs-12 col-sm-8">
-                        <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
-                           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d17454.995066904972!2d1.2294165352311524!3d49.29599766103288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1488211223091" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                        </div>
-                     </div>
-                  </div>
-                  <br><br><br>
+                  
 				  
-				  <h2>Météo en temps réel</h2>
-				
-				 <table id="meteo">
+				  <table id="meteo">
 					<tr>
 						<td><p>Vitesse du vent </p></td>
 						<td><p id="vitesse-vent"></p></td>
@@ -50,6 +36,23 @@
 						<td><p id="temperature-eau"></p></td>
 					</tr>			
 				</table>
+				
+				  </div>
+                  <p class="legende">En direct du lac de Léry-Poses (<a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés - association WLPA</a>)
+                  </p>
+                  
+				  
+				  <br><br><br>
+                  <div class="row">
+                     <div class="col-xs-12 col-sm-2"></div>
+                     <div class="col-xs-12 col-sm-8">
+                        <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
+                           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d17454.995066904972!2d1.2294165352311524!3d49.29599766103288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1488211223091" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                     </div>
+                  </div>
+                  <br><br><br>
+				  			
 			
 				  <!--
                   <div class="row">
@@ -60,7 +63,7 @@
                   </div>
 				  -->
 				  
-                  <br><br>
+                  <br>
                   <h2>Prévisions méteo</h2>
                   <iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="500" height="230" frameborder="0" style="overflow-x: auto; overflow-y: auto;"></iframe>
                   <br>

@@ -1,15 +1,12 @@
-		.back {
+.back {
 			position: absolute;
 			bottom: 0px;
 			background-color: white;
 			width: 50px;
 			height: 30px;
   filter: alpha(opacity=50);
-  /* IE */
   -moz-opacity: 0.5;
-  /* Mozilla */
   opacity: 0.5;
-  /* CSS3 */
 			}
 
 		figure {
@@ -27,7 +24,18 @@
 			float: left;
 			font-weight: normal;
 		}
-					
-		 #meteo td p {
-			 margin-bottom: 0;
-		 }
+		
+#meteo {
+	position: absolute;
+	bottom: 0;
+	background-color: white;
+	width: 250px;
+	height: 30px;
+	filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;	
+	}		
+
+#meteo td p {
+	margin-bottom: 0;
+	}
