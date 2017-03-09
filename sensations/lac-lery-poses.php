@@ -28,6 +28,10 @@
 						<td><p id="vitesse-vent"></p></td>
 					</tr>
 					<tr>
+						<td><p>Orientation du vent </p></td>
+						<td><p id="orientation-vent"></p></td>
+					</tr>				
+					<tr>
 						<td><p>Température de l'air </p></td>
 						<td><p id="temperature-air"></p></td>
 					</tr>

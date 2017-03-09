@@ -1,17 +1,19 @@
 function getMeteo() {
 		$.ajax({
-			url: "https://meteo-station.herokuapp.com/temps-reel.php",
+			url: "https://meteo-station.herokuapp.com/temps-reel.php?station=troislacs",
 			type: 'GET',
 			crossDomain: true,
 			dataType: 'json'
 		}).then(function(data) {
-			$('#vitesse-vent').text(data.vitesseVent);
-			$('#temperature-air').text(data.temperatureAir);
-			$('#temperature-eau').text(data.temperatureEau);
+			$('#vitesse-vent').html(data.vitesseVent);
+			$('#orientation-vent').html(data.orientationVent);
+			$('#temperature-air').html(data.temperatureAir);
+			$('#temperature-eau').html(data.temperatureEau);
 			});
 }
 
+var myVar =	setInterval(getMeteo, 30000);	
+
 $(document).ready(function() {
-	getMeteo();	
-	setInterval(getMeteo, 1800000)	
+	getMeteo();
 });
