@@ -19,8 +19,7 @@
                   <h1>lac de Léry Poses</h1>
                   <br>
                   <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
-                     <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x600&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="600" frameborder="0" style="margin-left: -5px; margin-top: -5px;"></iframe>
-                  
+                     <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x600&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="600" frameborder="0" style="margin-left: -5px; margin-top: -5px;"></iframe>                  
 				  
 				  <table id="meteo">
 					<tr>
