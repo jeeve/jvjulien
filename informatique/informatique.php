@@ -19,6 +19,7 @@
 			
                         <br>
 						<ul class="sommaire">
+						<li><a href="#meteo-temps-reel">Service Web de météo temps réel</a></li>
 						<li><a href="#angular">Angular</a></li>
                         <li><a href="#lecteur-audio">Lecteur audio HTML5</a></li>
                         <li><a href="#informatique-cognitive">Informatique cognitive</a></li>
@@ -26,6 +27,13 @@
                         <li><a href="#scheme">Le langage Scheme</a></li>
 						</ul>
                      
+<a name="meteo-temps-reel"></a><h2>Service Web de météo temps réel</h2>
+<p>Un script écrit en PHP permettant de retourner sous format JSON les données météo de la station fournit en paramètre. Le service Web s'appuie sur les données du site <a href="http://www.weatherlink.com" targer="_blank">www.weatherlink.com</a>. Le service est déployé à l'adresse <a href="https://meteo-station.herokuapp.com/temps-reel.php?station=troislacs" target="_blank">https://meteo-station.herokuapp.com/temps-reel.php?station=troislacs</a> et utilisé pour afficher les informations temps réelles sur le <a href="/sensations/lac-lery-poses.php">lac de Léry-Poses</a>. 
+</p>
+<p><a href="https://github.com/jeeve/meteo" target="_blank">Le code source sous Github.</a></p>
+<p align="right"><em><font size="2">vendredi 10 mars 2017</font></em></p>
+
+<hr>
 			
 <a name="angular"></a><h2>Angular</h2>
 <p><a href="https://angularjs.org/" target="_blank" >AngularJs</a> est un framework javascript pour développer des applications Web, en l'ocurrence des SPA (Single Page Application). Les sites Web conçut avec Angular ne contiennent qu'une seule page.<br>
