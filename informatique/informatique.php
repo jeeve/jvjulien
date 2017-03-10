@@ -28,7 +28,7 @@
 						</ul>
                      
 <a name="meteo-temps-reel"></a><h2>Service Web de météo temps réel</h2>
-<p>Un script écrit en PHP permettant de retourner sous format JSON les données météo de la station fournit en paramètre. Le service Web s'appuie sur les données du site <a href="http://www.weatherlink.com" targer="_blank">www.weatherlink.com</a>. Le service est déployé à l'adresse <a href="https://meteo-station.herokuapp.com/temps-reel.php?station=troislacs" target="_blank">https://meteo-station.herokuapp.com/temps-reel.php?station=troislacs</a> et utilisé pour afficher les informations temps réelles sur le <a href="/sensations/lac-lery-poses.php">lac de Léry-Poses</a>. 
+<p>Un script écrit en PHP permettant de retourner sous format JSON les données météo de la station fournit en paramètre. Le service Web s'appuie sur les données du site <a href="http://www.weatherlink.com" targer="_blank">www.weatherlink.com</a>. Le service est déployé à l'adresse <a href="https://meteo-station.herokuapp.com" target="_blank">https://meteo-station.herokuapp.com</a> et utilisé pour afficher les informations temps réelles sur le <a href="/sensations/lac-lery-poses.php">lac de Léry-Poses</a>. 
 </p>
 <p><a href="https://github.com/jeeve/meteo" target="_blank">Le code source sous Github.</a></p>
 <p align="right"><em><font size="2">vendredi 10 mars 2017</font></em></p>
