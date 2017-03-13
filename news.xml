@@ -5,7 +5,15 @@
         <title>au gré du vent 1.0</title>
         <link>http://jvjulien.free.fr</link>
         <description>Pour des balades en textes et en images les soirs d'hiver et les autres aussi.</description>
-	
+
+		<item>
+            <title>Service Web : météo en temps réel</title>
+            <link>http://jvjulien.free.fr/informatique/informatique.php#meteo-temps-reel</link>
+            <guid isPermaLink="false">service-web-meteo</guid>
+            <description>Petit script PHP permettant de connaitre les conditions météo en temps réel de la station de son choix.</description>
+            <pubDate>Mon, 13 Mar 2017 15:25:00 GMT</pubDate>
+		</item>		
+		
 		<item>
             <title>Nouvelle page : lac de Léry-Poses</title>
             <link>http://jvjulien.free.fr/sensations/lac-lery-poses.php</link>
