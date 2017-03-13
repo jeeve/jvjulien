@@ -19,7 +19,9 @@
                   <h1>lac de Léry Poses</h1>
                   <br>
                   <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
-                     <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x600&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="600" frameborder="0"></iframe>                  
+                     <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=1024x768&amp;compression=30&amp;camera=1" scrolling="no" width="1024" height="768" frameborder="0"></iframe>                  
+				  
+				  <div id="fond-meteo"></div>
 				  
 				  <table id="meteo">
 					<tr>
@@ -39,7 +41,7 @@
 						<td><p id="temperature-eau"></p></td>
 					</tr>			
 				</table>
-				
+			  
 				  </div>
                   <p class="legende">En direct du lac de Léry-Poses (<a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés - association WLPA</a>)
                   </p>
