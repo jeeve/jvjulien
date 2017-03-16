@@ -154,14 +154,14 @@ Puis s'endormir à ses côtés					</p>
 
 			   
 			<br><br>
-			<div id="swipe" class="row">
+			<div id="swipe"><div class="row">
 <div class="col-xs-2"><p><a id="page-precedente" href="../sensations/sensations.php">sensations</a></p></div>
 <div class="col-xs-10">
 			<p align="right"><a id="page-suivante" href="../en-chemin/en-chemin.php">en chemin</a></p>
 			</div>
-			<p class="numero-page">page 16</p>	
-<br><br>
-</div>
+			</div><div class="row"><p class="numero-page">page 16</p>	
+
+</div></div>
 			
   
             </div>

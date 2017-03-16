@@ -396,14 +396,14 @@ mots que j'appris pour dire bonjour :&nbsp;</p>
 	Scheme, implémentation pour le moins géniale.<br></span>
 &nbsp;</p>
 							   				  
-			<div id="swipe" class="row">
+			<div id="swipe"><div class="row">
 <div class="col-xs-2"><p><a id="page-precedente" href="../reflexions/reflexions.php">?!?</a></p></div>
 <div class="col-xs-10">
 			<p align="right"><a id="page-suivante" href="hop.php">hop</a> - <a href="wescheme.php">wescheme</a> - <span class="hidden-xs"><a href="racket.php">racket</a> - </span><a href="../science/science.php">e^(i.pi)+1=0</a></p>
 			</div>
-			<p class="numero-page">page 20</p>	
-<br><br>
-</div>
+			</div><div class="row"><p class="numero-page">page 20</p>	
+
+</div></div>
 			
  
             </div>

@@ -290,14 +290,14 @@
 				   
 							   				  
 			<br><br>
-			<div id="swipe" class="row">
+			<div id="swipe"><div class="row">
 <div class="col-xs-5"><p><a id="page-precedente" href="../en-chemin/en-chemin.php">en chemin</a></p></div>
 <div class="col-xs-7">
 			<p align="right"><a id="page-suivante" href="../informatique/informatique.php">01101</a></p>
 			</div>
-			<p class="numero-page">page 19</p>	
-<br><br> 
-</div>
+			</div><div class="row"><p class="numero-page">page 19</p>	
+ 
+</div></div>
 			
  
             </div>

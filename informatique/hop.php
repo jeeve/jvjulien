@@ -363,14 +363,14 @@ Je vous invite à l&#39;essayer. En plus, ça permet de faire parler un ordinate
 distance, et donc potientiellement de faire quelques blagues à ses amis. 
 L&#39;auteur décline toute responsabilité quant aux usages abusifs du programme.</p>
 							   				  
-			<div id="swipe" class="row">
+			<div id="swipe"><div class="row">
 <div class="col-xs-4"><p><a id="page-precedente" href="informatique.php">01101</a></p></div>
 <div class="col-xs-8">
 			<p align="right"><a id="page-suivante" href="wescheme.php">wescheme</a> - <span class="hidden-xs"><a href="racket.php">racket</a> - </span><a href="../science/science.php">e^(i.pi)+1=0</a></p>
 			</div>
-			<p class="numero-page">page 21</p>	
-<br><br> 
-</div>
+			</div><div class="row"><p class="numero-page">page 21</p>	
+ 
+</div></div>
 			
 </div> 
             </div></div>

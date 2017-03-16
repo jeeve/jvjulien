@@ -129,13 +129,13 @@
 				
 
 <br><br>
-<div id="swipe" class="row">
+<div id="swipe"><div class="row">
 <div class="col-xs-3"><p><a id="page-precedente" href="../mer/mer.php">parfum salé</a></p></div>
 <div class="col-xs-9">
 <p align="right"><a id="page-suivante" href="diapo.php">ainsi coule la Loire</a> - <a href="../foret/foret.php">peuple végétal</a></p>
-</div><p class="numero-page">page 7</p>	
-<br><br>
-</div>
+</div></div><div class="row"><p class="numero-page">page 7</p>	
+
+</div></div>
 
 				  
                </div>

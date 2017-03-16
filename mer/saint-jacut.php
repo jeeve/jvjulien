@@ -155,13 +155,13 @@
           
               
 <br>
-<div id="swipe" class="row">
+<div id="swipe"><div class="row">
 <div class="col-xs-7"><p><a href="mer.php">parfum salé</a> - <a href="rivages.php">rivages</a> - <a id="page-precedente" href="diapo.php">lumières marines</a></p></div>
 <div class="col-xs-5"><p align="right"><a id="page-suivante" href="safaga.php">Safaga</a> - <a href="../loire/loire.php">au fil de l'eau</a></p>
 </div>
-<p class="numero-page">page 5</p>	
-<br><br>	
-</div>
+</div><div class="row"><p class="numero-page">page 5</p>	
+
+</div></div>
 
 		  
 			  </div>

@@ -76,13 +76,13 @@
 <div class="col-xs-12 col-sm-12 col-md-11 fond">
 
 <br><br>
-<div id="swipe" class="row">
+<div id="swipe"><div class="row">
 <div class="col-xs-5"><p><a id="page-precedente" href="foret.php">peuple végétal</a></p></div>
 <div class="col-xs-7"><p align="right"><a id="page-suivante" href="../impressions/impressions.php">impressions</a></p>
 </div>
-<p class="numero-page">page 10</p>	
-<br><br>
-</div>
+</div><div class="row"><p class="numero-page">page 10</p>	
+
+</div></div>
 
 </div>
 </div>

@@ -254,14 +254,14 @@
 			</div></div>	  
 			  
 			<br>
-			<div id="swipe" class="row">
+			<div id="swipe"><div class="row">
 <div class="col-xs-5"><p><a id="page-precedente" href="../foret/foret.php">peuple végétal</a></p></div>
 <div class="col-xs-7">
 			<p align="right"><a id="page-suivante" href="../sensations/sensations.php">sensations</a></p>
 			</div>
-			<p class="numero-page">page 11</p>	
-<br><br> 
-			</div>
+			</div><div class="row"><p class="numero-page">page 11</p>	
+
+			</div></div>
 			
 
 			  

@@ -137,14 +137,14 @@ Prévenez vos proches d'une attaque imminente en leur communiquant ce message<br
 				   
 				   				  
 			<br><br>
-			<div id="swipe" class="row">
+			<div id="swipe"><div class="row">
 <div class="col-xs-4"><p><a id="page-precedente" href="../en-chemin/en-chemin.php">en chemin</a></p></div>
 <div class="col-xs-8">
 			<p align="right"><a id="page-suivante" href="../reflexions/reflexions.php">?!?</a></p>
 			</div>
-			<p class="numero-page">page 18</p>	
-<br><br> 
-			</div>
+			</div><div class="row"><p class="numero-page">page 18</p>	
+ 
+			</div></div>
 			
  
             </div>

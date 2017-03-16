@@ -273,11 +273,11 @@ De la Terre, un sourire, s’envole, traverse la Voie Lactée pour rejoindre le 
 				</div>
 	
 <br><br>
-<div id="swipe" class="row">
+<div id="swipe"><div class="row">
 <div class="col-xs-4"><p><a id="page-precedente" href="../sommaire/sommaire.php">en route...</a></p></div>
 <div class="col-xs-8"><p align="right"><a id="page-suivante" href="../mer/mer.php">parfum salé</a><br></p></div>
-<p class="numero-page">page 1</p>	
-<br><br>	
+</div><div class="row"><p class="numero-page">page 1</p>	
+</div>	
 </div>
 
 

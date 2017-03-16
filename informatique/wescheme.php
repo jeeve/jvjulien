@@ -96,14 +96,14 @@ les flèches du clavier pour vous déplacer et la touche <i>espace</i> pour pose
 une bombe...</p>
 			<p>Bonne chance !</p>
 							   				  
-									<div id="swipe" class="row">
+									<div id="swipe"><div class="row">
 <div class="col-xs-6"><p><a href="informatique.php">01101</a> - <a id="page-precedente" href="hop.php">hop</a></p></div>
 <div class="col-xs-6">
 			<p align="right"><span class="hidden-xs"><a href="racket.php">racket</a> - </span><a id="page-suivante" href="../science/science.php">e^(i.pi)+1=0</a></p>
 </div>
-<p class="numero-page">page 22</p>	
-<br><br>  
-</div>			
+</div><div class="row"><p class="numero-page">page 22</p>	
+  
+</div></div>			
 			
             </div></div>
             <!--/.row-->

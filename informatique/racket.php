@@ -302,14 +302,14 @@ Et cliquez sur le bouton <i>Exécuter</i>.</p>
 
 <p><br></p>
 							   				  
-												<div id="swipe" class="row">
+												<div id="swipe"><div class="row">
 <div class="col-xs-9"><p><a href="informatique.php">01101</a> - <a href="hop.php">hop</a> - <a id="page-precedente" href="wescheme.php">wescheme</p></div>
 <div class="col-xs-3">
 			<p align="right"><a id="page-suivante" href="../science/science.php">e^(i.pi)+1=0</a></p>
 			</div>
-			<p class="numero-page">page 23</p>	
-<br><br> 
-</div>
+			</div><div class="row"><p class="numero-page">page 23</p>	
+ 
+</div></div>
 			
 
 

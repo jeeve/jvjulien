@@ -63,13 +63,13 @@
 <div class="col-xs-12 col-sm-12 col-md-11 fond">
 
 <br><br>
-<div id="swipe" class="row">
+<div id="swipe"><div class="row">
 <div class="col-xs-4"><p><a id="page-precedente" href="loire.php">au fil de l'eau</a></p></div>
 <div class="col-xs-8"><p align="right"><a id="page-suivante" href="../foret/foret.php">peuple végétal</a></p>
 </div>
-<p class="numero-page">page 8</p>	
-<br><br>
-</div>
+</div><div class="row"><p class="numero-page">page 8</p>	
+
+</div></div>
 
 
                <!-- /.col-xs-12 main -->

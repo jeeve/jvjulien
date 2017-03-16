@@ -185,14 +185,14 @@
 				  
 				  
 			<br>
-			<div id="swipe" class="row">
+			<div id="swipe"><div class="row">
 <div class="col-xs-3"><p><a id="page-precedente" href="sensations.php">sensations</a></p></div>
 <div class="col-xs-9">
 			<p align="right"><a id="page-suivante" href="lac-lery-poses.php">lac de Léry poses</a> - <a href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
 			</div>
-			<p class="numero-page">page 13</p>	
-<br><br> 
-</div>
+			</div><div class="row"><p class="numero-page">page 13</p>	
+
+</div></div>
 			
 
             </div>

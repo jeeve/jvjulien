@@ -27,7 +27,7 @@
 				  <iframe width='700' height='600' scrolling="auto"  frameborder='0' src='https://spreadsheets.google.com/pub?hl=en&hl=en&key=0AuCzPUwvQHBydGRnSHRTdGEzZXJyTWc3RWFrOWJKSnc&single=true&gid=0&output=html&widget=true'></iframe>
 
 <br><br>
-<div id="swipe" class="row">
+<div id="swipe"><div class="row">
 <div class="col-xs-4"><p><a id="page-precedente" href="../a-propos/a-propos.php">à propos...</a></p></div>
 <div class="col-xs-8">
 <p align="right">n'hésitez pas à vous abonner via le <a rel="alternate" type="application/rss+xml" href="../news.xml" target="_blank">flux RSS 
@@ -35,9 +35,9 @@
 merci de votre visite, à bientôt...
 </p>
 </div>
-<p class="numero-page">page 26</p>	
-<br><br>
-</div>
+</div><div class="row"><p class="numero-page">page 26</p>	
+
+</div></div>
 
 
 

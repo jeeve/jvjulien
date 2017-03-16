@@ -138,14 +138,14 @@
 					Modèle .blend</a> (28 Mo)</em></font></p>  
 				
 <br>
-<div id="swipe" class="row">
+<div id="swipe"><div class="row">
 <div class="col-xs-4"><p><a id="page-precedente" href="../loire/loire.php">au fil de l'eau</a></p></div>
 <div class="col-xs-8">				  
 <p align="right"><a id="page-suivante" href="diapo.php">rencontres végétales</a> - <a href="../impressions/impressions.php">impressions</a></p>
 </div>
-<p class="numero-page">page 9</p>	
-<br><br>
-</div>
+</div><div class="row"><p class="numero-page">page 9</p>	
+
+</div></div>
 
 			  
 			  

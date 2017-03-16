@@ -272,14 +272,14 @@ De l'atelier et d'autres que je connais...
 		
 			   				  
 			<br><br>
-			<div id="swipe" class="row">
+			<div id="swipe"><div class="row">
 <div class="col-xs-4"><p><a id="page-precedente" href="../emotions/emotions.php">émotions</a></p></div>
 <div class="col-xs-8">
 			<p align="right"><a id="page-suivante" href="ncis.php">NCIS</a> - <a href="../reflexions/reflexions.php">?!?</a></p>
 			</div>
-			<p class="numero-page">page 17</p>	
-<br><br> 
-			</div>
+			</div><div class="row"><p class="numero-page">page 17</p>	
+ 
+			</div></div>
 			
 			
  
