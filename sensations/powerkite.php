@@ -72,10 +72,10 @@
 			<div class="col-xs-9"><p><a href="sensations.php">sensations</a> - <a href="windsurf-kitesurf.php.php">windsurf / kitesurf</a> - <a id="page-precedente" href="lac-lery-poses.php">lac de Léry Poses</a></p></div>
 <div class="col-xs-3">
 			<p align="right"><a id="page-suivante" href="../emotions/emotions.php">émotions</a></p>
-			</div>
+			</div></div>
 			<div class="row">
 			<p class="numero-page">page 15</p></div></div>
-</div>
+
 						
 
 

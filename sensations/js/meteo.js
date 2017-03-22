@@ -7,8 +7,8 @@ function getMeteo() {
 		}).then(function(data) {
 			$('#vitesse-vent').html(data.vitesseVent);
 			$('#orientation-vent').html(data.orientationVent);
-			$('#temperature-air').html(data.temperatureAir);
-			$('#temperature-eau').html(data.temperatureEau);
+			$('#temperature-air').html(data.temperatureExterieure);
+			$('#temperature-eau').html(data.temperatureInterieure);
 			});
 }
 
