@@ -57,7 +57,6 @@
                      </div>
                   </div>
                   <br><br><br>			  
-                  <br>
 				  
                   <h2>Prévisions méteo</h2>
 				  <div class="row">
@@ -65,7 +64,7 @@
 						<a href="https://www.windguru.cz/4864" target="_blank"><img class="ombre-image" src="images/logo-windguru.gif"></a>
 					</div>
 					<div class="hidden-xs col-sm-12">
-						<iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="510" height="230" frameborder="0" style="overflow-x: auto; overflow-y: auto; margin-left: 5px;"></iframe>
+						<iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="520" height="230" frameborder="0" style="overflow-x: auto; overflow-y: auto; margin-left: 5px;"></iframe>
 					</div>
 				  </div>
 					
@@ -81,7 +80,7 @@
 				</div>	
 				  		
                   <br>
-                  <br>
+
                   <h2>Archives webcam</h2>
                   <form id="datetimeform">
                      
