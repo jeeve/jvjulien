@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /science/science.php
 Disallow: /informatique/lothop.php
 Disallow: /informatique/twithop.php
 Disallow: /informatique/wescheme.php
