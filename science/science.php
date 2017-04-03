@@ -118,7 +118,7 @@
                                  <table class="table-interne">
                                     <tr>
                                        <td colspan="2">
-                                          <p><a name="fractal"></a>Une autre illustration mais sans les cacahuètes. A regarder jusqu'à la fin...<br><br>
+                                          <p><a name="mouvement-perpetuel-fin"></a><a name="fractal"></a>Une autre illustration mais sans les cacahuètes. A regarder jusqu'à la fin...<br><br>
 										  <p align="center">
 											<img src="images/fractal.gif" width=250 height=250 class="ombre-image">	
 											</p>
@@ -140,6 +140,7 @@
                                  </table>
                               </td>
                            </tr>
+						   <!--
                            <tr>
                               <td>
                                  <table class="table-interne">
@@ -168,7 +169,8 @@
                                     </tr>
                                  </table>
                               </td>
-                           </tr>							   
+                           </tr>	
+							-->
                         </table>
 
 						<a name="miroir-paradoxe"></a>
