@@ -5,8 +5,14 @@ function getMeteo() {
 			crossDomain: true,
 			dataType: 'json'
 		}).then(function(data) {
-			var vitesse = parseFloat(data.vitesseVent.substring(0, data.vitesseVent.indexOf(" "))) * 0.539957; // conversion en Noeuds
-			$('#vitesse-vent').html(vitesse.toFixed(1) + ' N');
+			if (data.vitesseVent != '') {
+				var vitesse = parseFloat(data.vitesseVent.substring(0, data.vitesseVent.indexOf(' '))) * 0.539957; // conversion en Noeuds
+				$('#vitesse-vent').html(vitesse.toFixed(1) + ' N');
+			}
+			else
+			{
+				$('#vitesse-vent').html('');
+			}
 			$('#orientation-vent').html(data.orientationVent);
 			$('#temperature-air').html(data.temperatureExterieure);
 			});
