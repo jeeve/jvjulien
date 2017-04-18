@@ -5,10 +5,10 @@ function getMeteo() {
 			crossDomain: true,
 			dataType: 'json'
 		}).then(function(data) {
-			$('#vitesse-vent').html(data.vitesseVent);
+			var vitesse = parseFloat(data.vitesseVent.substring(0, data.vitesseVent.indexOf(" "))) * 0.539957; // conversion en Noeuds
+			$('#vitesse-vent').html(vitesse.toFixed(1) + ' N');
 			$('#orientation-vent').html(data.orientationVent);
 			$('#temperature-air').html(data.temperatureExterieure);
-			$('#temperature-eau').html(data.temperatureInterieure);
 			});
 }
 

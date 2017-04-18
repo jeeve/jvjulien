@@ -36,18 +36,20 @@
 						<td><p>Température de l'air </p></td>
 						<td><p id="temperature-air"></p></td>
 					</tr>
+					<!--
 					<tr>
 						<td><p>Température de l'eau </p></td>
 						<td><p id="temperature-eau"></p></td>
 					</tr>			
+					-->
 				</table>
 			  
 				  </div>
-                  <p class="legende">En direct du lac de Léry-Poses (<a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés - association WLPA</a>)
+                  <p class="legende">En direct du lac de Léry-Poses <a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés - association WLPA <img src="images/logo-windsurf-lery-poses.jpg"></a>
                   </p>
                   
 				  
-				  <br><br><br>
+				  <br><br>
                   <div class="row">
                      <div class="col-xs-12 col-sm-2"></div>
                      <div class="col-xs-12 col-sm-8">
@@ -56,7 +58,7 @@
                         </div>
                      </div>
                   </div>
-                  <br><br><br>			  
+                  <br><br>			  
 				  
                   <h2>Prévisions méteo</h2>
 				  <div class="row">
@@ -81,7 +83,7 @@
 				  		
                   <br>
 
-                  <h2>Archives webcam</h2>
+                  <h2>Historique</h2>
                   <form id="datetimeform">
                      
                         <div><p><label for="ma-date">Date (JJ-MM-AAAA)</label><input id="ma-date" type="text" name="date" value="25-02-2017"></input></p></div>
