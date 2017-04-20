@@ -4,7 +4,7 @@ function traduireEnFr(texte)
 	
 		$.ajax({
 			async: false,
-			url: "https://watson-api-explorer.mybluemix.net/language-translation/api/v2/translate?source=en&target=fr&text=" + texte
+			url: "https://watson-api-explorer.mybluemix.net/language-translator/api/v2/translate?source=en&target=fr&text=" + texte
 		}).then(function(data) {
 			traduction = data;
 		});
@@ -16,7 +16,7 @@ $(document).ready(function(){
 	$("#btn").click(function() {
 		var texte = document.getElementById("texte").value;
 		$.ajax({
-			url: "https://watson-api-explorer.mybluemix.net/language-translation/api/v2/translate?source=en&target=fr&text=" + texte
+			url: "https://watson-api-explorer.mybluemix.net/language-translator/api/v2/translate?source=en&target=fr&text=" + texte
 		}).then(function(data) {
 		$('#traduction').text(data);
 	})});
