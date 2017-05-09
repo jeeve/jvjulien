@@ -90,12 +90,13 @@
                         <div><p><label for="mon-heure1">entre <span style="color:grey">(HH:MM)</span></label><input id="mon-heure1" type="text" name="heure1" value="12:00"></input></p></div>
                         <div><p><label for="mon-heure2">et <span style="color:grey">(HH:MM)</span></label><input id="mon-heure2" type="text" name="heure2" value="17:00"></input></p></div>
                         <div><p><label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="30"></input> minutes
-                        <button type="button" onclick="getpicture()">Afficher</button></p></div>
+                        <button type="button" onclick="getHistorique()">Afficher</button></p></div>
                 
                   </form>
                   <br>
 				  <div id="historique-vent"></div>
 				  <div id="rose-vent"></div>
+				  <div class="legende"><p><em>données issues du site <a href="http://mywindstats.com">mywindstats.com</a></em></p></div>
                   <div id="pictureform">
                   </div>
                   <br><br>
@@ -128,9 +129,13 @@
          var mois    = hier.getMonth() + 1;
          var jour    = hier.getDate();
          $("#ma-date").attr("value", jour + "-" + mois + "-" + annee);
-		 getHistoriqueVent();
-		 getpicture();
+		 getHistorique();
          });
+		 
+		 function getHistorique() {
+			getHistoriqueVent();
+			getpicture();
+		 }
       </script>
 	  <script type="text/javascript" src="js/meteo.js"></script>
 	  <script type="text/javascript" src="js/historique-vent.js"></script>
