@@ -94,10 +94,15 @@
                 
                   </form>
                   <br>
-				  <div id="historique-vent"></div>
-				  <div id="rose-vent"></div>
+				  
+				  <div class="row">
+					<div class="col-xs-12 col-md-6 fond" id="historique-vent"></div>
+					<div class="col-xs-12 col-md-6 fond" id="rose-vent"></div>
+				  </div>	
+				  
 				  <div class="legende"><p><em>données issues du site <a href="http://mywindstats.com">mywindstats.com</a></em></p></div>
-                  <div id="pictureform">
+                  
+				  <div id="pictureform">
                   </div>
                   <br><br>
 				  <div id="swipe">
