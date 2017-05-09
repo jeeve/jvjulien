@@ -94,6 +94,8 @@
                 
                   </form>
                   <br>
+				  <div id="historique-vent"></div>
+				  <div id="rose-vent"></div>
                   <div id="pictureform">
                   </div>
                   <br><br>
@@ -126,10 +128,12 @@
          var mois    = hier.getMonth() + 1;
          var jour    = hier.getDate();
          $("#ma-date").attr("value", jour + "-" + mois + "-" + annee);
+		 getHistoriqueVent();
 		 getpicture();
          });
       </script>
 	  <script type="text/javascript" src="js/meteo.js"></script>
+	  <script type="text/javascript" src="js/historique-vent.js"></script>
       <script type="text/javascript" src="js/imagebankleryposes.js"></script>	
    </body>
 </html>
