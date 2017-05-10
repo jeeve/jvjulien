@@ -100,7 +100,7 @@
 					<div class="col-xs-12 col-md-6 fond" id="rose-vent"></div>
 				  </div>	
 				  
-				  <div class="legende"><p><em><font size="2">données issues du site <a href="http://mywindstats.com">mywindstats.com</a></font></em></p></div>
+				  <div class="legende"><p><em><font size="2">graphiques issus du site <a href="http://mywindstats.com">mywindstats.com</a></font></em></p></div>
                   
 				  <div id="pictureform">
                   </div>
