@@ -108,7 +108,7 @@
 				  <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x600&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="600" frameborder="0" style="margin-left: -5px; margin-top: -5px;"></iframe>
 				  </div>
 				  </p>
-				  <p class="legende">En direct du <a href="lac-lery-poses.php">lac de Léry Poses</a>
+				  <p class="legende">En direct du <a href="lac-lery-poses.php">lac de Léry-Poses</a>
 				  </p>
 				</div>
 				</div>	
@@ -188,7 +188,7 @@
 			<div id="swipe"><div class="row">
 <div class="col-xs-3"><p><a id="page-precedente" href="sensations.php">sensations</a></p></div>
 <div class="col-xs-9">
-			<p align="right"><a id="page-suivante" href="lac-lery-poses.php">lac de Léry poses</a> - <a href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
+			<p align="right"><a id="page-suivante" href="lac-lery-poses.php">lac de Léry-Poses</a> - <a href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
 			</div>
 			</div><div class="row"><p class="numero-page">page 13</p>	
 

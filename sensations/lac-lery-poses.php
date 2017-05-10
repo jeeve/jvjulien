@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
    <head>
-      <title>lac de Léry Poses</title>
+      <title>lac de Léry-Poses</title>
       <META NAME="Description" CONTENT="Le lac de Léry Poses avec webcam, archives, météo en temps réel et prévisitions, lien vers l'association WLPA."/>
 	  <?php include("../includes/header.php"); ?>	
 	<link href="css/lac-lery-poses.css" rel="stylesheet">
@@ -16,7 +16,7 @@
                <?php include("../includes/sidebar.php"); ?>		
                <!-- main area -->
                <div class="col-xs-12 col-sm-12 col-md-9 fond">
-                  <h1>lac de Léry Poses</h1>
+                  <h1>lac de Léry-Poses</h1>
                   <br>
                   <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
                      <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=1024x768&amp;compression=30&amp;camera=1" scrolling="no" width="1024" height="768" frameborder="0"></iframe>                  
@@ -100,7 +100,7 @@
 					<div class="col-xs-12 col-md-6 fond" id="rose-vent"></div>
 				  </div>	
 				  
-				  <div class="legende"><p><em>données issues du site <a href="http://mywindstats.com">mywindstats.com</a></em></p></div>
+				  <div class="legende"><p><em><font size="2">données issues du site <a href="http://mywindstats.com">mywindstats.com</a></font></em></p></div>
                   
 				  <div id="pictureform">
                   </div>
