@@ -7,7 +7,7 @@ function getMeteo() {
 		}).then(function(data) {
 			if (data.vitesseVent != '') {
 				var vitesse = parseFloat(data.vitesseVent.substring(0, data.vitesseVent.indexOf(' '))) * 0.539957; // conversion en Noeuds
-				$('#vitesse-vent').html(vitesse.toFixed(1) + ' N');
+				$('#vitesse-vent').html(vitesse.toFixed(1) + ' n');
 			}
 			else
 			{
