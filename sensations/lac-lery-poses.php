@@ -63,9 +63,9 @@
 						
 						<div class="col-xs-12 col-sm-6 fond">
 							<a href="images/spots-lery-poses.jpg" target="_blank">
-							<img src="images/spots-lery-poses.jpg" class="img-responsive ombre-image" alt="Les spots en fonction du vent" title="Les spots en fonction du vent">
+							<img src="images/spots-lery-poses.jpg" class="img-responsive ombre-image" alt="Les mises à l'eau en fonction du vent" title="Les mises à l'eau en fonction du vent">
 							</a>
-							<p class="legende">Les spots</p>
+							<p class="legende">Les mises à l'eau</p>
 						</div>
                     
                   </div>
