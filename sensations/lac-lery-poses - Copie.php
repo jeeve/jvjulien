@@ -4,6 +4,7 @@
       <title>lac de Léry-Poses</title>
       <META NAME="Description" CONTENT="Le lac de Léry Poses avec webcam, archives, météo en temps réel et prévisitions, lien vers l'association WLPA."/>
 	  <?php include("../includes/header.php"); ?>	
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">	
 	<link href="css/lac-lery-poses.css" rel="stylesheet">
    </head>
    <body>
@@ -69,7 +70,6 @@
 						</div>
                     
                   </div>
-
                   <br><br>			  
 				  
                   <h2>Prévisions méteo</h2>
@@ -140,14 +140,39 @@
       </div>
       <!--/.page-container-->
       <?php include("../includes/footer.php"); ?>	
+	  <script src="js/jquery-ui.min.js"></script>
       <script> 
          $(document).ready(function($) {
-         var hier = new Date(new Date().setDate(new Date().getDate()-1));
+
+		 var hier = new Date(new Date().setDate(new Date().getDate()-1));
          var annee   = hier.getFullYear();
          var mois    = hier.getMonth() + 1;
          var jour    = hier.getDate();
-         $("#ma-date").attr("value", jour + "-" + mois + "-" + annee);
-		 getHistorique();
+		 annee = annee.toString();
+		 mois = mois.toString();
+		 jour = jour.toString();
+		 if (mois.length == 1) {
+			 mois = "0" + mois;
+		 }
+		 if (jour.length == 1) {
+			 jour = "0" + jour;
+		 }
+		 	 	 		 
+		// $( function() {
+		//	$( "#ma-date" ).datepicker();
+			//$( "#ma-date" ).datepicker("option", "dateFormat", "dd/mm/yy");
+			
+    $(function() {
+            $( "#ma-date" ).datepicker({dateFormat:"dd-mm-yy",minDate:"2015-04-13",changeMonth:true,changeYear:true});
+			$( "#ma-date" ).datepicker( "setDate", jour + "/" + mois + "/" + annee);
+
+	});
+
+		// } );
+		// $( "#ma-date" ).datepicker( "setDate", mois + "/" + jour + "/" + annee);
+	//	 $("#ma-date").attr("value", mois + "/" + jour + "/" + annee);
+		 
+		// getHistorique();
          });
 		 
 		 function getHistorique() {
