@@ -130,11 +130,13 @@
 				  <p>
 				  <a href="https://goo.gl/forms/ZlDIbV7DJhXjArND3" target="_blank"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Poster un commentaire</a> 
 				  </p>
+				  
 				   <br>
-				  
-				  <iframe src="https://docs.google.com/spreadsheets/d/14ingx-uSWeFrR6RkySkzrlZhiCBjYO6mr9I3zo_k_sE/pubhtml?gid=1124469958&amp;single=true&amp;widget=true&amp;headers=false" width='700' height='600' scrolling="auto"  frameborder='0'></iframe>
-				  
-				  <br><br>
+				  <div class="hidden-xs">
+					<iframe src="https://docs.google.com/spreadsheets/d/14ingx-uSWeFrR6RkySkzrlZhiCBjYO6mr9I3zo_k_sE/pubhtml?gid=1124469958&amp;single=true&amp;widget=true&amp;headers=false" width='700' height='600' scrolling="auto"  frameborder='0'></iframe>
+					<br>
+				  </div>
+				  <br>
 				  
 				  <div id="swipe">
 					<div class="row">
