@@ -26,10 +26,11 @@ function getHistoriqueVent() {
 	
 	$.get("https://meteo-station.herokuapp.com/historique.php?graph=vitesse&date=" + curdate + "&heure-debut=" + heure1 + "&heure-fin=" + heure2, function(data) {
 		$("#historique-vent").html('<a href="' + data + '" target=_blank"><img src="' + data + '" class="img-responsive ombre-image"></a>'); 
-		});
-		
+	
 	$.get("https://meteo-station.herokuapp.com/historique.php?graph=rose&date=" + curdate + "&heure-debut=" + heure1 + "&heure-fin=" + heure2, function(data) {
 		$("#rose-vent").html('<a href="' + data + '" target=_blank"><img src="' + data + '" class="img-responsive ombre-image"></a>'); 
-		});	
+		});			
+		
+		});
 		
 }
