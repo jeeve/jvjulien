@@ -18,6 +18,11 @@
                <!-- main area -->
                <div class="col-xs-12 col-sm-12 col-md-9 fond">
                   <h1>lac de Léry-Poses</h1>
+				  
+				  <p>
+				  <a href="#commentaires">Un commentaire, une suggestion, un problème... <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>
+				  </p>
+				  
                   <br>
                   <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
                      <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=1024x768&amp;compression=30&amp;camera=1" scrolling="no" width="1024" height="768" frameborder="0"></iframe>                  
@@ -119,6 +124,17 @@
 				  <div id="pictureform">
                   </div>
                   <br><br>
+				  
+				  <a name="commentaires"></a>
+				  <h2>Commentaires</h2>
+				  <p>
+				  <span class="glyphicon glyphicon-edit" aria-hidden="true"></span> <a href="https://goo.gl/forms/ZlDIbV7DJhXjArND3" target="_blank">Poster une commentaire</a> 
+				  </p>
+				  
+				  <iframe src="https://docs.google.com/spreadsheets/d/14ingx-uSWeFrR6RkySkzrlZhiCBjYO6mr9I3zo_k_sE/pubhtml?gid=1124469958&amp;single=true&amp;widget=true&amp;headers=false" width='700' height='600' scrolling="auto"  frameborder='0'></iframe>
+				  
+				  <br><br>
+				  
 				  <div id="swipe">
 					<div class="row">
 						<div class="col-xs-5">
