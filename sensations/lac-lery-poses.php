@@ -158,11 +158,8 @@
 			 jour = "0" + jour;
 		 }
 		 	 
-		$(function() {
             $( "#ma-date" ).datepicker({dateFormat:"dd/mm/yy",minDate:"13/04/2015",maxDate:new Date(),changeMonth:true,changeYear:true});
-			$( "#ma-date" ).datepicker( "setDate", jour + "/" + mois + "/" + annee);
-
-		});		 
+			$( "#ma-date" ).datepicker( "setDate", jour + "/" + mois + "/" + annee); 
 		 
 		 getHistorique();
          });
