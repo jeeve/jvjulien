@@ -4,8 +4,7 @@
       <title>lac de Léry-Poses</title>
       <META NAME="Description" CONTENT="Le lac de Léry Poses avec webcam, archives, météo en temps réel et prévisitions, lien vers l'association WLPA."/>
 	  <?php include("../includes/header.php"); ?>	
-	  <link rel="stylesheet" href="css/jquery-ui.min.css">
-	  <link href="css/lac-lery-poses.css" rel="stylesheet">
+	<link href="css/lac-lery-poses.css" rel="stylesheet">
    </head>
    <body>
       <div class="page-container">
@@ -141,7 +140,6 @@
       </div>
       <!--/.page-container-->
       <?php include("../includes/footer.php"); ?>	
-	  <script src="js/jquery-ui.min.js"></script>	  
       <script> 
          $(document).ready(function($) {
          var hier = new Date(new Date().setDate(new Date().getDate()-1));
@@ -157,13 +155,8 @@
 		 if (jour.length == 1) {
 			 jour = "0" + jour;
 		 }
-		 	 
-		$(function() {
-            $( "#ma-date" ).datepicker({dateFormat:"dd/mm/yy",minDate:"13/04/2015",maxDate:new Date(),changeMonth:true,changeYear:true});
-			$( "#ma-date" ).datepicker( "setDate", jour + "/" + mois + "/" + annee);
-
-		});		 
 		 
+         $("#ma-date").attr("value", jour + "/" + mois + "/" + annee);
 		 getHistorique();
          });
 		 

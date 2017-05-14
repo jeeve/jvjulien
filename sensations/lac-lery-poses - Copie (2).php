@@ -4,8 +4,7 @@
       <title>lac de Léry-Poses</title>
       <META NAME="Description" CONTENT="Le lac de Léry Poses avec webcam, archives, météo en temps réel et prévisitions, lien vers l'association WLPA."/>
 	  <?php include("../includes/header.php"); ?>	
-	  <link rel="stylesheet" href="css/jquery-ui.min.css">
-	  <link href="css/lac-lery-poses.css" rel="stylesheet">
+	<link href="css/lac-lery-poses.css" rel="stylesheet">
    </head>
    <body>
       <div class="page-container">
@@ -100,7 +99,7 @@
                   <h2>Historique</h2>
                   <form id="datetimeform">
                      
-                        <div><p><label for="ma-date">Date <span style="color:grey">(JJ/MM/AAAA)</span></label><input id="ma-date" type="text" name="date" value="25/02/2017"></input></p></div>
+                        <div><p><label for="ma-date">Date <span style="color:grey">(JJ-MM-AAAA)</span></label><input id="ma-date" type="text" name="date" value="25-02-2017"></input></p></div>
                         <div><p><label for="mon-heure1">entre <span style="color:grey">(HH:MM)</span></label><input id="mon-heure1" type="text" name="heure1" value="12:00"></input></p></div>
                         <div><p><label for="mon-heure2">et <span style="color:grey">(HH:MM)</span></label><input id="mon-heure2" type="text" name="heure2" value="17:00"></input></p></div>
                         <div><p><label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="30"></input> minutes
@@ -141,29 +140,13 @@
       </div>
       <!--/.page-container-->
       <?php include("../includes/footer.php"); ?>	
-	  <script src="js/jquery-ui.min.js"></script>	  
       <script> 
          $(document).ready(function($) {
          var hier = new Date(new Date().setDate(new Date().getDate()-1));
          var annee   = hier.getFullYear();
          var mois    = hier.getMonth() + 1;
          var jour    = hier.getDate();
-		 annee = annee.toString();
-		 mois = mois.toString();
-		 jour = jour.toString();
-		 if (mois.length == 1) {
-			 mois = "0" + mois;
-		 }
-		 if (jour.length == 1) {
-			 jour = "0" + jour;
-		 }
-		 	 
-		$(function() {
-            $( "#ma-date" ).datepicker({dateFormat:"dd/mm/yy",minDate:"13/04/2015",maxDate:new Date(),changeMonth:true,changeYear:true});
-			$( "#ma-date" ).datepicker( "setDate", jour + "/" + mois + "/" + annee);
-
-		});		 
-		 
+         $("#ma-date").attr("value", jour + "-" + mois + "-" + annee);
 		 getHistorique();
          });
 		 

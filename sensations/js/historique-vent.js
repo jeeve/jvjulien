@@ -2,7 +2,7 @@
 function getHistoriqueVent() {
 	
 	var dateFrancaise = document.getElementById("datetimeform")[0].value;
-	var decompositionDate = dateFrancaise.split('-');
+	var decompositionDate = dateFrancaise.split('/');
 	
 	if (decompositionDate[1].length == 1) {
 		decompositionDate[1] = "0" + decompositionDate[1];
