@@ -17,12 +17,18 @@
                <?php include("../includes/sidebar.php"); ?>		
                <!-- main area -->
                <div class="col-xs-12 col-sm-12 col-md-9 fond">
+			   
+			    <div class="row">
+				<div class="col-xs-4">
                   <h1>lac de Léry-Poses</h1>
-				  
-				  <p>
+				</div>
+				<div class="col-xs-8">	
+				  <p style="text-align:right;">
 				  <a href="#commentaires">Un commentaire sur cette page, une suggestion, un problème... <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>
 				  </p>
-				  
+				 </div>
+				</div> 
+				 
                   <br>
                   <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
                      <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=1024x768&amp;compression=30&amp;camera=1" scrolling="no" width="1024" height="768" frameborder="0"></iframe>                  
@@ -79,10 +85,12 @@
                   <br><br>			  
 				  
                   <h2>Prévisions méteo</h2>
+				  
+				  <!--
 				  <p>
 				  <a style="margin-left: 5px;" href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforcast</a>	
 				  </p>
-				  
+				  -->
 				  <div class="row">	
 					<!--
 					<div class="visible-xs col-xs-12 fond" style="margin-left: 5px;">
