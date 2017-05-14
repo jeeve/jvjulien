@@ -20,7 +20,7 @@
                   <h1>lac de Léry-Poses</h1>
 				  
 				  <p>
-				  <a href="#commentaires">Un commentaire, une suggestion, un problème... <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>
+				  <a href="#commentaires">Un commentaire sur cette page, une suggestion, un problème... <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>
 				  </p>
 				  
                   <br>
@@ -128,7 +128,8 @@
 				  <a name="commentaires"></a>
 				  <h2>Commentaires</h2>
 				  <p>
-				  <span class="glyphicon glyphicon-edit" aria-hidden="true"></span> <a href="https://goo.gl/forms/ZlDIbV7DJhXjArND3" target="_blank">Poster un commentaire</a> 
+				  <a href="https://goo.gl/forms/ZlDIbV7DJhXjArND3" target="_blank"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Poster un commentaire</a> 
+				  <br>
 				  </p>
 				  
 				  <iframe src="https://docs.google.com/spreadsheets/d/14ingx-uSWeFrR6RkySkzrlZhiCBjYO6mr9I3zo_k_sE/pubhtml?gid=1124469958&amp;single=true&amp;widget=true&amp;headers=false" width='700' height='600' scrolling="auto"  frameborder='0'></iframe>
