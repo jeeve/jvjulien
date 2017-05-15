@@ -30,7 +30,7 @@
 				</div> 
 				 
                   <br>
-                  <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
+                  <div id="webcam" class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
                      <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=1024x768&amp;compression=30&amp;camera=1" scrolling="no" width="1024" height="768" frameborder="0"></iframe>                  
 				  
 				  <div id="fond-meteo"></div>
@@ -176,6 +176,7 @@
 	  <script src="js/jquery-ui.min.js"></script>	  
       <script> 
          $(document).ready(function($) {
+			 tailleWebcam();
          var hier = new Date(new Date().setDate(new Date().getDate()-1));
          var annee   = hier.getFullYear();
          var mois    = hier.getMonth() + 1;
@@ -196,9 +197,40 @@
 		 getHistorique();
          });
 		 
+		 function tailleWebcam() {
+			 var largeurWebcam = $('#webcam').width();
+			 //var sX = largeurWebcam.toString();
+			 //var sY = parseInt(largeurWebcam*3/4).toString();
+			 console.log(largeurWebcam);
+			 //console.log(sX);
+			 //console.log(sY);
+			 sX = '1024';
+			 sY = '768';
+			 
+			 if (jQuery.support.touch) {
+
+			 if (largeurWebcam <= 800) {
+				sX = '640';
+				sY = '480';
+			 }
+			 if (largeurWebcam <= 400) {
+				sX = '320';
+				sY = '240';
+			 }
+			 
+			}
+			
+			 $('#WLPVantagePro').attr('src', 'http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=' + sX + 'x' + sY + '&amp;compression=30&amp;camera=1');		 
+		 }
+		 
 		 function getHistorique() {
 			getHistoriqueVent();
 			getpicture();
+			
+		 $(window).resize(function(){
+			 tailleWebcam();
+		 });
+		 
 		 }
       </script>
 	  <script type="text/javascript" src="js/meteo.js"></script>
