@@ -209,7 +209,7 @@
 			 
 			 if (jQuery.support.touch) {
 
-			 if (largeurWebcam <= 800) {
+			 if (largeurWebcam <= 640) {
 				sX = '640';
 				sY = '480';
 			 }
