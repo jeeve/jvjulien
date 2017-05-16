@@ -26,7 +26,7 @@ label {
 }
 
 #webcam {
-	position:relative;
+	position: relative;
 }
 
 #fond-meteo {
@@ -38,7 +38,7 @@ label {
 	filter: alpha(opacity=50);
 	-moz-opacity: 0.5;
 	opacity: 0.5;		
-}	
+}
 
 #meteo {
 	position: absolute;
@@ -47,4 +47,10 @@ label {
 
 #meteo td p {
 	margin-bottom: 0;
+}
+
+#meteo-small {
+	position: absolute;
+	bottom: 0px;	
+	font-size: 65%;
 }

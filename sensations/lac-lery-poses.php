@@ -34,6 +34,8 @@
 					<a href="http://meteocamtroislacs.dtdns.net/view/viewer_index.shtml?id=28442" target="_blank">
                      <img src="http://meteocamtroislacs.dtdns.net/mjpg/video.mjpg" width="1024px" height="576px" class="img-responsive ombre-image">                  
 					</a> 
+					
+					<div class="hidden-xs">
 				  
 				  <div id="fond-meteo"></div>
 				  
@@ -57,6 +59,21 @@
 					</tr>			
 					-->
 				</table>
+				  </div>
+				  
+				  <div class="visible-xs">
+				  <table id="meteo-small">
+					<tr>
+						<td><p>Vitesse vent </p></td>
+						<td><p id="vitesse-vent"></p></td>
+						<td><p>Orientation vent </p></td>
+						<td><p id="orientation-vent"></p></td>
+						<td><p>Température air </p></td>
+						<td><p id="temperature-air"></p></td>
+					</tr>
+				</table>				  
+				  </div>
+				  
 				  </div>
 				  
                   <p class="legende">En direct du lac de Léry-Poses <a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés - association WLPA <img src="images/logo-windsurf-lery-poses.jpg"></a>
