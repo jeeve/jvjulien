@@ -24,14 +24,16 @@ label {
 	float: left;
 	font-weight: normal;
 }
-
-#webcam {
-	position:relative;
+	
+#WLPVantagePro {
+	margin-left: -4px; 
+	margin-top: -4px;
 }
-
+	
 #fond-meteo {
 	position: absolute;
-	bottom: 0px;	
+	left: 4px;
+	bottom: 4px;
 	background-color: white;
 	width: 245px;
 	height: 90px;
@@ -42,7 +44,8 @@ label {
 
 #meteo {
 	position: absolute;
-	bottom: 0px;
+	left: 4px;
+	bottom: 4px;
 }		
 
 #meteo td p {
