@@ -30,6 +30,11 @@
 				</div> 
 				 
                   <br>
+				  
+<?php
+if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
+    strpos($_SERVER['HTTP_USER_AGENT'], 'Trident') !== FALSE)) {				  
+?>				  
                   <div id="webcam">
 					<a href="http://meteocamtroislacs.dtdns.net/view/viewer_index.shtml?id=28442" target="_blank">
                      <img src="http://meteocamtroislacs.dtdns.net/mjpg/video.mjpg" width="1024px" height="576px" class="img-responsive ombre-image">                  
@@ -75,6 +80,42 @@
 				  </div>
 				  
 				  </div>
+<?php				  
+} else {
+?>				
+                
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
+                     <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=1024x768&amp;compression=30&amp;camera=1" scrolling="no" width="1024" height="768" frameborder="0"></iframe>                  
+                  
+				  <div id="fond-meteo-ie"></div>
+				  
+				  <table id="meteo-ie">
+					<tr>
+						<td><p>Vitesse du vent </p></td>
+						<td><p id="vitesse-vent"></p></td>
+					</tr>
+					<tr>
+						<td><p>Orientation du vent </p></td>
+						<td><p id="orientation-vent"></p></td>
+					</tr>				
+					<tr>
+						<td><p>Température de l'air </p></td>
+						<td><p id="temperature-air"></p></td>
+					</tr>
+					<!--
+					<tr>
+						<td><p>Température de l'eau </p></td>
+						<td><p id="temperature-eau"></p></td>
+					</tr>			
+					-->
+				</table>
+			  
+				  </div>
+				
+			
+<?php
+}
+?>			  
 				  
                   <p class="legende">En direct du lac de Léry-Poses <a href="http://windsurf-lery-poses.soforums.com" target="_blank">et ses passionnés - association WLPA <img src="images/logo-windsurf-lery-poses.jpg"></a>
                   </p>

@@ -29,6 +29,11 @@ label {
 	position: relative;
 }
 
+#WLPVantagePro {
+	margin-left: -4px; 
+	margin-top: -4px;
+}
+
 #fond-meteo {
 	position: absolute;
 	bottom: 0px;	
@@ -40,9 +45,27 @@ label {
 	opacity: 0.5;		
 }
 
+#fond-meteo-ie {
+	position: absolute;
+	left: 4px;
+	bottom: 4px;
+	background-color: white;
+	width: 245px;
+	height: 100px;
+	filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;		
+}	
+
 #meteo {
 	position: absolute;
 	bottom: 0px;
+}		
+
+#meteo-ie {
+	position: absolute;
+	left: 4px;
+	bottom: 4px;
 }		
 
 #meteo td p {
