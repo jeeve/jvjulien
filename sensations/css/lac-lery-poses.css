@@ -51,10 +51,10 @@ label {
 	bottom: 4px;
 	background-color: white;
 	width: 245px;
-	height: 100px;
+	height: 90px;
 	filter: alpha(opacity=50);
 	-moz-opacity: 0.5;
-	opacity: 0.5;		
+	opacity: 0.5; 		
 }	
 
 #meteo {
