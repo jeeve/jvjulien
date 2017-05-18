@@ -153,7 +153,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 						</a>	
 					</div>
 					<div class="hidden-xs col-sm-12" style="margin-left: 5px;">
-						<div class="top" id="forecast-table-demo" style="width:520px;overflow:auto;"><iframe align="top" src="https://widgets.windalert.com/widgets/web/modelTable?spot_id=33126&amp;units_wind=kts&amp;units_temp=C&amp;type=daily&amp;width=5630&amp;height=310&amp;color=f1eeee&amp;name=Poses&amp;app=windalert" width="5630" height="310" frameborder="0" scrolling="no" allowtransparency="no"></iframe></div>
+						<div class="top" id="forecast-table-demo" style="width:520px;overflow:auto;"><iframe align="top" src="https://widgets.windalert.com/widgets/web/modelTable?spot_id=33126&amp;units_wind=kts&amp;units_temp=C&amp;type=daily&amp;width=5830&amp;height=310&amp;color=f1eeee&amp;name=Poses&amp;app=windalert" width="5830" height="310" frameborder="0" scrolling="no" allowtransparency="no"></iframe></div>
 					</div>	
 				  </div>
 				  
