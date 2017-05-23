@@ -188,7 +188,9 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
                         <div><p><label for="mon-heure1">entre <span style="color:grey">(HH:MM)</span></label><input id="mon-heure1" type="text" name="heure1" value="11:00"></input></p></div>
                         <div><p><label for="mon-heure2">et <span style="color:grey">(HH:MM)</span></label><input id="mon-heure2" type="text" name="heure2" value="17:00"></input></p></div>
                         <div><p><label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="30"></input> minutes
-                        <button type="button" onclick="getHistorique()">Afficher</button></p></div>
+                        <button type="button" onclick="getHistorique()">Afficher</button>
+						<button type="button" onclick="getTimelapse()">Créer timelapse</button>
+						</p></div>
                 
                   </form>
                   <br>
@@ -287,7 +289,8 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
       </script>
 	  <script type="text/javascript" src="js/meteo.js"></script>
 	  <script type="text/javascript" src="js/historique-vent.js"></script>
-      <script type="text/javascript" src="js/imagebankleryposes.js"></script>	
+      <script type="text/javascript" src="js/imagebankleryposes.js"></script>
+	  <script type="text/javascript" src="js/timelapse.js"></script>	  
    </body>
 </html>
 
