@@ -185,7 +185,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
                   <form id="datetimeform">
                      
                         <div><p><label for="ma-date">Date <span style="color:grey">(JJ/MM/AAAA)</span></label><input id="ma-date" type="text" name="date" value="25/02/2017"></input></p></div>
-                        <div><p><label for="mon-heure1">entre <span style="color:grey">(HH:MM)</span></label><input id="mon-heure1" type="text" name="heure1" value="12:00"></input></p></div>
+                        <div><p><label for="mon-heure1">entre <span style="color:grey">(HH:MM)</span></label><input id="mon-heure1" type="text" name="heure1" value="11:00"></input></p></div>
                         <div><p><label for="mon-heure2">et <span style="color:grey">(HH:MM)</span></label><input id="mon-heure2" type="text" name="heure2" value="17:00"></input></p></div>
                         <div><p><label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="30"></input> minutes
                         <button type="button" onclick="getHistorique()">Afficher</button></p></div>
@@ -243,10 +243,13 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
       <script> 
          $(document).ready(function($) {
 
-         var hier = new Date(new Date().setDate(new Date().getDate()-1));
+         var hier = new Date(new Date().setDate(new Date().getDate()-0));
          var annee   = hier.getFullYear();
          var mois    = hier.getMonth() + 1;
          var jour    = hier.getDate();
+		 var heure2 = hier.getHours();
+		 var minute2 = hier.getMinutes();
+		 
 		 annee = annee.toString();
 		 mois = mois.toString();
 		 jour = jour.toString();
@@ -257,15 +260,29 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 			 jour = "0" + jour;
 		 }
 		 	 
-            $( "#ma-date" ).datepicker({dateFormat:"dd/mm/yy",minDate:"13/04/2015",maxDate:new Date(),changeMonth:true,changeYear:true});
-			$( "#ma-date" ).datepicker( "setDate", jour + "/" + mois + "/" + annee); 
+         $( "#ma-date" ).datepicker({dateFormat:"dd/mm/yy",minDate:"13/04/2015",maxDate:new Date(),changeMonth:true,changeYear:true});
+		 $( "#ma-date" ).datepicker( "setDate", jour + "/" + mois + "/" + annee); 
+		 
+		 if (heure2 > 18) {
+			 heure2 = 18;
+		 }
+		 heure2 = heure2.toString();
+		 minute2 = minute2.toString();
+		 if (heure2.length == 1) {
+			 heure2 = "0" + heure2;
+		 }
+		 if (minute2.length == 1) {
+			 minute2 = "0" + minute2;
+		 }
+		 
+		 $("#mon-heure2").val(heure2 + ':00');
 		 
 		 getHistorique();
          });
 		 
 		 function getHistorique() {
 			getHistoriqueVent();
-			getpicture();	 
+			getPictures();	 
 		 }
       </script>
 	  <script type="text/javascript" src="js/meteo.js"></script>

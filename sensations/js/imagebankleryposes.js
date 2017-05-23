@@ -1,5 +1,5 @@
 
-            function getpicture() {
+            function getPictures() {
                 var img_src;
 				var curdate = document.getElementById("datetimeform")[0].value;
                 var time1 = document.getElementById("datetimeform")[1].value;
@@ -41,7 +41,22 @@
 					img_src = img_src + curdate.replaceAll("/", "-");
 					img_src = img_src + "&time=" + curtime;
 					
+				var imageOK = true;	
+			/*	
+				$.ajax({
+					async: false,
+					url: img_src,
+					dataType : 'html',
+					error : function(resultat, statut, erreur){	
+						if (erreur == 500) {
+							imageOK = false;
+						}
+				});
+			*/	
+				if (imageOK) {
 					html = html + '<figure><a href=" ' + img_src + '" target="blank"><img class="img-responsive ombre-image" src="' + img_src + '"></a><div class="back"></div><figcaption><p>' + curtime + '</p></figcaption></figure>';
+				}	
+					
 					t = t + delta;	
 				}
 				node.innerHTML = html;
