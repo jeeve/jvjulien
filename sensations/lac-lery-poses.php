@@ -245,12 +245,21 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
       <script> 
          $(document).ready(function($) {
 
-         var hier = new Date(new Date().setDate(new Date().getDate()-0));
-         var annee   = hier.getFullYear();
-         var mois    = hier.getMonth() + 1;
-         var jour    = hier.getDate();
-		 var heure2 = hier.getHours();
-		 var minute2 = hier.getMinutes();
+		 var maDate;
+         var now = new Date();
+		 if (now.getHours() < 12) {
+			maDate = new Date(new Date().setDate(new Date().getDate()-1)); // hier			 
+		 }
+		 else
+		 {
+			maDate = new Date(new Date().setDate(new Date().getDate()-0)); // aujourd'hui
+		 }
+		 
+         var annee   = maDate.getFullYear();
+         var mois    = maDate.getMonth() + 1;
+         var jour    = maDate.getDate();
+		 var heure2 = maDate.getHours();
+		 var minute2 = maDate.getMinutes();
 		 
 		 annee = annee.toString();
 		 mois = mois.toString();
