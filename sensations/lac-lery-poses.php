@@ -245,10 +245,12 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
       <script> 
          $(document).ready(function($) {
 
+		 var estHier = false;
 		 var maDate;
          var now = new Date();
 		 if (now.getHours() < 12) {
-			maDate = new Date(new Date().setDate(new Date().getDate()-1)); // hier			 
+			maDate = new Date(new Date().setDate(new Date().getDate()-1)); // hier	
+			estHier = true;	
 		 }
 		 else
 		 {
@@ -274,8 +276,9 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
          $( "#ma-date" ).datepicker({dateFormat:"dd/mm/yy",minDate:"13/04/2015",maxDate:new Date(),changeMonth:true,changeYear:true});
 		 $( "#ma-date" ).datepicker( "setDate", jour + "/" + mois + "/" + annee); 
 		 
-		 if (heure2 > 18) {
-			 heure2 = 18;
+
+		 if (heure2 > 18 || estHier) {
+			heure2 = 18;
 		 }
 		 heure2 = heure2.toString();
 		 minute2 = minute2.toString();
