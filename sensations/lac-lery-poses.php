@@ -204,7 +204,16 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
                   
 				  <div id="pictureform">
                   </div>
-                  <br><br>
+                  <br>
+				  
+				  <p><em><font size="2">images issues du site <a href="http://imagebankleryposes.appspot.com/">imagebankleryposes.appspot.com</a></font></em></p>
+				  <p><em><font size="2">
+				  <ul>
+				  <li>Les données météorologiques de Léry-Poses sont issues de la sonde de "troislacs - base de loisirs"</li>
+				  <li>Les images sont issues de la caméra du Syndicat Mixte de la Base de Loisirs et Plein Air de Léry-Poses"</li>
+				  </ul>
+				  </font></em></p>
+				  				  
 				  
 				  <a name="commentaires"></a>
 				  <h2>Commentaires</h2>
@@ -217,7 +226,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 					<iframe src="https://docs.google.com/spreadsheets/d/14ingx-uSWeFrR6RkySkzrlZhiCBjYO6mr9I3zo_k_sE/pubhtml?gid=1124469958&amp;single=true&amp;widget=true&amp;headers=false" width='700' height='600' scrolling="auto"  frameborder='0'></iframe>
 					<br>
 				  </div>
-				  <br>
+				  <br>		  
 				  
 				  <div id="swipe">
 					<div class="row">
