@@ -146,40 +146,37 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  
                   <h2>Prévisions méteo</h2>
 				  
-				  <div class="row">
+		  
+				  <div class="row">				  		
+
+					<div class="hidden-xs col-sm-12" style="margin-left: 5px;">
+		
+						<div style="width:520px;overflow:auto;"><iframe align="top" src="https://widgets.windalert.com/widgets/web/modelTable?spot_id=33126&amp;units_wind=kts&amp;units_temp=C&amp;type=daily&amp;width=5830&amp;height=310&amp;color=f1eeee&amp;name=Poses&amp;app=windalert" width="5830" height="310" frameborder="0" scrolling="no" allowtransparency="no"></iframe></div>
+						<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/lake_des_deux_amants?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&columns=2&days=4&show_day=1&show_pressure=0&show_waves=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/lake_des_deux_amants?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for Lac des deux Amants</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
+						<iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="520" height="238" frameborder="0" style="overflow-x: auto; overflow-y: auto; margin-left: 5px;"></iframe>
+								
+				</div>
+						
+				</div>					  
+				
+				  
+					<div class="row">
 					<div class="visible-xs col-xs-12 fond" style="margin-left: 5px; margin-bottom:20px;">
 						<a href="http://www.windalert.com/map#49.299,2.002,9,1,!33126,2" target="_blank">
 							<img src="images/logo-windalert.jpg">
 						</a>	
 					</div>
-					<div class="hidden-xs col-sm-12" style="margin-left: 5px;">
-						<div class="top" id="forecast-table-demo" style="width:520px;overflow:auto;"><iframe align="top" src="https://widgets.windalert.com/widgets/web/modelTable?spot_id=33126&amp;units_wind=kts&amp;units_temp=C&amp;type=daily&amp;width=5830&amp;height=310&amp;color=f1eeee&amp;name=Poses&amp;app=windalert" width="5830" height="310" frameborder="0" scrolling="no" allowtransparency="no"></iframe></div>
-					</div>	
-				  </div>
-				  
-				  <div class="row">	
-					
 					<div class="visible-xs col-xs-12 fond" style="margin-left: 5px; margin-bottom:20px;">
 						<a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">
 							<img src="images/logo-windfinder.png" alt="superforecast" title="superforecast">
 						</a>	
 					</div>
-					
-					<div class="hidden-xs col-sm-12 fond" style="margin-left: 5px;">
-						<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/lake_des_deux_amants?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&columns=2&days=4&show_day=1&show_pressure=0&show_waves=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/lake_des_deux_amants?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for Lac des deux Amants</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
-					</div>
-				</div>					  
-				
-				  <div class="row">
 					<div class="col-xs-12 visible-xs fond" style="margin-left: 15px;">
 						<a href="https://www.windguru.cz/4864" target="_blank"><img class="ombre-image" src="images/logo-windguru.gif"></a>
 					</div>
-					<div class="hidden-xs col-sm-12">
-						<iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="520" height="238" frameborder="0" style="overflow-x: auto; overflow-y: auto; margin-left: 5px;"></iframe>
 					</div>
-				  </div>
-				  
-                  <br>
+					
+					<br>
 
                   <h2>Historique</h2>
                   <form id="datetimeform">
