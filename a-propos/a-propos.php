@@ -79,7 +79,7 @@ du scanner. De ce jour est né "au gré du vent 1.0".<p align="right"><em><font 
 
 		<div class="row">
 			<div class="col-xs-1 col-sm-1"></div>
-			<div class="col-xs-10 col-sm-11 fond-table encadrement-table">
+			<div class="col-xs-10 col-sm-11 fond-table encadrement-table" style="margin-left: -25px;">
 			
 			<a target="_blank" href="http://adamakis.blogspot.fr/">
 					<img style="margin: 5px" class="img-responsive ombre-image" alt="Illustration Adam Martinakis" title="Illustration Adam Martinakis" src="images/albert-einstein.jpg" align="right" border="0" ></a>
