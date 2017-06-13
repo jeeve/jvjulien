@@ -182,7 +182,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
                   <form id="datetimeform">
                      
                         <div><p><label for="ma-date">Date <span style="color:grey">(JJ/MM/AAAA)</span></label><input id="ma-date" type="text" name="date" value="25/02/2017"></input></p></div>
-                        <div><p><label for="mon-heure1">entre <span style="color:grey">(HH:MM)</span></label><input id="mon-heure1" type="text" name="heure1" value="11:00"></input></p></div>
+                        <div><p><label for="mon-heure1">entre <span style="color:grey">(HH:MM)</span></label><input id="mon-heure1" type="text" name="heure1" value="10:00"></input></p></div>
                         <div><p><label for="mon-heure2">et <span style="color:grey">(HH:MM)</span></label><input id="mon-heure2" type="text" name="heure2" value="17:00"></input></p></div>
                         <div><p><label for="mon-delta">toutes les</label><input id="mon-delta" type="text" name="delta" value="60"></input> minutes
                         <button type="button" onclick="getHistorique()">Afficher</button>
@@ -254,7 +254,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 		 var estHier = false;
 		 var maDate;
          var now = new Date();
-		 if (now.getHours() < 12) {
+		 if (now.getHours() < 11) {
 			maDate = new Date(new Date().setDate(new Date().getDate()-1)); // hier	
 			estHier = true;	
 		 }
