@@ -104,10 +104,28 @@
 
 				<a name="webcam-poses"></a>
 				  <p align="center">
+				  <!--
 				  <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
 				  <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x600&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="600" frameborder="0" style="margin-left: -5px; margin-top: -5px;"></iframe>
 				  </div>
-				  </p>
+				  -->
+<?php
+if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
+    strpos($_SERVER['HTTP_USER_AGENT'], 'Trident') !== FALSE)) {				  
+?>				  
+					<a href="http://meteocamtroislacs.dtdns.net/view/viewer_index.shtml?id=28442" target="_blank">
+                     <img src="http://meteocamtroislacs.dtdns.net/mjpg/video.mjpg" width="1024px" height="576px" class="img-responsive ombre-image">                  
+					</a> 
+<?php				  
+} else {
+?>
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
+				  <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=800x600&amp;compression=30&amp;camera=1" scrolling="no" width="800" height="600" frameborder="0" style="margin-left: -5px; margin-top: -5px;"></iframe>
+				  </div>
+<?php
+}
+?>	
+				</p>
 				  <p class="legende">En direct du <a href="lac-lery-poses.php">lac de Léry-Poses</a>
 				  </p>
 				</div>
@@ -149,6 +167,38 @@
 
 				  <br>
 				  
+				  <br><a name="lery-poses-26-05-17"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				 <iframe width="560" height="315" src="https://www.youtube.com/embed/oimKwqCOqWQ?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=180514" target="_blank">
+				  Léry-Poses, 26 mai 2017</a><br>
+				  Du soleil, du vent, du monde sur l'eau...
+				  </p>
+					</div></div>
+					
+				  <br><a name="lery-poses-16-04-17"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				 <iframe src="https://player.vimeo.com/video/213436611?title=0&byline=0&portrait=0" width="425" height="319" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=177119" target="_blank">
+				  Léry-Poses, 16 avril 2017</a><br>
+				  Test de la V8 dans le vent léger
+				  </p>
+					</div></div>	
+					
 				  <br><a name="moisson-1-10-16"></a>
 				  <div class="row">
 				  <div class="col-xs-12 col-sm-2 fond"></div>
