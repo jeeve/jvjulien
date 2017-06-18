@@ -113,7 +113,7 @@
 if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
     strpos($_SERVER['HTTP_USER_AGENT'], 'Trident') !== FALSE)) {				  
 ?>				  
-					<a href="http://meteocamtroislacs.dtdns.net/view/viewer_index.shtml?id=28442" target="_blank">
+					<a href="lac-lery-poses.php">
                      <img src="http://meteocamtroislacs.dtdns.net/mjpg/video.mjpg" width="1024px" height="576px" class="img-responsive ombre-image">                  
 					</a> 
 <?php				  
