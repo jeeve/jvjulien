@@ -1,4 +1,4 @@
-            <div class="col-xs-6 col-sm-3 sidebar-offcanvas fond" id="sidebar" role="navigation">
+            <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
                <ul class="nav" style="text-align: center">
                   <li><a href="/sommaire/sommaire.php">en route...</a></li>
                   <li><a href="/astronomie/astronomie.php">vers les étoiles</a></li>
