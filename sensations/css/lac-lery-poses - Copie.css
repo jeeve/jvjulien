@@ -1,6 +1,6 @@
 .back {
 	position: absolute;
-	top: 0px;
+	bottom: 0px;
 	background-color: white;
 	width: 50px;
 	height: 30px;
@@ -15,7 +15,7 @@ figure {
 			
 figcaption {
 	position: absolute;
-	top: 0px;
+	bottom: 0px;
 }
 
 label {
@@ -36,9 +36,9 @@ label {
 
 #fond-meteo {
 	position: absolute;
-	top: 0px;	
+	bottom: 0px;	
 	background-color: white;
-	width: 210px;
+	width: 245px;
 	height: 90px;
 	filter: alpha(opacity=50);
 	-moz-opacity: 0.5;
@@ -48,9 +48,9 @@ label {
 #fond-meteo-ie {
 	position: absolute;
 	left: 4px;
-	top: 4px;
+	bottom: 4px;
 	background-color: white;
-	width: 210px;
+	width: 245px;
 	height: 90px;
 	filter: alpha(opacity=50);
 	-moz-opacity: 0.5;
@@ -59,7 +59,7 @@ label {
 
 #meteo {
 	position: absolute;
-	top: 0px;
+	bottom: 0px;
 }		
 
 #meteo-ie {
@@ -74,6 +74,6 @@ label {
 
 #meteo-small {
 	position: absolute;
-	top: 0px;	
+	bottom: 0px;	
 	font-size: 65%;
 }
