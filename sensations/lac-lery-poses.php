@@ -91,15 +91,15 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  
 				  <table id="meteo-ie">
 					<tr>
-						<td><p>Vitesse du vent </p></td>
+						<td><p>Vitesse vent </p></td>
 						<td><p id="vitesse-vent"></p></td>
 					</tr>
 					<tr>
-						<td><p>Orientation du vent </p></td>
+						<td><p>Orientation vent </p></td>
 						<td><p id="orientation-vent"></p></td>
 					</tr>				
 					<tr>
-						<td><p>Température de l'air </p></td>
+						<td><p>Température air </p></td>
 						<td><p id="temperature-air"></p></td>
 					</tr>
 					<!--
