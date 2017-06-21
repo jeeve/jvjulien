@@ -70,11 +70,11 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  <table id="meteo-small">
 					<tr>
 						<td><p>Vitesse vent </p></td>
-						<td><p id="vitesse-vent"></p></td>
+						<td><p id="vitesse-vent-s"></p></td>
 						<td><p>Orientation vent </p></td>
-						<td><p id="orientation-vent"></p></td>
+						<td><p id="orientation-vent-s"></p></td>
 						<td><p>Température air </p></td>
-						<td><p id="temperature-air"></p></td>
+						<td><p id="temperature-air-s"></p></td>
 					</tr>
 				</table>				  
 				  </div>
