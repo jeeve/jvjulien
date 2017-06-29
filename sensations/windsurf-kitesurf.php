@@ -167,6 +167,21 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 
 				  <br>
 				  
+				  <br><a name="lery-poses-24-06-17"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/NI9sRobneb8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=183014" target="_blank">
+				  Léry-Poses, samedi 24 juin 2017</a>
+				  </p>
+				  </div></div>
+
 				  <br><a name="lery-poses-26-05-17"></a>
 				  <div class="row">
 				  <div class="col-xs-12 col-sm-2 fond"></div>
@@ -178,10 +193,10 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=180514" target="_blank">
-				  Léry-Poses, 26 mai 2017</a><br>
+				  Léry-Poses, vendredi 26 mai 2017</a><br>
 				  Du soleil, du vent, du monde sur l'eau...
 				  </p>
-					</div></div>
+				  </div></div>
 					
 				  <br><a name="lery-poses-16-04-17"></a>
 				  <div class="row">
