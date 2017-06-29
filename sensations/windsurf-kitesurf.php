@@ -178,7 +178,8 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=183014" target="_blank">
-				  Léry-Poses, samedi 24 juin 2017</a>
+				  Léry-Poses, samedi 24 juin 2017</a><br>
+				  Session sous le soleil mais le vent est resté très timide. Petits planning au début. Spéciale dédicace au teeshirt de Roger. Le canard qui m'avait doublé lors d'une précédente navigation est venu me narguer pendant que je gréais, mais une fois sur l'eau, il rigolait moins.
 				  </p>
 				  </div></div>
 
