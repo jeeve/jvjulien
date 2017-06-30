@@ -214,42 +214,8 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  Test de la V8 dans le vent léger
 				  </p>
 					</div></div>	
-					
-				  <br><a name="moisson-1-10-16"></a>
-				  <div class="row">
-				  <div class="col-xs-12 col-sm-2 fond"></div>
-				  <div class="col-xs-12 col-sm-8 fond">
-				  <p align="center">
-				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
-				  <iframe src="https://player.vimeo.com/video/185157854?title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-				  </div>
-				  </p>
-				  <p class="legende">
-					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=166772" target="_blank">
-				  Moisson, 1er octobre 2016</a><br>
-				  Rencontre d'Eric le parisien, de Philippe qui colle du scotch sur l'aileron de son camarade pour le gratter...
-				  </p>
-					</div></div>				  
-
-					
-				  <br><a name="ete-indien-poses"></a>
-				  <div class="row">
-				  <div class="col-xs-12 col-sm-2 fond"></div>
-				  <div class="col-xs-12 col-sm-8 fond">
-				  <p align="center">
-				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
-				  <iframe src="https://player.vimeo.com/video/184127513?title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-				  </div>
-				  </p>
-				  <p class="legende">
-					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=166774" target="_blank">
-				  Eté indien à Poses le 24 septembre 2016</a><br>
-				  Merci à Roger de m'avoir prêté un aileron anti-algues Gun de 36&nbsp;cm
-				  </p>
-					</div></div>				  
-				  
-				  
-				  
+									  
+				  				  
 			<br>
 			<div id="swipe"><div class="row">
 <div class="col-xs-3"><p><a id="page-precedente" href="sensations.php">sensations</a></p></div>
