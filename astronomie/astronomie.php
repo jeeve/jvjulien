@@ -30,8 +30,21 @@
 		
 		
           <h1>vers les étoiles</h1>
-
-		 
+<br>		  
+<a name="flammarion"></a>
+<div class="row">
+<div class="col-xs-1 col-md-3 fond"></div>
+       <div class="col-xs-10 col-md-7 fond-table encadrement-table">
+			<p>Ce que nous devons voir, sous un aspect général, c'est, parmi les milliards de planètes qui doivent graviter autour des innombrables soleils de l'espace, des millions de mondes habités, des légions d'êtres inconnus enfantés par les forces de la nature, absolument différents de tout ce qui existe sur notre planète.</p>
+			
+			<p align="right"><em><font size="2">
+			Camille Flammarion<br>
+			Les terres du ciel<br>
+			(1884)</font></em></p>	
+		</div>
+</div>	
+<br>
+	
 		  <a name="expansion"></a>
 		  <h2>Expansion</h2>
 <p>	  
