@@ -133,7 +133,21 @@
                      </div>
                   </div>
 				  
-				  			  <br><a name="inside-beausais-2016"></a>
+				  <br><a name="windsurf-saint-jacut-aout-2017"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				 <iframe width="560" height="315" src="https://www.youtube.com/embed/kfDTzin--5g?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+				  <a href="../sensations/windsurf-kitesurf">Planche à voile</a> à Saint-Jacut de la Mer, août 2017
+				  </p>
+				  </div></div>				 
+				  
+				  <br><a name="inside-beausais-2016"></a>
 				  <div class="row">
 				  <div class="col-xs-12 col-sm-2 fond"></div>
 				  <div class="col-xs-12 col-sm-8 fond">

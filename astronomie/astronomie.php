@@ -39,8 +39,8 @@
 			
 			<p align="right"><em><font size="2">
 			Camille Flammarion<br>
-			Les terres du ciel<br>
-			(1884)</font></em></p>	
+			Les terres du ciel (1884)
+			</font></em></p>	
 		</div>
 </div>	
 <br>
