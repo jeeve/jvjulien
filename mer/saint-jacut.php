@@ -133,7 +133,7 @@
                      </div>
                   </div>
 				  
-				  <br><a name="windsurf-saint-jacut-aout-2017"></a>
+				  <br><a name="windsurf-aout-2017"></a>
 				  <div class="row">
 				  <div class="col-xs-12 col-sm-2 fond"></div>
 				  <div class="col-xs-12 col-sm-8 fond">
