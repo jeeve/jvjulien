@@ -112,7 +112,7 @@ Prévenez vos proches d'une attaque imminente en leur communiquant ce message<br
 					C’est à l’âge de 12 ans que le cinéma et la télévision vont influencer sa vie et son parcours professionnel. En effet à cette époque, la 6 diffuse le dimanche soir en 2ème partie de soirée des fictions d’un nouveau genre qui changeront sa vie. 
 					Son premier film, <a href="https://fr.wikipedia.org/wiki/Histoire_d%27O_(film)" target="_blank">Histoire d’O</a>, film franco-germano-canadien réalisé par Just Jaeckin sera pour lui une référence, tant en matière de dialogues, que de musique, d’éclairage avec une mention particulière pour les costumes, minimalistes dans certaines scènes.<br>
 					A l’âge de 15 ans, Jeff commencera à collectionner les grappes de coulées,  principalement à moulage horizontal, puis progressivement les systèmes de remplissage en zamak. On dit que sa collection avoisine aujourd’hui  les 400 pièces.<br> 
-					Mais c’est ses connaissances scientifiques qui feront la différence lorsque <a href="#simulation-gibbs">Maître Gibbs</a> recherchera une pointure pour intégrer le team. En effet, même si on le sait moins, Jeff est l’inventeur du module de Youn en référence à son acteur, réalisateur, scénariste préféré.<br>
+					Mais ce sont ses connaissances scientifiques qui feront la différence lorsque <a href="#simulation-gibbs">Maître Gibbs</a> recherchera une pointure pour intégrer le team. En effet, même si on le sait moins, Jeff est l’inventeur du module de Youn en référence à son acteur, réalisateur, scénariste préféré.<br>
 					Il reste néanmoins beaucoup de mystères autour du personnage.
 					</p>					
 
