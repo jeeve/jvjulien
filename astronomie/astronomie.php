@@ -34,7 +34,7 @@
 <a name="flammarion"></a>
 <div class="row">
 <div class="col-xs-1 col-md-3 fond"></div>
-       <div class="col-xs-10 col-md-7 fond-table encadrement-table">
+       <div class="col-xs-10 col-md-6 fond-table encadrement-table">
 			<p><em>Ce que nous devons voir, sous un aspect général, c'est, parmi les milliards de planètes qui doivent graviter autour des innombrables soleils de l'espace, des millions de mondes habités, des légions d'êtres inconnus enfantés par les forces de la nature, absolument différents de tout ce qui existe sur notre planète.</p>
 			
 			<p align="right"><font size="2">
@@ -63,14 +63,14 @@ L’univers n’est pas une simple salle de spectacle où des acteurs célestes 
 L’univers bouge, l’univers grandit, l’univers vit.
 </p>  
 		  
-		  
+		  <a href="http://www.google.com/moon/#lat=12.554563&amp;lon=10.898437&amp;map=visible&amp;apollo=" target="_blank">
+		  <img src="images/lune.gif" alt="La Lune depuis Malakoff - 8 octobre 2003" title="La Lune depuis Malakoff - 8 octobre 2003" class="img-responsive"/>
+		  </a>		  
 		  
 		  <a name="regardez"></a>
 		  <h2>Regardez</h2>
 		  <p>
-		  <a href="http://www.google.com/moon/#lat=12.554563&amp;lon=10.898437&amp;map=visible&amp;apollo=" target="_blank">
-		  <img src="images/lune.gif" alt="La Lune depuis Malakoff - 8 octobre 2003" title="La Lune depuis Malakoff - 8 octobre 2003" class="img-responsive"/>
-		  </a>
+
 Regardez l’univers et ses habitants aux formes étranges, tourbillons de lumière voguant dans les profondeurs cosmiques.
 <br>
 Regardez, regardez bien là-bas, tout près d’Andromède, cette galaxie déployant les bras comme pour nous accueillir.
