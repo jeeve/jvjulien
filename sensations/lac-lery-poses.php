@@ -166,6 +166,9 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 							</p>
 						</div>		
 					</div>
+										<div class="col-xs-12 hidden-xs fond">
+						<br><br>
+					</div>
 					
 				</div>					  
 				
