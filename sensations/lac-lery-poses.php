@@ -149,14 +149,24 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 		  
 				  <div class="row">				  		
 
-					<div class="hidden-xs col-sm-12" style="margin-left: 5px;">
+					<div class="hidden-xs col-sm-8" style="margin-left: 5px;">
 						<div class="fond-table encadrement-table" style="width: 540px;">
 						<div style="width:520px;overflow:auto;"><iframe align="top" src="https://widgets.windalert.com/widgets/web/modelTable?spot_id=33126&amp;units_wind=kts&amp;units_temp=C&amp;type=daily&amp;width=5830&amp;height=310&amp;color=f1eeee&amp;name=Poses&amp;app=windalert" width="5830" height="310" frameborder="0" scrolling="no" allowtransparency="no"></iframe></div>
 						<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/lake_des_deux_amants?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&columns=2&days=4&show_day=1&show_pressure=0&show_waves=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/lake_des_deux_amants?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for Lac des deux Amants</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
 						<iframe src="http://www.windguru.cz/int/distr_iframe.php?u=196518&s=4864&c=4a30721b47&lng=fr" width="520" height="238" frameborder="0" style="overflow-x: auto; overflow-y: auto; margin-left: 5px;"></iframe>
 						</div>		
-				</div>
-						
+					</div>
+
+					<div class="hidden-xs col-sm-2" style="margin-left: 65px;">
+						<div class="fond-table encadrement-table" style="width: 150px;">
+							<p>	
+							<a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a><br>
+							<a href="https://www.ventusky.com/?p=49.39;0.90;8&l=wind" target="_blank">Ventusky</a><br>
+							<a href="http://www.xcweather.co.uk/forecast/L%C3%A9ry_poses" target="_blank">XCWeather</a>
+							</p>
+						</div>		
+					</div>
+					
 				</div>					  
 				
 				  
@@ -172,11 +182,18 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 						</a>	
 					</div>
 					<div class="col-xs-12 visible-xs fond" style="margin-left: 15px;">
-						<a href="https://www.windguru.cz/4864" target="_blank"><img class="ombre-image" src="images/logo-windguru.gif"></a>
+						<a href="https://www.windguru.cz/4864" target="_blank"><img src="images/logo-windguru.gif"></a>
 					</div>
+					<div class="col-xs-12 visible-xs fond" style="margin-left: 10px;">
+							<a href="https://www.ventusky.com/?p=49.39;0.90;8&l=wind" target="_blank"><img src="images/logo-ventusky.png"></a>		
 					</div>
-					
-					<br>
+					<div class="col-xs-12 visible-xs fond" style="margin-left: 15px;">
+							<a href="http://www.xcweather.co.uk/forecast/L%C3%A9ry_poses" target="_blank"><img src="images/logo-xcweather.png"></a>			
+					</div>					
+					<div class="col-xs-12 visible-xs fond">
+						<br><br>
+					</div>
+					</div>	
 
                   <h2>Historique</h2>
                   <form id="datetimeform">
