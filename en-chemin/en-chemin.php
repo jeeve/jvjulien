@@ -269,7 +269,17 @@ De l'atelier et d'autres que je connais...
 			</div>
 			</div>
 	
-		
+			<a name="liliane-sdf-jose"></a>
+			<h2>Liliane, le sans domicile fixe et José</h2>
+
+				     <div class="row">
+					  <div class="col-sm-2 fond"></div>
+					  <div class="col-xs-12 col-sm-8 fond">
+					   <div class="embed-responsive embed-responsive-4by3 ombre-image">
+						<video controls src="images/jose-liliane-sdf.mp4"></video>
+					   </div>	
+				   </div></div>
+			<br>		
 			   				  
 			<br><br>
 			<div id="swipe"><div class="row">
