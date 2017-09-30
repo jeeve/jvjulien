@@ -271,12 +271,16 @@ De l'atelier et d'autres que je connais...
 	
 			<a name="liliane-sdf-jose"></a>
 			<h2>Liliane, le sans domicile fixe et José</h2>
-
+				<p>Pourquoi faire ?</p>
 				     <div class="row">
 					  <div class="col-sm-2 fond"></div>
 					  <div class="col-xs-12 col-sm-8 fond">
 					   <div class="embed-responsive embed-responsive-4by3 ombre-image">
-						<video controls src="images/jose-liliane-sdf.mp4"></video>
+					   <video width="640" height="480" controls="controls">
+						<source src="images/jose-liliane-sdf.mp4" type="video/mp4" />
+						<source src="images/jose-liliane-sdf.webm" type="video/webm" />
+						<source src="images/jose-liliane-sdf.ogv" type="video/ogg" />
+					   </video>
 					   </div>
 						<p class="legende">by <a href="https://www.6play.fr/scenes-de-menages-p_829" target="_blank">Scènes de ménages sur M6</a></p>
 				   </div></div>
