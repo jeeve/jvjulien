@@ -277,7 +277,8 @@ De l'atelier et d'autres que je connais...
 					  <div class="col-xs-12 col-sm-8 fond">
 					   <div class="embed-responsive embed-responsive-4by3 ombre-image">
 						<video controls src="images/jose-liliane-sdf.mp4"></video>
-					   </div>	
+					   </div>
+						<p class="legende">by <a href="https://www.6play.fr/scenes-de-menages-p_829" target="_blank">Scènes de ménages sur M6</a></p>
 				   </div></div>
 			<br>		
 			   				  
