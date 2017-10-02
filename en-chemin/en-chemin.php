@@ -270,7 +270,7 @@ De l'atelier et d'autres que je connais...
 			</div>
 	
 			<a name="liliane-sdf-jose"></a>
-			<h2>Liliane, le sans domicile fixe et José</h2>
+			<h2>Liliane, Denis et José</h2>
 				<p>Pourquoi faire ?</p>
 				     <div class="row">
 					  <div class="col-sm-2 fond"></div>
