@@ -284,7 +284,7 @@ De l'atelier et d'autres que je connais...
 					   </div>
 						<p class="legende">by <a href="https://www.6play.fr/scenes-de-menages-p_829" target="_blank">Scènes de ménages sur M6</a></p>
 				   </div></div>
-			<br>		
+					
 			   				  
 			<br><br>
 			<div id="swipe"><div class="row">
