@@ -114,7 +114,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
     strpos($_SERVER['HTTP_USER_AGENT'], 'Trident') !== FALSE)) {				  
 ?>				  
 					<a href="lac-lery-poses.php">
-                     <img src="http://meteocamtroislacs.dtdns.net/mjpg/video.mjpg" width="1024px" height="576px" class="img-responsive ombre-image">                  
+                     <img id="webcam-image" src="http://meteocamtroislacs.dtdns.net/mjpg/video.mjpg" width="1024px" height="576px" class="img-responsive ombre-image">                  
 					</a> 
 <?php				  
 } else {
@@ -233,6 +233,15 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
          <!--/.container--></div>
       </div>
       <!--/.page-container-->
-	  <?php include("../includes/footer.php"); ?>	  
+	  <?php include("../includes/footer.php"); ?>		  
+      <script> 
+         $(document).ready(function($) {
+			 
+		 if ($('#webcam-image').innerHeight() == 0) { // la webcam ne marche pas
+			 $('#webcam-image').parent().html('<img id="webcam-image" src="images/mire.png" width="1024px" height="576px" class="img-responsive ombre-image">');
+		 }
+		 
+		 });
+	  </script>	
    </body>
 </html>

@@ -37,7 +37,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 ?>				  
                   <div id="webcam">
 					<a href="http://meteocamtroislacs.dtdns.net/view/viewer_index.shtml?id=28442" target="_blank">
-                     <img src="http://meteocamtroislacs.dtdns.net/mjpg/video.mjpg" width="1024px" height="576px" class="img-responsive ombre-image">                  
+                     <img id="webcam-image" src="http://meteocamtroislacs.dtdns.net/mjpg/video.mjpg" width="1024px" height="576px" class="img-responsive ombre-image">                  
 					</a> 
 					
 					<div class="hidden-xs">
@@ -270,6 +270,10 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 	  <script src="js/jquery-ui.min.js"></script>	  
       <script> 
          $(document).ready(function($) {
+			 
+		 if ($('#webcam-image').innerHeight() == 0) { // la webcam ne marche pas
+			 $('#webcam-image').parent().html('<img id="webcam-image" src="images/mire.png" width="1024px" height="576px" class="img-responsive ombre-image">');
+		 }
 
 		 var estHier = false;
 		 var maDate;
