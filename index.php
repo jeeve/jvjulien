@@ -7,7 +7,7 @@
 	  <link href="/css/fond-etoile.css" rel="stylesheet">
 	  <link href="/css/index.css" rel="stylesheet">	
    </head>
-   <body id="swipe" >
+   <body id="swipe" style="color: black;">
       <div class="page-container">
       <!-- top navbar -->
       <?php include("includes/navbar.php"); ?>
