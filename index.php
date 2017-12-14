@@ -50,14 +50,14 @@
       <!--/.page-container-->
       <?php include("includes/footer.php"); ?>
 	  <script src="/js/lake.js"></script>
-	  <script>
+<script>
 (function(w,d,s,i,n){w[n]=w[n]||{q:[],init:function(o){w[n].initOpts=o;},ready:function(c){w[n].q.push(c);}};
 setTimeout(function(j,k){if(!d.getElementById(i)){k=d.getElementsByTagName(s)[0];j=d.createElement(s);j.id=i;
 j.src="https://cdn.by.wonderpush.com/sdk/1.1/wonderpush-loader.min.js";k.parentNode.insertBefore(j,k);}},0);
 }(window,document,"script","wonderpush-jssdk-loader","WonderPush"));
 
 WonderPush.init({
-    webKey: "9f7a6f276210232f5e9fdf72e24d876e170cd80ebd8eddda462eeb69a3fe0355",
+    webKey: "a0dce73e4a3ef56aa87844f2cca10ffbd6b3f0461c74fb54035f6abd82fc33b3",
     optInOptions: {
         // Vous pouvez modifier ou traduire les chaînes suivantes :
         externalBoxMessage: "Nous aimerions vous envoyer des notifications",
