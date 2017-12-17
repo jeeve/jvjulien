@@ -1953,44 +1953,6 @@
                                  </table>
                               </td>
                            </tr>
-                           <tr>
-                              <td>
-                                 <table class="table-interne">
-                                    <tr>
-                                       <td colspan="2">
-                                          <p>Professeur<br>
-                                             <br>
-                                             Suite aux nombreuses sollicitations des internautes quant à 
-                                             nos travaux, une page facebook a donc été ouverte dans le 
-                                             but de démocratiser la téléportation ionique :
-                                          </p>
-										  <br>
-                                          <p align="center">
-                                             <a target="_blank" href="https://www.facebook.com/teleportationionique/">https://www.facebook.com/teleportationionique</a>
-                                          </p>
-										  <br>
-                                          <p align="left">Par cet intermédiaire nous 
-                                             pouvons envisager une campagne de recrutement pour de 
-                                             nouveaux expérimentateurs.
-                                          </p>
-                                       </td>
-                                    </tr>
-                                    <tr>
-                                       <td class="colonne-lien">
-                                          <a href="#sommaire"><font size="1">Sommaire</font></a><font size="1"> 
-                                          - <a href="#teleportation-ionique">Téléportation ionique</a> 
-                                          - </font> <a href="#teleportation-ionique-fin">
-                                          <font size="1">Fin</font></a>
-                                       </td>
-                                       <td class="colonne-auteur">
-                                          <a target="_blank" href="https://twitter.com/jeeve">
-                                          <font size="1">@jeeve</font></a><font size="1">, 
-                                          1/03/2016 19h11</font>
-                                       </td>
-                                    </tr>
-                                 </table>
-                              </td>
-                           </tr>
 
                           <tr>
                               <td>
