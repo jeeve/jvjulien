@@ -137,6 +137,8 @@
                    <div class="containerPlayer">
                         <div style="display: none;">
                            <ul id="playListContainer">
+							  <li data-src="songs/fusion.mp3"><a href="#">Fusion</a>
+                              </li>							   
 							  <li data-src="songs/deux-valises.mp3"><a href="#">Deux valises</a>
                               </li>	
                               <li data-src="songs/entrevue-spatiale.mp3"><a href="#">Entrevue spatiale</a>
