@@ -35,7 +35,7 @@
       </style>
 
    </head>
-   <body>
+   <body style="color: black;">
       <div class="page-container">
          <!-- top navbar -->
 	     <?php include("../includes/navbar.php"); ?>	  
