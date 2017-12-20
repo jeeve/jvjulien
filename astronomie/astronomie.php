@@ -12,7 +12,7 @@
 	</style>
 	
 </head>
-  <body> 
+  <body style="color: black;"> 
   
  <div class="page-container">
   
