@@ -138,9 +138,7 @@
                         <div style="display: none;">
                            <ul id="playListContainer">
 							  <li data-src="songs/confiture-apologie.mp3"><a href="#">Confiture apologie</a>
-                              </li>							   
-							  <li data-src="songs/fusion.mp3"><a href="#">Fusion</a>
-                              </li>							   
+                              </li>							   							   
 							  <li data-src="songs/deux-valises.mp3"><a href="#">Deux valises</a>
                               </li>	
                               <li data-src="songs/entrevue-spatiale.mp3"><a href="#">Entrevue spatiale</a>
