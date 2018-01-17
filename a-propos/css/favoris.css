@@ -1,0 +1,16 @@
+#favoris p {
+	font-weight: bold;
+	font-size: 100%;
+}
+
+.table-favoris {
+	font-family: Times New Roman, Times, serif;
+	font-size: 90%;
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+
+.table-favoris td {
+	padding-left: 5px;
+	padding-right: 5px;
+}

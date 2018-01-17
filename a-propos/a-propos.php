@@ -4,6 +4,7 @@
       <title>à propos...</title>
       <META NAME="Description" CONTENT="Quelques mots sur l'auteur, ses motivations, lectures, playlist musicale et citation préférée."/>
 	  <?php include("../includes/header.php"); ?>
+	  <link href="css/favoris.css" rel="stylesheet">
    </head>
    <body>
       <div class="page-container">
@@ -56,7 +57,17 @@ du scanner. De ce jour est né "au gré du vent 1.0".<p align="right"><em><font 
 </div>
 <br>
                   <br><h2>Quelques idées de balades les soirs d'hiver</h2>
-                              
+				  
+				<div id="favoris">	
+				  <p>Romans</p>
+				  <table class="table-favoris" id="tableFavorisRomans"></table>
+				  <p>Films</p>
+                  <table class="table-favoris" id="tableFavorisFilms"></table>
+				  <p>Logiciels</p>
+				  <table class="table-favoris" id="tableFavorisLogiciels"></table>
+				</div>  
+				  
+	<!--			  
                   <iframe src="https://docs.google.com/spreadsheets/d/166nDewURI08ookiFuut1lrI_47TXvngWEj7_-YKFstw/pubhtml?gid=4&amp;single=true&amp;widget=true&amp;headers=false" 
 				  name="I2" scrolling="auto" frameborder="0" height="251" width="400"></iframe>	
 	
@@ -68,7 +79,7 @@ du scanner. De ce jour est né "au gré du vent 1.0".<p align="right"><em><font 
 			
 				  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR80z5b8Vl95K2NLq51DxtS0Blf3RU_UySwK-HLAK9HZ-t5CgYXX9Xvcm0TGONwKJ21bdDfhO_gkQrA/pubhtml?gid=6&amp;single=true&amp;widget=true&amp;headers=false"
 				  name="I5" scrolling="auto" frameborder="0" height="300" width="400"></iframe>
-			
+	-->		
 		<p><br></p>		          
         <p>un peu de sons aromatisés    
 		aux herbes...&nbsp;&nbsp;<a target="_blank" href="https://www.jamendo.com/artist/7123/cuisine-spectrale/albums"><img src="images/cuisine-spectrale.png" alt="Cuisine Spectrale" title="Cuisine Spectrale" height="50" border="0" width="50"></a>&nbsp;&nbsp;<br> 
@@ -127,5 +138,6 @@ du scanner. De ce jour est né "au gré du vent 1.0".<p align="right"><em><font 
       </div>
       <!--/.page-container-->
       <?php include("../includes/footer.php"); ?>
+	  <script type="text/javascript" src="js/favoris.js"></script>
    </body>
 </html>
