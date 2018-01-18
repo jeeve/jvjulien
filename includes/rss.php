@@ -1,4 +1,6 @@
 <?php
+  libxml_disable_entity_loader(false);
+  
   echo '<table class="rss-table">';
   $dom = new DomDocument;
   $dom->load("../news.xml");
