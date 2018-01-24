@@ -57,13 +57,13 @@ du scanner. De ce jour est né "au gré du vent 1.0".<p align="right"><em><font 
 </div>
 <br>
                   <br><h2>Quelques idées de balades les soirs d'hiver</h2>
-				  
+				  <p><a href='#romans'>Romans</a> - <a href='#films'>Films</a> - <a href='#logiciels'>Logiciels</a></p>
 				<div id="favoris">	
-				  <p>Romans</p>
+				  <a name='romans'></a><p>Romans</p>
 				  <table class="table-favoris" id="tableFavorisRomans"></table>
-				  <p>Films</p>
+				  <a name='films'></a><p>Films</p>
                   <table class="table-favoris" id="tableFavorisFilms"></table>
-				  <p>Logiciels</p>
+				  <a name='logiciels'></a><p>Logiciels</p>
 				  <table class="table-favoris" id="tableFavorisLogiciels"></table>
 				</div>  
 				  
