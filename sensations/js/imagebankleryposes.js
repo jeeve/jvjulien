@@ -41,8 +41,7 @@
 					img_src = img_src + curdate.replaceAll("/", "-");
 					img_src = img_src + "&time=" + curtime;
 					
-				var imageOK = true;	
-			/*	
+				var imageOK = true;				
 				$.ajax({
 					async: false,
 					url: img_src,
@@ -52,7 +51,7 @@
 							imageOK = false;
 						}
 				});
-			*/	
+				
 				if (imageOK) {
 					html = html + '<figure><a href=" ' + img_src + '" target="blank"><img class="img-responsive ombre-image" src="' + img_src + '"></a><div class="back"></div><figcaption><p>' + curtime + '</p></figcaption></figure>';
 				}	
