@@ -46,10 +46,15 @@
 					async: false,
 					url: img_src,
 					dataType : 'html',
+					success: function (data) { // attention pas testé !
+						if (data.innerHeight() == 0) {
+							imageOK = false;
+						}
+                 	},				},
 					error : function(resultat, statut, erreur){	
 						if (erreur == 500) {
 							imageOK = false;
-						}
+						} 
 				});
 				
 				if (imageOK) {
