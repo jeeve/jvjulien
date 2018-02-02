@@ -6,15 +6,17 @@ function getCommentaires() {
 			dataType: 'json'
 		}).then(function(data) {
 				var ligne;
-				var dateheure, nom, commentaire, laDate;
+				var dateheure, nom, commentaire, laDate, res;
 				var ligneHtml, html;
 				var node = document.getElementById("tableCommentaires");
 				html = "<table>";
-				for (i=0; i < data.feed.entry.length; i++) {
+				for (i=data.feed.entry.length-1; i >= 0 ; i--) {
 					ligneHtml = "<tr>";
 					ligne = data.feed.entry[i];
 					dateheure = ligne.title.$t;
 					laDate = dateheure.substring(0, dateheure.search(' '));
+					res = laDate.split("/");
+					laDate = res[1] + '/' + res[0] + '/' + res[2];
 					nom = ligne.gsx$nompseudo.$t;
 					commentaire = ligne.gsx$commentaire.$t;
 					ligneHtml = ligneHtml + "<td>" + laDate + "</td>";

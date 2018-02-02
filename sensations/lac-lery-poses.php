@@ -240,7 +240,10 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  
 				   <br>
 				  <div class="hidden-xs">
+					<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTuRxvfmh_N393CUqYnpa2UlW4ulEg6yLJ57ioHGg4HWB4_ge83rRoLEt9coeMxOYzcQGn4a-B3F5w2/pubhtml?widget=true&amp;headers=false" width='700' height='600' scrolling="auto"  frameborder='0'></iframe>
+					<!--
 					<iframe src="https://docs.google.com/spreadsheets/d/14ingx-uSWeFrR6RkySkzrlZhiCBjYO6mr9I3zo_k_sE/pubhtml?gid=1124469958&amp;single=true&amp;widget=true&amp;headers=false" width='700' height='600' scrolling="auto"  frameborder='0'></iframe>
+					-->
 					<br>
 				  </div>
 				  <br>		  
