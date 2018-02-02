@@ -5,6 +5,7 @@
       <META NAME="Description" CONTENT="Le livre d'or. N'hésitez pas à y déposer un petit message..."/>
 	  <?php include("../includes/header.php"); ?>	
       <link href="../css/fond-blanc.css" rel="stylesheet">
+	  <link href="css/commentaires.css" rel="stylesheet">
    </head>
    <body>
       <div class="page-container">
@@ -24,8 +25,12 @@
 
 				  <p><br></p>
 				  
-				 <!-- <iframe src='https://spreadsheets.google.com/pub?hl=en&hl=en&key=0AuCzPUwvQHBydGRnSHRTdGEzZXJyTWc3RWFrOWJKSnc&single=true&gid=0&output=html&widget=true'></iframe> -->
+				<!-- 
 				<iframe width='700' height='600' scrolling="auto"  frameborder='0' src="https://docs.google.com/spreadsheets/d/1SmZbYjacC8YWSgTnOWOAqsN8DzZOunedhifsXO4iO_s/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>	
+				-->
+				
+				<table id="tableCommentaires" class="table-commentaires"></table>
+				
 <br><br>
 <div id="swipe"><div class="row">
 <div class="col-xs-4"><p><a id="page-precedente" href="../a-propos/a-propos.php">à propos...</a></p></div>
@@ -51,5 +56,6 @@ merci de votre visite, à bientôt...
       </div>
       <!--/.page-container-->
 	  <?php include("../includes/footer.php"); ?>
+	  <script type="text/javascript" src="js/commentaires.js"></script>	  
 </body>
 </html>
