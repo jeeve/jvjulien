@@ -4,6 +4,7 @@
       <title>?!?</title>
       <META NAME="Description" CONTENT="Ici reposent d'étranges textes reflétant questionnements existentiels, réflexion politique et autres expériences de pensée..."/>
 	  <?php include("../includes/header.php"); ?>	
+	  <link href="css/questions.css" rel="stylesheet">
    </head>
    <body>
       <div class="page-container">
@@ -18,6 +19,9 @@
                   <h1>?!?</h1>
 								
 				  <br><br>
+				  <div id="ligne-question"></div>
+				  <br>
+				  <br>
                   <div class="row">
                      <div class="col-xs-1 col-sm-1 fond"></div>
 					  <div class="col-xs-10 col-sm-10 fond-table encadrement-table">
@@ -307,5 +311,6 @@
       </div>
       <!--/.page-container-->
 	  <?php include("../includes/footer.php"); ?> 
+	  <script type="text/javascript" src="js/questions.js"></script>	  
    </body>
 </html>
