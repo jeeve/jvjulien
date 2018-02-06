@@ -20,6 +20,9 @@
 								
 				  <br><br>
 				  <div id="ligne-question"></div>
+				  
+				  <table id="table-reponses"></table>
+				  
 				  <br>
 				  <br>
                   <div class="row">
