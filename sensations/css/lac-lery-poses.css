@@ -77,3 +77,16 @@ label {
 	top: 0px;	
 	font-size: 65%;
 }
+
+.table-commentaires {
+	font-family: Times New Roman, Times, serif;
+	font-size: 120%;
+/*	margin-left: 40px;
+	margin-bottom: 20px; */
+}
+
+.table-commentaires td {
+	padding-right: 5px; 
+	padding-bottom: 10px;
+	vertical-align: top;
+}
