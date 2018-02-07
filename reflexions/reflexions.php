@@ -20,13 +20,14 @@
 								
 				  <br><br>
 				  <div id="ligne-question"></div>
-				  
-				  <table id="table-reponses"></table>
+				  		  
+				  <div id="lignes-reponses"></div>
 				  
 				  <br>
 				  <br>
                   <div class="row">
                      <div class="col-xs-1 col-sm-1 fond"></div>
+				 
 					  <div class="col-xs-10 col-sm-10 fond-table encadrement-table">
 					  <a name="ville-ancetres"></a>
 						<h2>La ville de vos ancêtres</h2>
@@ -34,7 +35,7 @@
 						<a href="https://fr.wikipedia.org/wiki/Histoire_%C3%A9volutive_des_hominin%C3%A9s" target="_blank">
 						<img  style="float:right" src="images/darwin-inverse.png" alt="Histoire évolutive des homininés - Dessinateur inconnu" title="Histoire évolutive des homininés - Dessinateur inconnu" />
 						</a><p>
-						Imaginez une ville, <a target="_blank" href="http://www.paris-26-gigapixels.com/index-fr.html">Paris</a> par exemple<br>
+						Imaginez une ville, Paris par exemple<br>
 						Vous habitez en proche banlieue<br>
 						Votre voisin est votre père à l’âge où il vous a conçu<br>
 						Son voisin est votre grand-père à l’âge où il a conçu votre père<br>
