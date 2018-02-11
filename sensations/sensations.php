@@ -147,7 +147,7 @@
 				  </p>
 				  <p class="legende">
 				  Clips vidéo de <em>Cuisine Spectrale</em><br>
-				  A la découverte de <a href="https://www.jamendo.com/artist/7123/cuisine-spectrale/albums" target="_blank">sensations sonores</a>
+				  A la découverte de <a href="https://soundcloud.com/cuisine-spectrale" target="_blank">sensations sonores</a>
 				  </p>	
 				 </div></div>		
 			

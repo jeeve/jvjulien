@@ -137,6 +137,8 @@
                    <div class="containerPlayer">
                         <div style="display: none;">
                            <ul id="playListContainer">
+							  <li data-src="songs/le-funambule.mp3"><a href="#">Le funambule</a>
+                              </li>							   
 							  <li data-src="songs/google-chante-d-ormesson.mp3"><a href="#">Google chante d'Ormesson</a>
                               </li>							   
 							  <li data-src="songs/fusion.mp3"><a href="#">Fusion</a>
@@ -252,7 +254,7 @@
    
 	</div>
          <div style="position: absolute; left: 250px">	
-            <a target="_blank" href="https://www.jamendo.com/artist/7123/cuisine-spectrale/albums"><img title="Cuisine Spectrale" border="0" src="images/cuisinespectralemini.png" width="50" height="50"></a>
+            <a target="_blank" href="https://soundcloud.com/cuisine-spectrale"><img title="Cuisine Spectrale" border="0" src="images/cuisinespectralemini.png" width="50" height="50"></a>
          </div>
   
 
