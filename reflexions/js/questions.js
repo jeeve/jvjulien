@@ -19,7 +19,7 @@ function getQuestion() {
 					nom = "anonyme";
 				}
 				question = ligne.gsx$votrequestion.$t;
-				node.innerHTML = '<p>La question du jour de ' + nom + ' : <b>' + question + '</b><br><a href="https://docs.google.com/forms/d/e/1FAIpQLSfcCrNawvdiorWRtXlkL16VHePNTI47YPe8UmTwGDMVWOoQcQ/viewform?usp=pp_url&entry.1388707615=' + question + '&entry.664735575&entry.115939093" target="_blank">Votre réponse <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdm50yNnhBLyAku2Z2QuQ6UY7OU2QA6JWtAk9lRhMI3NmUV0A/viewform?usp=sf_link" target="_blank">Posez une question <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a></p>';
+				node.innerHTML = '<p><u>La question du jour de ' + nom + '</u> : <b>' + question + '</b><br><a href="https://docs.google.com/forms/d/e/1FAIpQLSfcCrNawvdiorWRtXlkL16VHePNTI47YPe8UmTwGDMVWOoQcQ/viewform?usp=pp_url&entry.1388707615=' + question + '&entry.664735575&entry.115939093" target="_blank">Votre réponse <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdm50yNnhBLyAku2Z2QuQ6UY7OU2QA6JWtAk9lRhMI3NmUV0A/viewform?usp=sf_link" target="_blank">Posez une question <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a></p>';
 				getReponses(question);
 			});
 }
@@ -52,7 +52,7 @@ function getReponses(question) {
 						ligneHtml = ligneHtml + "<td>" + reponse + "</td>";					
 						ligneHtml = ligneHtml + "</tr>";
 						*/
-						ligneHtml = "<li>" + nom + " répond : " + reponse + "</li>";
+						ligneHtml = "<li><u>" + nom + " répond</u> : " + reponse + "</li>";
 						html = html + ligneHtml;
 					}
 				}
