@@ -52,7 +52,7 @@ function getReponses(question) {
 						ligneHtml = ligneHtml + "<td>" + reponse + "</td>";					
 						ligneHtml = ligneHtml + "</tr>";
 						*/
-						ligneHtml = "<li>" + nom + " répond <b>" + reponse + "</b></li>";
+						ligneHtml = "<li>" + nom + " répond : " + reponse + "</li>";
 						html = html + ligneHtml;
 					}
 				}
