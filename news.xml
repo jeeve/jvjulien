@@ -2,10 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link href="http://jvjulien.free.fr/news.xml" rel="self" type="application/rss+xml" />
-        <title>au gré du vent 1.0</title>
+        <title>Au gré du vent 1.0</title>
         <link>http://jvjulien.free.fr</link>
         <description>Pour des balades en textes et en images les soirs d'hiver et les autres aussi.</description>
 
+		<item>
+            <title>Le funambule</title>
+            <link>https://youtu.be/MSFPBTZg9Yk</link>
+            <guid isPermaLink="false">le-funambule</guid>
+            <description>Nouvelle musique de Cuisine Spectrale. Danse sur un fil.</description>
+            <pubDate>Mon, 12 Feb 2018 14:10:00 GMT</pubDate>
+		</item>	
+		
+		<item>
+            <title>Question du jour</title>
+            <link>http://jvjulien.free.fr/reflexions/reflexions.php</link>
+            <guid isPermaLink="false">question-jour</guid>
+            <description>Chaque jour une question. Vous êtes invités à y répondre ou proposer une autre question. A votre clavier !</description>
+            <pubDate>Sun, 11 Feb 2018 12:11:00 GMT</pubDate>
+		</item>	
+		
 		<item>
             <title>Google chante d'Ormesson</title>
             <link>https://youtu.be/ciV5qD6VGv4</link>
