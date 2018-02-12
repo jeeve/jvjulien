@@ -35,7 +35,7 @@ function getReponses(question) {
 				var dateheure, nom, votreQuestion, reponse;
 				var ligneHtml, html;
 				var node = document.getElementById("lignes-reponses");
-				html = "<ul>";
+				html = "<p><ul>";
 				for (i=data.feed.entry.length-1; i >= 0 ; i--) {
 					ligne = data.feed.entry[i];
 					dateheure = ligne.title.$t;
@@ -56,7 +56,7 @@ function getReponses(question) {
 						html = html + ligneHtml;
 					}
 				}
-				html = html + "</ul>";
+				html = html + "</ul></p>";
 				node.innerHTML = html;
 			});
 }
