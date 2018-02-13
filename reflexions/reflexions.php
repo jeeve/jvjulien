@@ -19,9 +19,13 @@
                   <h1>?!?</h1>
 								
 				  <br><br>
-				  <div id="ligne-question"></div>
-				  		  
-				  <div id="lignes-reponses"></div>
+				  <div class="row">
+					<div class="col-xs-1 col-sm-1 fond"></div>
+					<div class="col-xs-10 col-sm-10 fond">
+						<div id="ligne-question"></div>	  
+						<div id="lignes-reponses"></div>
+					</div>	
+				  </div>	
 				  
 				  <br>
 				  <br>
