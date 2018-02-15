@@ -36,7 +36,7 @@ function getReponses(question) {
 				var ligneHtml, html;
 				var node = document.getElementById("lignes-reponses");
 				html = "<p><ul>";
-				for (i=data.feed.entry.length-1; i >= 0 ; i--) {
+				for (i=0; i < data.feed.entry.length; i++) {
 					ligne = data.feed.entry[i];
 					dateheure = ligne.title.$t;
 					nom = ligne.gsx$nompseudo.$t;
