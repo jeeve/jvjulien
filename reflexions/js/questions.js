@@ -108,7 +108,7 @@ function getAutresReponses(question, entry) {
 		var permalien;
 		var node = document.getElementById("autres-questions");
 		var paramQuestion = decodeURIComponent($.urlParam('question'));
-		html = "<p><u>Autres questions</u> : ";
+		html = '<p><ul>';
 		for (i = 0; i < entry.length; i++) {
 			ligne = entry[i];
 			votreQuestion = ligne.gsx$votrequestion.$t;
@@ -119,17 +119,22 @@ function getAutresReponses(question, entry) {
 				else {
 					permalien = window.location.href.substr(0, window.location.href.indexOf('?')) + '?question=' + encodeURIComponent(votreQuestion);
 				}
-				ligneHtml = '<a href="' + permalien + '">' + votreQuestion + '</a>';
-				if (i < entry.length-2) {
-					ligneHtml += ', ';
-				}
+				ligneHtml = '<li><a href="' + permalien + '">' + votreQuestion + '</a></li>';
+				// if (i < entry.length-2) {
+				//	ligneHtml += ', ';
+				//}
 				html = html + ligneHtml;
 			}
 		}
-		html = html + "</p>";
+		html = html + "</ul></p>";
 		node.innerHTML = html;
 }
 
 $(document).ready(function() {
 	getQuestion();
+	$('#autres-questions-toggle').click(function() {
+		$('#autres-questions').toggle();
+	});
 });
+
+
