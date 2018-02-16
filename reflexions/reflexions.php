@@ -24,6 +24,7 @@
 					<div class="col-xs-10 col-sm-10 fond">
 						<div id="ligne-question"></div>	  
 						<div id="lignes-reponses"></div>
+						<div id="autres-questions"></div>
 					</div>	
 				  </div>	
 				  

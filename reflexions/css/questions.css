@@ -16,3 +16,9 @@
 	font-size: 100%;
 	}	
 }
+
+#autres-questions  p {
+	font-size: 100%;
+	margin-left: 0;
+	padding-left: 0;
+}
