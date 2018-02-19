@@ -3,7 +3,7 @@
             <div class="navbar-header">
                <button id="bouton-bas-page" type="button" class="navbar-toggle" style="padding-top:5px;" data-toggle="bas-page" data-target=".sidebar-nav">
                   <span style="float: left; margin-right: 10px" class="hidden-xs"><font color="grey" style="font-family: Times New Roman, Times, serif">bas de page</font></span>
-                  <span class="glyphicon glyphicon-arrow-down"></span>
+                  <span class="glyphicon glyphicon-arrow-down" style="color: grey; padding-top: 3px;"></span>
                </button>			
                <button id="bouton-menu" type="button" class="navbar-toggle hidden" style="padding-bottom:5px; padding-top:5px" data-toggle="offcanvas" data-target=".sidebar-nav">
                   <span style="float: left; margin-right: 10px" class="hidden-xs"><font color="grey" style="font-family: Times New Roman, Times, serif">menu</font></span>
