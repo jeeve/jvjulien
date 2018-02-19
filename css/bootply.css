@@ -25,13 +25,13 @@ body {
 }
  #bouton-bas-page {
 	  right: 100px;
-	  padding-bottom: 7px;
+	  padding-bottom: 6px;
 }
 
 @media screen and (max-width: 767px) {
   #bouton-bas-page {
 	  right: 60px;
-	  padding-bottom: 8px; 
+	/*  padding-bottom: 6px; */
   }
 }
   
