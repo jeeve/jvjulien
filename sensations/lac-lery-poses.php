@@ -275,7 +275,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
       <script> 
          $(document).ready(function($) {
 			 
-		 if ($('#webcam-image').innerHeight() == 0) { // la webcam ne marche pas
+		 if ($('#webcam-image').innerHeight() == 0 || ($('#webcam-image').innerHeight() == $('#webcam-image').innerWidth())) { // la webcam ne marche pas
 			 $('#webcam-image').parent().html('<img id="webcam-image" src="images/mire.png" width="1024px" height="576px" class="img-responsive ombre-image">');
 		 }
 
