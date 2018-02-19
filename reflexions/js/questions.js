@@ -98,6 +98,7 @@ function getReponses(question) {
 				}
 				html = html + "</ul></p>";
 				node.innerHTML = html;
+				$('#autres-questions-toggle').toggle(); // affiche lien autre questions
 			});
 }
 

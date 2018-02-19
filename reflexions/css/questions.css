@@ -16,9 +16,15 @@
 	}	
 }
 
+#autres-questions-toggle  a {
+	padding-left: -5px;
+	margin-left: -5px;
+}
+
 #autres-questions ul {
 	font-family: Times New Roman, Times, serif;
 	font-size: 120%;
+	line-height: 200%;
 }
 
 @media screen and (max-width: 767px) { 

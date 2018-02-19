@@ -24,7 +24,7 @@
 					<div class="col-xs-10 col-sm-10 fond">
 						<div id="ligne-question"></div>	  
 						<div id="lignes-reponses"></div>
-						<div><p><u><a id="autres-questions-toggle" style="cursor: pointer;">Autres questions...</a></u></p></div>
+						<div id="autres-questions-toggle" style="cursor: pointer; display:none;"><p><u><a>Autres questions...</a></u></p></div>
 						<div id="autres-questions" style="display: none;"></div>
 					</div>	
 				  </div>	
