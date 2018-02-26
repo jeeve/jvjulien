@@ -44,6 +44,52 @@
 		</div>
 </div>	
 <br>
+
+<a name="nuit-etoilee"></a>
+<h2>Nuit étoilée</h2>
+<p>
+La Voie Lactée me fascine. C'est dommage que le Soleil ne soit pas plus excentré par rapport au plan de la galaxie. Le spectacle serait alors somptueux, pouvoir contempler le disque de notre spirale, ses bras, son bulbe. Pour moi, cela demande un effort mental conséquent pour imaginer notre univers-île dans son intégralité. C'est un peu comme si j’étais une fourmi au pied de la Tour Eiffel.
+</p><p style="text-align: right;">
+<a href="../mer/saint-jacut.php">Saint-Jacut de la Mer</a>, mercredi 23 août 2017
+</p>
+<br>
+
+<a name="sable"></a>
+<h2>Pensées pour mon frère</h2>
+<p>
+Tu sais à quel point j'aimerais savoir si on est seul ou pas dans le cosmos. Après lecture du hors-série Ciel & Espace “Terres habitables” de ce mois-ci (que je te conseille), je me suis livré à un  petit jeu. D'abord la Voie Lactée. Elle compterait au minimum 100 milliards d'étoiles. A la lumière des récentes découvertes, la plupart de ces soleils abriteraient nombre de planètes toutes aussi exotiques les unes que les autres.
+</p><p>
+100 milliards = 100 x 1000 x 1 million
+</p><p>
+Imaginons un grain de sable d'1mm par étoile. Imaginons donc une bande de sable, dans le cas  de notre galaxie cela équivaut si mes calculs sont validés par la Nasa à une bande d'1 km de long sur 1 m de large et de 10 cm d'épaisseurs. Des soleils collés et empilés les uns aux autres pour visualiser leur population.
+</p><p>
+Imaginons qu'une étoile abritant une forme de vie soit matérialisée par une "pépite" d'argent et une forme de vie consciente par une pépite d'or.
+</p><p>
+Cela veut dire que l'on trouvera une pépite d'or, disons à 126 m du début de la bande et 2,1 cm de profondeur. Yes c'est le soleil ! Combien d'autres pépites ? Peut-être 0 ?
+</p><p>
+Mon intuition me pousse à penser qu'il faut un grand nombre de combinaisons de paramètres pour former des pépites. Sur le km de sable je pense que l'on peut en ramasser tout de même l'équivalent d'1 verre. Parmis elles surement quelques pépites d'or.
+</p><p>
+Mais bon pourquoi pas seulement la nôtre après tout... On est tellement exceptionnel !
+</p><p>
+Considérons maintenant l'univers observable et d'après les estimations celui-ci compterait au moins... 100 milliards de galaxies.
+</p><p>
+Il suffit donc de condenser notre bande de sable dans par exemple un diamant d'1 mm pour former une rivière de pierres précieuses d'1 km de long sur 1 m de large avec 10 cm d'épaisseur...
+</p><p>
+Là, ce serait bien le diable si on ne trouve pas une seule autre pépite parmis tout ces diamants.
+</p><p>
+Aujourd'hui, à 44 ans bien tassés, j'ai l'intime conviction que nous sommes pas seul dans l'univers, pas seulement par désir, mais par simple bon sens. Le contraire me semble déraisonnablement prétentieux.
+</p><p>
+Mais bon affaire à suivre mais j'ai peur que la question ne soit pas tranchée à l'aube de mes derniers battements de coeur.
+</p><p>
+Par contre, j'aurais une réclamation à faire. Si tu peux dire à celui qui a configuré notre univers, que la masse du proton, OK, mais la limitation de vitesse à 300000 km/s, c'est franchement pas cool. Quand je pense que dans d'autres univers ils peuvent se mouvoir à toute allure ça me fout les boules.
+</p><p>
+Pour la peine je me reprends un Ricard.
+</p><p style="text-align: right;">
+<a href="../mer/saint-jacut.php">Saint-Jacut de la Mer</a>, lundi 21 août 2017
+
+</p>
+
+
 	
 		  <a name="expansion"></a>
 		  <h2>Expansion</h2>
