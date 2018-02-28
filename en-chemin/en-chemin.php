@@ -68,6 +68,18 @@
                      </div>
                    </div>
 				   
+<br>		  
+<a name="cancer"></a>
+<div class="row">
+<div class="col-xs-1 col-md-3 fond"></div>
+       <div class="col-xs-10 col-md-6 fond-table encadrement-table">
+			<p>La cruauté ne frappe pas au hasard. Elle cherche sa proie. La plus innocente de préférence. Elle la traque, la laisse espérer, s’approche, la fait trébucher, puis fond sur elle dans la nuit avec la plus grande lâcheté. Elle s’acharne. Jusqu’au silence. Sur sa victime, les blessures mortelles qu’on appellera cancer.</p>
+			
+			<p align="right"><em><font size="2">mercredi 28 février 2018</font></em></p>	
+		</div>
+</div>	
+<br>				   
+				   
 				  <br><br>
                   <div class="row vertical-align">
 				  	<div class="col-xs-1 visible-xs"></div>
