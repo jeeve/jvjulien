@@ -7,6 +7,22 @@
         <description>Pour des balades en textes et en images les soirs d'hiver et les autres aussi.</description>
 
 		<item>
+            <title>Nuit étoilée</title>
+            <link>http://jvjulien.free.fr/astronomie/astronomie.php#nuit-etoilee</link>
+            <guid isPermaLink="false">nuit-etoilee</guid>
+            <description>Mois d'août au camping en Bretagne. La tête dans les étoiles.</description>
+            <pubDate>Thu, 01 Mar 2018 14:12:00 GMT</pubDate>
+		</item>	
+		
+		<item>
+            <title>La cruauté</title>
+            <link>http://jvjulien.free.fr/en-chemin/en-chemin.php#cancer</link>
+            <guid isPermaLink="false">cancer</guid>
+            <description>La cruauté ne frappe pas au hasard. Elle cherche sa proie...</description>
+            <pubDate>Wed, 28 Feb 2018 23:25:00 GMT</pubDate>
+		</item>	
+
+		<item>
             <title>Le funambule</title>
             <link>https://youtu.be/Vkre8z10G50</link>
             <guid isPermaLink="false">le-funambule</guid>
