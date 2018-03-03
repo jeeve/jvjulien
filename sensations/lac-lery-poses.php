@@ -57,6 +57,10 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 						<td><p>Température air </p></td>
 						<td><p id="temperature-air"></p></td>
 					</tr>
+					<tr>
+						<td><p>Température eau </p></td>
+						<td><p id="temperature-eau"></p></td>
+					</tr>					
 					<!--
 					<tr>
 						<td><p>Température de l'eau </p></td>
@@ -67,14 +71,17 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </div>
 				  
 				  <div class="visible-xs">
+				  <div id="fond-meteo-xs"></div>
 				  <table id="meteo-small">
 					<tr>
 						<td><p>Vitesse vent </p></td>
 						<td><p id="vitesse-vent-s"></p></td>
 						<td><p>Orientation vent </p></td>
 						<td><p id="orientation-vent-s"></p></td>
-						<td><p>Température air </p></td>
+						<td><p>Air </p></td>
 						<td><p id="temperature-air-s"></p></td>
+						<td><p>Eau </p></td>
+						<td><p id="temperature-eau-s"></p></td>						
 					</tr>
 				</table>				  
 				  </div>

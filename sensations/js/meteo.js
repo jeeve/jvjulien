@@ -19,6 +19,8 @@ function getMeteo() {
 			$('#orientation-vent-s').html(data.orientationVent);
 			$('#temperature-air').html(data.temperatureExterieure);
 			$('#temperature-air-s').html(data.temperatureExterieure);
+			$('#temperature-eau').html(data.temperatureInterieure);			
+			$('#temperature-eau-s').html(data.temperatureInterieure);
 			});
 }
 
