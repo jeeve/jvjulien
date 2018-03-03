@@ -137,6 +137,8 @@
                    <div class="containerPlayer">
                         <div style="display: none;">
                            <ul id="playListContainer">
+							  <li data-src="songs/albert-code-e.mp3"><a href="#">Albert code E</a>
+                              </li>							   
 							  <li data-src="songs/le-funambule.mp3"><a href="#">Le funambule</a>
                               </li>							   
 							  <li data-src="songs/google-chante-d-ormesson.mp3"><a href="#">Google chante d'Ormesson</a>
