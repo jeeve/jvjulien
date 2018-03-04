@@ -278,7 +278,8 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
       <!--/.page-container-->
       <?php include("../includes/footer.php"); ?>	
 	  <script type="text/javascript" src="js/commentaires.js"></script>	
-	  <script src="js/jquery-ui.min.js"></script>	  
+	  <script src="js/jquery-ui.min.js"></script>
+	  <script type="text/javascript" src="js/meteo.js"></script>	  
       <script> 
          $(document).ready(function($) {
 			 
@@ -340,7 +341,6 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 			getPictures();	 
 		 }
       </script>
-	  <script type="text/javascript" src="js/meteo.js"></script>
 	  <script type="text/javascript" src="js/historique-vent.js"></script>
       <script type="text/javascript" src="js/imagebankleryposes.js"></script>
 	  <script type="text/javascript" src="js/timelapse.js"></script>	  
