@@ -163,7 +163,7 @@ Puis s'endormir à ses côtés					</p>
 				  </div>
 				  </p>
 				  <p class="legende">
-				  Playlist musicale</p>
+				  <a href="https://www.youtube.com/playlist?list=PLvp4urJ2GQfj-iL5M0SiJep9oRdVhbfFx" target="_blank">Playlist musicale</a></p>
 				 </div></div>						   
 			   
 			<br><br>
