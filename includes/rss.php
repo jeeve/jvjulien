@@ -1,7 +1,7 @@
 <?php
   libxml_disable_entity_loader(false);
   
-  echo '<table class="rss-table">';
+  echo '<table class="rss-table"><tr><td><p align="right"><a rel="alternate" type="application/rss+xml" href="../news.xml" target="_blank">flux RSS <img alt="Flux RSS" title="Flux RSS" src="../images/logo_rss.png"/></a></p></td></tr>';
   $dom = new DomDocument;
   $dom->load("../news.xml");
   $items = $dom->getElementsByTagName('item');

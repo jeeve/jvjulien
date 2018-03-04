@@ -7,6 +7,22 @@
         <description>Pour des balades en textes et en images les soirs d'hiver et les autres aussi.</description>
 
 		<item>
+            <title>Albert code E</title>
+            <link>https://youtu.be/Vh990Pt0jIg</link>
+            <guid isPermaLink="false">albert-code-e</guid>
+            <description>Nouvelle musique de Cuisine Spectrale. Chanson electro en Morse. A vos décodeurs !</description>
+            <pubDate>Sun, 3 Mar 2018 11:42:00 GMT</pubDate>
+		</item>	
+
+		<item>
+            <title>Playlist émotion</title>
+            <link>http://jvjulien.free.fr/emotions/emotions.php#playlist</link>
+            <guid isPermaLink="false">playlist-emotion</guid>
+            <description>Une playlist musicale pleine d'émotion.</description>
+            <pubDate>Sat, 3 Mar 2018 15:41:00 GMT</pubDate>
+		</item>	
+		
+		<item>
             <title>Nuit étoilée</title>
             <link>http://jvjulien.free.fr/astronomie/astronomie.php#nuit-etoilee</link>
             <guid isPermaLink="false">nuit-etoilee</guid>
