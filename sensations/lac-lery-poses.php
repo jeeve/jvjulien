@@ -246,13 +246,10 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  
 				   <br>
-				<!--  <div class="hidden-xs"> -->
-					<!--	
-					<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTuRxvfmh_N393CUqYnpa2UlW4ulEg6yLJ57ioHGg4HWB4_ge83rRoLEt9coeMxOYzcQGn4a-B3F5w2/pubhtml?widget=true&amp;headers=false" width='700' height='600' scrolling="auto"  frameborder='0'></iframe>
-					-->
+				 <div class="hidden-xs"> 
 					<table id="tableCommentaires" class="table-commentaires"></table>
 					<br>
-			<!--	  </div> -->
+				  </div>
 				  <br>		  
 				  
 				  <div id="swipe">
