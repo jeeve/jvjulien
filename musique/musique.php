@@ -137,6 +137,8 @@
                    <div class="containerPlayer">
                         <div style="display: none;">
                            <ul id="playListContainer">
+							  <li data-src="songs/peripherique-fluide.mp3"><a href="#">Périphérique fluide</a>
+                              </li>						   
 							  <li data-src="songs/albert-code.mp3"><a href="#">Albert code</a>
                               </li>							   
 							  <li data-src="songs/le-funambule.mp3"><a href="#">Le funambule</a>
