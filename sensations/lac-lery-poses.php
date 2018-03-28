@@ -74,9 +74,9 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  <div id="fond-meteo-xs"></div>
 				  <table id="meteo-small">
 					<tr>
-						<td><p>Vitesse vent </p></td>
+						<td><p>Vent </p></td>
 						<td><p id="vitesse-vent-s"></p></td>
-						<td><p>Orientation vent </p></td>
+						<td><p>Orientation </p></td>
 						<td><p id="orientation-vent-s"></p></td>
 						<td><p>Air </p></td>
 						<td><p id="temperature-air-s"></p></td>
