@@ -45,6 +45,44 @@
 </div>	
 <br>
 
+<a name="par-la-fenetre"></a>
+<h2>Par la fenêtre</h2>
+<p>
+Par la fenêtre, un décor familier<br>
+Une pelouse, la N118, un châtaigner<br>
+Par la fenêtre le temps se pose<br>
+Le disque du quotidien sur pause<br>
+Sans me calculer des oiseaux parlent<br>
+Je crois qu’ils disent qu’ils aiment le Népal<br>
+Par la fenêtre quelqu'un a peint le ciel en blanc<br>
+Pour nos amis Soleil, Lune, il se veut accueillant<br>
+Par la fenêtre plus loin encore<br>
+Dans les profondeurs glaciales du Centaure<br>
+Nébuleuses sages, sombres ou lumineuses<br>
+Étoiles par milliards brûlent silencieuses<br>
+Par la fenêtre mille mille galaxies dansent<br>
+Monstres magnifiques les bras immenses<br>
+Nourrissent d'énergie autant de mondes étranges<br> 
+En leur sein surement nombre de peuples et d’anges<br> 
+Depuis la fenêtre de mon quotidien<br>
+Notre jardin céleste me tend la main<br>
+Mais pour l’atteindre depuis ma conscience humaine<br>
+Le voyage est abyssal, la destination trop lointaine<br>
+Je rêve un jour de m’en approcher et le temps d’un éclair<br>
+Sentir battre le cœur de notre maison Univers<br>
+<br>
+Par la porte du bureau passe un sourire féminin<br>
+Instant magique du quotidien<br>
+Le disque repart, j’aime ce refrain<br>
+Petit terrien, le cœur léger, je redeviens<br>
+<br>
+C’est pas le tout, sur la planche il y a du pain<br>
+La sieste ça sera donc pour quatorze heure vingt<br>
+<p style="text-align: right;">
+Gentilly, mercredi 11 avril 2018
+</p>
+<br>
+
 <a name="nuit-etoilee"></a>
 <h2>Nuit étoilée</h2>
 <p>
