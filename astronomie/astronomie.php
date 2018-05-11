@@ -78,8 +78,8 @@ Petit terrien, le cœur léger, je redeviens<br>
 <br>
 C’est pas le tout, sur la planche il y a du pain<br>
 La sieste ça sera donc pour quatorze heure vingt<br>
-<p style="text-align: right;">
-Gentilly, mercredi 11 avril 2018
+<p style="text-align: right;"><font size="2"><em>
+Gentilly, mercredi 11 avril 2018</em></font>
 </p>
 <br>
 
@@ -87,8 +87,8 @@ Gentilly, mercredi 11 avril 2018
 <h2>Nuit étoilée</h2>
 <p>
 La Voie Lactée me fascine. C'est dommage que le Soleil ne soit pas plus excentré par rapport au plan de la galaxie. Le spectacle serait alors somptueux, pouvoir contempler le disque de notre spirale, ses bras, son bulbe. Pour moi, cela demande un effort mental conséquent pour imaginer notre univers-île dans son intégralité. C'est un peu comme si j’étais une fourmi au pied de la Tour Eiffel.
-</p><p style="text-align: right;">
-<a href="../mer/saint-jacut.php">Saint-Jacut de la Mer</a>, mercredi 23 août 2017
+</p><p style="text-align: right;"><font size="2"><em>
+<a href="../mer/saint-jacut.php">Saint-Jacut de la Mer</a>, mercredi 23 août 2017</em></font>
 </p>
 <br>
 
@@ -122,9 +122,9 @@ Mais bon affaire à suivre mais j'ai peur que la question ne soit pas tranchée 
 Par contre, j'aurais une réclamation à faire. Si tu peux dire à celui qui a configuré notre univers, que la masse du proton, OK, mais la limitation de vitesse à 300000 km/s, c'est franchement pas cool. Quand je pense que dans d'autres univers ils peuvent se mouvoir à toute allure ça me fout les boules.
 </p><p>
 Pour la peine je me reprends un Ricard.
-</p><p style="text-align: right;">
+</p><p style="text-align: right;"><font size="2"><em>
 <a href="../mer/saint-jacut.php">Saint-Jacut de la Mer</a>, lundi 21 août 2017
-
+</em></font>
 </p>
 
 
