@@ -7,6 +7,14 @@
         <description>Pour des balades en textes et en images les soirs d'hiver et les autres aussi.</description>
 
 		<item>
+            <title>La mort</title>
+            <link>http://jvjulien.free.fr/impressions/impressions.php#mort</link>
+            <guid isPermaLink="false">mort</guid>
+            <description>La mort paraît comme l’horizon, mais c’est un mur vers lequel on fonce inexorablement.</description>
+            <pubDate>Fri, 11 May 2018 20:53:00 GMT</pubDate>
+		</item>
+
+		<item>
             <title>Par la fenêtre</title>
             <link>http://jvjulien.free.fr/astronomie/astronomie.php#par-la-fenetre</link>
             <guid isPermaLink="false">par-la-fenetre</guid>
@@ -48,7 +56,7 @@
 		
 		<item>
             <title>La cruauté</title>
-            <link>http://jvjulien.free.fr/en-chemin/en-chemin.php#cancer</link>
+            <link>http://jvjulien.free.fr/impressions/impressions.php#cancer</link>
             <guid isPermaLink="false">cancer</guid>
             <description>La cruauté ne frappe pas au hasard. Elle cherche sa proie...</description>
             <pubDate>Wed, 28 Feb 2018 00:15:00 GMT</pubDate>
