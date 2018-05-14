@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
    <head>
-      <title>lac de Léry-Poses</title>
+      <title>Lac de Léry-Poses</title>
       <META NAME="Description" CONTENT="Le lac de Léry Poses avec webcam, archives, météo en temps réel et prévisions, lien vers l'association WLPA."/>
 	  <?php include("../includes/header.php"); ?>	
 	  <link rel="stylesheet" href="css/jquery-ui.min.css">
