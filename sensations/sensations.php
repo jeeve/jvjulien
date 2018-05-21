@@ -37,12 +37,19 @@
 					<div class="container-fluid; float:left">
 					<div class="row">
 					<div class="col-sm-6">
+					<!--
 					<div class="embed-responsive embed-responsive-16by9 ombre-image">
 <iframe align="left" src="https://player.vimeo.com/video/52802582?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen=" mozallowfullscreen=" allowfullscreen=" frameborder="0" height="225" width="400" class="embed-responsive-item"></iframe>
-					</div></p>
+					</div>
+					-->
+					<div class="embed-responsive embed-responsive-4by3 ombre-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/aP1cxMEdWIM?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+					</div>
+					
+					</p>
 					<p class="legende">
-					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=166953" target="_blank">
-					Moisson - dimanche 4 novembre 2012</a></p>
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=204412" target="_blank">
+					Léry-Poses - jeudi 10 mai 2018</a></p>
 					</div>
 					
 					<p>	

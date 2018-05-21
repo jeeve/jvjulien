@@ -20,7 +20,7 @@
 			   
 			    <div class="row">
 				<div class="col-xs-4">
-                  <h1>lac de Léry-Poses</h1>
+                  <h1>Lac de Léry-Poses</h1>
 				</div>
 				<div class="col-xs-8">	
 				  <p style="text-align:right;">
