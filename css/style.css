@@ -9,7 +9,7 @@ body {
 }
 
 p, h1, li, .navbar-brand  {
-    font-family: Times New Roman, Times, serif;
+    font-family: 'Raleway', sans-serif; /* Times New Roman, Times, serif; */
 }
 
 p, .sidebar-offcanvas {
@@ -24,7 +24,7 @@ p {
 	margin: 5px;
 }
 
-h2 { font-family: Times New Roman, Times, serif;
+h2 { font-family: 'Raleway', sans-serif; /* Times New Roman, Times, serif; */
 	font-size: 120%;
 	margin-left: 5px;
 	margin-top: 0px;
