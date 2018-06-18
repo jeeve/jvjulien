@@ -43,13 +43,13 @@
 					</div>
 					-->
 					<div class="embed-responsive embed-responsive-4by3 ombre-image">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/aP1cxMEdWIM?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/fsDiueE3WYw?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 					</div>
 					
 					</p>
 					<p class="legende">
-					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=204412" target="_blank">
-					Léry-Poses - jeudi 10 mai 2018</a></p>
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=205532" target="_blank">
+					Léry-Poses - samedi 26 mai 2018</a></p>
 					</div>
 					
 					<p>	
