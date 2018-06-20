@@ -33,8 +33,8 @@
 					Au détour d'un chemin, vous apercevez, derrière une ultime avancée de terre, l'océan. Le rivage compose une frontière irréelle entre deux éléments, l'un solide, immobile et fort, l'autre bouillonnant de vie et parfois de colère. Ces forces sont énormes, dominantes et se soucient guère de votre regard. Pourtant, vous qui êtes  ouvert sur le monde, il vous est impossible de renoncer à un rapprochement, même infime, un lien qui unirait votre existence à celle des dieux. Et voilà, le moment magique arrive. Comme si elle vous avait entendu, une de ces divinités vous apparaît, comme d'habitude, sans véritable forme, invisible. De toute son âme, elle vous enveloppe, vous fait frissonner, vous invite. Vous n'osez à peine y croire.
 					</p>
 					
-					<p style="margin-top:20px">
 					<div class="container-fluid; float:left">
+					<p style="margin-top:20px">
 					<div class="row">
 					<div class="col-sm-6">
 					<!--
