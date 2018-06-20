@@ -5,12 +5,12 @@
       <META NAME="Description" CONTENT="Voyage aux confins de l'univers ou plus simplement les yeux dans les étoiles à bord de notre vaisseau Terre."/>
 	  <?php include("../includes/header.php"); ?>	
 	<link href="../css/fond-etoile.css" rel="stylesheet">
-	
+<!--	
 	<style>
 		body, .fond 
 		{ background-attachment: fixed; }
 	</style>
-	
+-->	
 </head>
   <body style="color: black;"> 
   

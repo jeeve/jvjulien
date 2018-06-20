@@ -6,9 +6,14 @@
           url('/fonts/Raleway-Regular.svg') format('svg'),
           url('/fonts/Raleway-Regular.ttf') format('truetype');
 }
-
+/*
 body {
 	background-attachment: fixed;
+}
+*/
+
+#sidebar .nav a:hover {
+	background-color: #d9dff2;
 }
 
 .navbar-toggle { /* Garde affiché le bouton de menu */
