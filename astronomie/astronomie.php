@@ -188,12 +188,9 @@ De la Terre, un sourire, s’envole, traverse la Voie Lactée pour rejoindre le 
 
 <br>
 <div class="row">
-<div class="col-md-1 fond"></div>
-       <div class="col-xs-12 col-sm-12 col-md-9 fond">
-        <table cellpadding="10" class="table fond-table encadrement-table">
-          <tbody>
-		  <tr>
-            <td><p>Je  
+<div class="col-xs-1 fond"></div>
+       <div class="col-xs-10 col-md-9 fond-table encadrement-table">
+ <p>Je  
               me suis arrêté au soleil, là où le fleuve fredonne et j’ai  
               écouté ta présence.&nbsp;<br>  
               Je suis assis au bord de l’eau, sur une planète en équilibre  
@@ -210,10 +207,7 @@ De la Terre, un sourire, s’envole, traverse la Voie Lactée pour rejoindre le 
               Je m’envole au dessus de la forêt, des lacs, de notre passé,  
               de l’océan.<br>  
               Je quitte la Terre et m’enfonce dans l’espace.<br>  
-              Je pars à ta recherche.</p></td>  
-          </tr>
-		  </tbody>
-        </table>
+              Je pars à ta recherche.</p>
 	</div>
 </div>
 

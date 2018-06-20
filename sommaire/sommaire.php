@@ -6,7 +6,7 @@
 	  <?php include("../includes/header.php"); ?>	
 	    
 	  <link href="css/rss.css" rel="stylesheet">
-      <link href="../css/fond-etoile.css" rel="stylesheet">
+    <!--  <link href="../css/fond-noir.css" rel="stylesheet"> -->
       <style>
          .hover_group:hover {
          opacity: 1;
@@ -48,7 +48,7 @@
                   <div class="col-xs-12 col-sm-9 fond">
                      <h1>en route...</h1>
                      <br>
-                     <figure id="projectsvg">
+                     <figure style="border-radius: 10px;" id="projectsvg">
                         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 417" preserveAspectRatio="xMinYMin meet">
                            <image width="500" height="417" xlink:href="images/sommaire.jpg"></image>
                            <g class="hover_group" opacity="0">

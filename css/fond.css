@@ -6,6 +6,7 @@ body, .fond {
 
 .fond-table {
 	background-color: white;
+	border-radius: 10px;
 }
 
 .encadrement-table {

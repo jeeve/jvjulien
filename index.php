@@ -4,7 +4,7 @@
       <title>Au gré du vent 1.0</title>
       <META NAME="Description" CONTENT="Au travers de textes et de photos perso, ces pages sont une invitation au rêve. Sensible aux visages de la nature, je propose une petite balade en sa compagnie."/>
 	  <?php include("includes/header.php"); ?>	
-	  <link href="/css/fond-etoile.css" rel="stylesheet">
+	 <!-- <link href="/css/fond-noir.css" rel="stylesheet"> -->
 	  <link href="/css/index.css" rel="stylesheet">	
    </head>
    <body id="swipe" style="color: black;">
