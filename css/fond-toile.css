@@ -1,7 +1,6 @@
 body, .fond {
 	background-image: url('/images/toile.jpg');
     background-repeat: repeat;
-	background-attachment: fixed;
 }
 
 .fond-table {
