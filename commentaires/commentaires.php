@@ -4,7 +4,7 @@
       <title>et vous ?</title>
       <META NAME="Description" CONTENT="Le livre d'or. N'hésitez pas à y déposer un petit message..."/>
 	  <?php include("../includes/header.php"); ?>	
-      <link href="../css/fond-blanc.css" rel="stylesheet">
+      <link href="../css/fond-blanc.css" rel="stylesheet"> 
 	  <link href="css/commentaires.css" rel="stylesheet">
    </head>
    <body>
