@@ -105,6 +105,7 @@ inciter les étudiants, chercheurs, industriels à tester ces technologies
 capables d'extraire des concepts et leurs relations d'un texte par exemple, IBM 
 met à disposition ses 
 <a target="_blank" href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html">API dans le cloud</a>.</p>
+<!--
 <p>Un exemple de traduction automatique, entrez votre texte en anglais :</p>
 		<p>
 	
@@ -118,7 +119,7 @@ met à disposition ses
         <div><em>
             <p id="traduction"></p></em>
         </div>
-<br>
+<br>-->
 <!--
 <p>Un autre exemple avec la reconnaissance 
 d'images <a target="_blank" href="http://vision.alchemy.ai/">
@@ -142,34 +143,56 @@ une célébrité son nom et sa fonction...</p>
 
 <br>
 -->
-<p>Conférence de Jérôme Pesenti, vice-président, Core Technology, chez IBM 
-Watson :</p>
-<p align="center">
+<br>
 
-<div class="row">
-<div class="col-xs-12 col-sm-3"></div>
-<div class="col-xs-12 col-sm-6">
-<div class="embed-responsive embed-responsive-16by9 ombre-image">
-<iframe src="https://www.youtube.com/embed/-nxUrBOiWVE?rel=0&amp;showinfo=0" allowfullscreen=" frameborder="0" height="169" width="300" class="embed-responsive-item"></iframe>
-</div>
-</div>
-</div>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/-nxUrBOiWVE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					Conférence de Jérôme Pesenti, vice-président, Core Technology, chez IBM Watson
+				  </p>
+				  </div></div>	
+				  
 
 </p>
 <p align="right"><em><font size="2">dimanche 3 avril 2016</font></em></p>
 <br>
 <a name="traducteur-langue-systran"></a>
-<p>Un autre sytème de traduction automatique à base de réseaux de neurones artificiels : <a target="_blank" href="https://demo-pnmt.systran.net/production#/translation">https://demo-pnmt.systran.net/production#/translation</a>
+<p>Un sytème de traduction automatique à base de réseaux de neurones artificiels : <a target="_blank" href="https://demo-pnmt.systran.net/production#/translation">https://demo-pnmt.systran.net/production#/translation</a>
 </p>
 <p align="right"><em><font size="2">mardi 18 octobre 2016</font></em></p>
 <hr>
 
 <a name="ia"></a>
+<h2>TensorFlow, le deep learing à portée de main</h2>
+<p>Une vidéo très instructive pour appréhender l'apprentissage automatique à travers l'outil dédié <a target="_blank" href="https://www.tensorflow.org/">TensorFlow</a>. Le code source est ouvert, interfaçable en langage Python. A vos claviers !</p>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/BtAVBeLuigI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					Tensorflow et l'apprentissage profond, sans les équations différentielles (Martin Görner)
+				  </p>
+				  </div></div>	
+				  
+<p align="right"><em><font size="2">vendredi 29 juin 2018</font></em></p>
+<br>
+
 <h2>DeepMind récidive</h2>
 <p>Le 5 décembre 2017, l'équipe de <a target="_blank" href="https://fr.wikipedia.org/wiki/DeepMind">DeepMind</a> publie un <a target="_blank" href="alphazero.pdf">article</a> dans laquelle elle explique avoir créé une intelligence artificielle capable de battre le meilleur programme de jeu d'échecs actuel. 
 Son nom, AlphaZero. La particularité, les règles du jeux définies, la machine a appris à jouer toute seule contre elle-même en s'améliorant au fil des parties.</p>
-<p align="right"><em><font size="2">vendredi 29 juin 2018</font></em></p>
+<p align="right"><em><font size="2">décembre 2017</font></em></p>
 <br>
+
 <h2>Intelligence artificielle, une nouvelle étape ?</h2><a target="_blank" href="https://fr.wikipedia.org/wiki/Go_(jeu)"><img class="ombre-image image-dans-texte" alt="Le jeu de Go" title="Le jeu de Go" src="images/go.jpg" height="129" align="right" border="0" width="130"></a></p>
 <p>En octobre 2015, AlphaGo fait le "<a target="_blank" href="https://youtu.be/P6eBraOUBLw">buzz</a>" en devenant le premier logiciel d'IA 
 à gagner au jeu de Go contre un joueur professionnel. Pourtant ce jeu nécessite 
