@@ -40,6 +40,7 @@
                      <p align="right"><br>
                         <a id="page-suivante" href="sommaire/sommaire.php">en route...</a>
                      </p>
+					 <br>
                   </div>
                </div>
             </div>
