@@ -165,6 +165,11 @@ Watson :</p>
 <hr>
 
 <a name="ia"></a>
+<h2>DeepMind récidive</h2>
+<p>Le 5 décembre 2017, l'équipe de <a target="_blank" href="https://fr.wikipedia.org/wiki/DeepMind">DeepMind</a> publie un <a target="_blank" href="alphazero.pdf">article</a> dans laquelle elle explique avoir créé une intelligence artificielle capable de battre le meilleur programme de jeu d'échecs actuel. 
+Son nom, AlphaZero. La particularité, les règles du jeux définies, la machine a appris à jouer toute seule contre elle-même en s'améliorant au fil des parties.</p>
+<p align="right"><em><font size="2">vendredi 29 juin 2018</font></em></p>
+<br>
 <h2>Intelligence artificielle, une nouvelle étape ?</h2><a target="_blank" href="https://fr.wikipedia.org/wiki/Go_(jeu)"><img class="ombre-image image-dans-texte" alt="Le jeu de Go" title="Le jeu de Go" src="images/go.jpg" height="129" align="right" border="0" width="130"></a></p>
 <p>En octobre 2015, AlphaGo fait le "<a target="_blank" href="https://youtu.be/P6eBraOUBLw">buzz</a>" en devenant le premier logiciel d'IA 
 à gagner au jeu de Go contre un joueur professionnel. Pourtant ce jeu nécessite 
@@ -183,11 +188,11 @@ faciale, les prédictions financières sont autant de domaines qui motivent la
 recherche sur ces nouvelles technologies. L'évolution est telle que le célèbre 
 physicien 
 <a target="_blank" href="https://fr.wikipedia.org/wiki/Stephen_Hawking">Stephen Hawking</a> s'inquiète : « <em>L'intelligence artificielle pourrait 
-mettre fin à l'humanité</em> ».<br>
+mettre fin à l'humanité</em>&nbsp;».<br>
 <br>
 Pour ma part, en tant que passionné d'informatique, de nouveaux territoires à 
 explorer... Le robot Atlas de Boston Dynamics préfigure peut-être cette 
-révolution :</p>
+révolution :</p><br>
 <p>
 
 <div class="row">
