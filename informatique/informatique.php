@@ -170,7 +170,7 @@ une célébrité son nom et sa fonction...</p>
 
 <a name="ia"></a>
 <a name="tensorflow"></a>
-<h2>TensorFlow, le deep learing à portée de main</h2>
+<h2>TensorFlow, le deep learning à portée de main</h2>
 <p>Une vidéo très instructive pour appréhender l'apprentissage automatique à travers l'outil dédié <a target="_blank" href="https://www.tensorflow.org/">TensorFlow</a>. Le code source est ouvert, interfaçable en langage Python. A vos claviers !</p>
 				  <div class="row">
 				  <div class="col-xs-12 col-sm-2 fond"></div>
