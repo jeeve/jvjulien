@@ -4,7 +4,6 @@
       <title>et vous ?</title>
       <META NAME="Description" CONTENT="Le livre d'or. N'hésitez pas à y déposer un petit message..."/>
 	  <?php include("../includes/header.php"); ?>	
-      <link href="../css/fond-blanc.css" rel="stylesheet"> 
 	  <link href="css/commentaires.css" rel="stylesheet">
    </head>
    <body>
@@ -19,10 +18,14 @@
 			   
                <!-- main area -->
                <div class="col-xs-12 col-sm-12 col-md-9 fond">
-               <!--   <h1>et vous ?</h1> -->
-				  
+               <h1>et vous ?</h1>
+				 <!-- 
 				  <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dGRnSHRTdGEzZXJyTWc3RWFrOWJKSnc6MQ" scrolling="auto" width="500" height="680" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
+				-->	
+				<br>
+				<p>
+				  <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScUMpl5aHuNL5oAYS7NuLTtU7IFQ2Jr4G_q_GnL9lEEzshdkA/viewform?usp=sf_link">Si vous souhaitez laisser un message, n'hésitez pas ! <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>
+				  </p>
 				  <p><br></p>
 				  
 				<!-- 

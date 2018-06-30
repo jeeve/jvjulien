@@ -246,7 +246,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  <a name="commentaires"></a>
 				  <h2>Commentaires</h2>
 				  <p>
-				  <a href="https://goo.gl/forms/ZlDIbV7DJhXjArND3" target="_blank"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Poster un commentaire</a> 
+				  <a href="https://goo.gl/forms/ZlDIbV7DJhXjArND3" target="_blank">Poster un commentaire <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a> 
 				  </p>
 				  
 				   <br>

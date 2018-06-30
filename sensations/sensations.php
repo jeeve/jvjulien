@@ -83,6 +83,17 @@
 				  </a>
 			  	  </div>
 				  </div>
+				  
+                  <br><br>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-1 fond"></div>
+				  <div class="col-xs-12 col-sm-10 fond">
+				  <p align="center">
+				  <a href="windsurf-kitesurf.php">
+	              <img alt="Kitesurf à Saint-Jacut de la Mer - 24 juillet 2007 - photo André J." title="Kitesurf à Saint-Jacut de la Mer - 24 juillet 2007 - photo André J." src="images/kitesurf-saint-jacut.jpg" class="img-responsive ombre-image" />
+			  	  <p class="legende">kitesurf</p></a></p>
+				  </div>
+				  </div>				  
 
 				  <br><br>
 				  <div class="row">
@@ -131,16 +142,6 @@
 				 
                   </div>
 				</div>
-                  <br><br><br>
-				  <div class="row">
-				  <div class="col-xs-12 col-sm-1 fond"></div>
-				  <div class="col-xs-12 col-sm-10 fond">
-				  <p align="center">
-				  <a href="windsurf-kitesurf.php">
-	              <img alt="Kitesurf à Saint-Jacut de la Mer - 24 juillet 2007 - photo André J." title="Kitesurf à Saint-Jacut de la Mer - 24 juillet 2007 - photo André J." src="images/kitesurf-saint-jacut.jpg" class="img-responsive ombre-image" />
-			  	  <p class="legende">kitesurf</p></a></p>
-				  </div>
-				  </div>
 				  
 				  <br>
 				  <a name="clips-cuisine-spectrale"></a>
