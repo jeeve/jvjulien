@@ -156,11 +156,9 @@ une célébrité son nom et sa fonction...</p>
 				  <p class="legende">
 					Conférence de Jérôme Pesenti, vice-président, Core Technology, chez IBM Watson
 				  </p>
-				  </div></div>	
-				  
+				  </div></div>	  
 
-</p>
-<p align="right"><em><font size="2">dimanche 3 avril 2016</font></em></p>
+
 <br>
 <a name="traducteur-langue-systran"></a>
 <p>Un sytème de traduction automatique à base de réseaux de neurones artificiels : <a target="_blank" href="https://demo-pnmt.systran.net/production#/translation">https://demo-pnmt.systran.net/production#/translation</a>
