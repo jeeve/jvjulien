@@ -193,7 +193,7 @@ Son nom, AlphaZero. La particularité, les règles du jeux définies, la machine
 <br>
 
 <h2>Intelligence artificielle, une nouvelle étape ?</h2><a target="_blank" href="https://fr.wikipedia.org/wiki/Go_(jeu)"><img class="ombre-image image-dans-texte" alt="Le jeu de Go" title="Le jeu de Go" src="images/go.jpg" height="129" align="right" border="0" width="130"></a></p>
-<p>En octobre 2015, AlphaGo fait le "<a target="_blank" href="https://youtu.be/P6eBraOUBLw">buzz</a>" en devenant le premier logiciel d'IA 
+<p>En octobre 2015, AlphaGo conçut par la société DeepMind fait le "<a target="_blank" href="https://youtu.be/P6eBraOUBLw">buzz</a>" en devenant le premier logiciel d'IA 
 à gagner au jeu de Go contre un joueur professionnel. Pourtant ce jeu nécessite 
 d'autres facultés que la "simple" exploration des combinaisons de solutions.<br>
 <br>
