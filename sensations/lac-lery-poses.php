@@ -50,7 +50,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 						<td><p id="vitesse-vent"></p></td>
 					</tr>
 					<tr>
-						<td><p>Orientation vent </p></td>
+						<td><p>Orientation </p></td>
 						<td><p id="orientation-vent"></p></td>
 					</tr>				
 					<tr>
