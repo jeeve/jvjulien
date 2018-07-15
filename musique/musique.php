@@ -137,6 +137,8 @@
                    <div class="containerPlayer">
                         <div style="display: none;">
                            <ul id="playListContainer">
+							  <li data-src="songs/max-et-lulu.mp3"><a href="#">Max et Lulu</a>
+                              </li>							   
 							  <li data-src="songs/epicentre.mp3"><a href="#">Epicentre</a>
                               </li>							   
 							  <li data-src="songs/alteration.mp3"><a href="#">Altération</a>
