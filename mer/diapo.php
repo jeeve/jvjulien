@@ -61,7 +61,7 @@
     <div class="item"> <img src="images/diapos/aber-wrach.jpg" alt="Aber Wrac'h - 4 août 2004" title="Aber Wrac'h - 4 août 2004"></div>
     <div class="item"> <img src="images/diapos/annexe-les-haas.jpg" alt="Les Haas - 12 août 2003" title="Les Haas - 12 août 2003"></div>
     <div class="item"> <img src="images/diapos/ault.jpg" alt="Ault - 6 mai 2009" title="Ault - 6 mai 2009"></div>
-    <div class="item"> <img src="images/diapos/barques-les-haas.jpg" alt="Les Haas - 29 mai 2004" title="Les Haas - 29 mai 2004"></div>
+    <!--<div class="item"> <img src="images/diapos/barques-les-haas.jpg" alt="Les Haas - 29 mai 2004" title="Les Haas - 29 mai 2004"></div>-->
     <div class="item"> <img src="images/diapos/bateau-couchant-les-haas.jpg" alt="Les Haas - 1er août 2007" title="Les Haas - 1er août 2007"></div>
     <div class="item"> <img src="images/diapos/bateau-les-haas.jpg" alt="Les Haas - 1er août 2007" title="Les Haas - 1er août 2007"></div>
     <div class="item"> <img src="images/diapos/cap-frehel-la-fosse.jpg" alt="Cap Fréhel - plage de la Fosse - 17 août 2006" title="Cap Fréhel - plage de la Fosse - 17 août 2006"></div>
