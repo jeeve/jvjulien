@@ -19,23 +19,27 @@ body {
   border:0 #f2f2f2 solid;
   border-bottom-width:1px;
 }
-#sidebar .nav .active a {
+#sidebar .nav .active a  {
   font-weight: bold;
   text-decoration: none;
 }
- #bouton-bas-page {
+#bouton-bas-page {
 	  right: 110px;
 	  padding-bottom: 6px;
 }
 #sidebar .nav .active > ul {
-	text-align : right;
 	list-style: none;
 	text-align: center;
 	padding: 0;
 }
+
 #sidebar .nav .active > ul > li > a {
 	font-size: 80%;
 	font-weight: normal;
+}
+#sidebar .nav .active .active2 a {
+  font-weight: bold;
+  text-decoration: none;	
 }
 @media screen and (max-width: 767px) {
   #bouton-bas-page {
