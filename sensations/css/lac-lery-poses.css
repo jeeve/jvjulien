@@ -38,7 +38,7 @@ label {
 	position: absolute;
 	top: 0px;	
 	background-color: white;
-	width: 215px;
+	width: 200px; /*215px;*/
 	height: 120px;
 	filter: alpha(opacity=80);
 	-moz-opacity: 0.8;

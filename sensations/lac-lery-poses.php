@@ -54,11 +54,11 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 						<td><p id="orientation-vent"></p></td>
 					</tr>				
 					<tr>
-						<td><p>Température air </p></td>
+						<td><p>Air </p></td>
 						<td><p id="temperature-air"></p></td>
 					</tr>
 					<tr>
-						<td><p>Température eau </p></td>
+						<td><p>Eau </p></td>
 						<td><p id="temperature-eau"></p></td>
 					</tr>					
 					<!--
