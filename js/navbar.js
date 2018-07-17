@@ -1,7 +1,7 @@
 // gère l'activation du menu
 
 $(document).ready(function() { 
-	$('li').filter(function() {
+	$('.nav > li').filter(function() {
 		if ($(this).children('a').length != 0)
 				{
 					url = document.location.href; 
@@ -15,4 +15,5 @@ $(document).ready(function() {
 					return false;
 				}				
 	}).addClass('active');
+	$('.active ul').css('display', 'block');
 });

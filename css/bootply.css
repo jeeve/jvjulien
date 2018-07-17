@@ -27,7 +27,16 @@ body {
 	  right: 110px;
 	  padding-bottom: 6px;
 }
-
+#sidebar .nav .active > ul {
+	text-align : right;
+	list-style: none;
+	text-align: center;
+	padding: 0;
+}
+#sidebar .nav .active > ul > li > a {
+	font-size: 80%;
+	font-weight: normal;
+}
 @media screen and (max-width: 767px) {
   #bouton-bas-page {
 	  right: 60px;
