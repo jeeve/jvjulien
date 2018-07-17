@@ -264,7 +264,7 @@
    
 	</div>
          <div style="position: absolute; left: 250px">	
-            <a target="_blank" href="https://soundcloud.com/cuisine-spectrale/tracks"><img title="Cuisine Spectrale" border="0" src="images/cuisinespectralemini.png" width="50" height="50"></a>
+            <a target="_blank" href="https://www.youtube.com/playlist?list=PLvp4urJ2GQfiRa0B5ZYjLukDXRb4fA4zr"><img title="Cuisine Spectrale" border="0" src="images/cuisinespectralemini.png" width="50" height="50"></a>
          </div>
   
 

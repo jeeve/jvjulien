@@ -239,7 +239,7 @@ De l'atelier et d'autres que je connais...
 				  </div>
 				  </p>
 				  <p class="legende">
-				  Max et Lulu par <a href="https://soundcloud.com/cuisine-spectrale/tracks" target="_blank">Cuisine Spectrale</a>
+				  Max et Lulu par <a href="https://www.youtube.com/playlist?list=PLvp4urJ2GQfiRa0B5ZYjLukDXRb4fA4zr" target="_blank">Cuisine Spectrale</a>
 				  </p>
 				  </div></div>
 <br>
