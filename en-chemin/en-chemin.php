@@ -228,6 +228,22 @@ De l'atelier et d'autres que je connais...
 			
 			</div>
 			<br>
+			
+				  <br><a name="max-et-lulu"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+				 <iframe width="560" height="315" src="https://www.youtube.com/embed/T6v8fo2J3Z0?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+				  Max et Lulu par <a href="https://soundcloud.com/cuisine-spectrale/tracks" target="_blank">Cuisine Spectrale</a>
+				  </p>
+				  </div></div>
+<br>
+				  
 				   
 				   
 				   				 <a name="simulation"></a>

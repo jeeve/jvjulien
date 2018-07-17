@@ -82,13 +82,14 @@ du scanner. De ce jour est né "au gré du vent 1.0".<p align="right"><em><font 
 	-->		
 		<p><br></p>		          
         <p>un peu de sons aromatisés    
-		aux herbes...&nbsp;&nbsp;<a target="_blank" href="https://soundcloud.com/cuisine-spectrale"><img src="images/cuisine-spectrale.png" alt="Cuisine Spectrale" title="Cuisine Spectrale" height="50" border="0" width="50"></a>&nbsp;&nbsp;<br> 
+		aux herbes...&nbsp;&nbsp;<a target="_blank" href="https://soundcloud.com/cuisine-spectrale/tracks"><img src="images/cuisine-spectrale.png" alt="Cuisine Spectrale" title="Cuisine Spectrale" height="50" border="0" width="50"></a>&nbsp;&nbsp;<br> 
         et une plongée dans l'univers de Davido et Kumi&nbsp;&nbsp; 
 		<a target="_blank" href="http://fantasy-art.overblog.com/"><img src="images/dawasaki.jpg" height="38" border="0" width="50"></a></p>
 		<p>&nbsp;</p>
 				  
 		<p>Pour clore cette balade au gré du vent, je laisse la parole à un 
-		célèbre physicien du XX<sup>ème</sup> siècle...</p>	
+		célèbre physicien du XX<sup>ème</sup> siècle...</p>
+<br>		
 
 		<div class="row">
 			<div class="col-xs-1 col-sm-1"></div>
