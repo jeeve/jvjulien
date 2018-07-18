@@ -38,6 +38,7 @@ body {
 	padding: 5px;
 	width: 100%;
 	display: block;
+	text-decoration: underline;
 }
 #sidebar .nav .active .active2 a {
   font-weight: bold;
