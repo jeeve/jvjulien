@@ -362,6 +362,20 @@ De la Terre, un sourire, s’envole, traverse la Voie Lactée pour rejoindre le 
 				tours de manège stellaire ? Essayons de profiter du voyage.</p>
 				</div>
 				</div>
+				
+				  <br><a name="taille-univers"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+				 <iframe width="560" height="315" src="https://www.youtube.com/embed/CBOD7zg4zpA?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+				  6 minutes pour voir la taille de l'Univers...
+				  </p>
+				  </div></div>				
 	
 <br><br>
 <div id="swipe"><div class="row">
