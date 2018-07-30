@@ -246,7 +246,23 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  Test de la V8 dans le vent léger
 				  </p>
 					</div></div>	
-									  
+					
+				  <br><a name="kitesurf-crotoy-1-5-2009"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJr2d2GKdbw?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=166966" target="_blank">
+				  Session kitesurf au Crotoy, le 1er mai 2009</a><br>
+				  Un peu de vent mais pour ce qui est du soleil...
+				  </p>
+				  </div></div>
+														  
 				  				  
 			<br>
 			<div id="swipe"><div class="row">
