@@ -116,6 +116,14 @@ Prévenez vos proches d'une attaque imminente en leur communiquant ce message<br
 					Il reste néanmoins beaucoup de mystères autour du personnage.
 					</p>					
 
+					<br><p><a name="simulation-alex"></a><em><u>Alexandre du Haut Marnais</u></em><br>
+					Vous êtes gérant d’un Mcdo, d’un Quick, d’un kebab, méfiez-vous. Il passe inaperçu vêtu d’un imperméable beige et d’une chaussure noire. Son regard est aiguisé, il parcourt les différents menus pour trouver celui qui saura combler son intense désir gustatif. 
+					Si vous êtes suffisamment attentif lors de la commande, vous pourrez déceler des intonations haute marnaise. Là, ne le décevez pas et sortez vos plus grandes frites et le steak maxi bacon avec petits oignons finement émincés. 
+					Notre homme est testeur de fast food au sein du très renommé guide Good Year. Outre cette noble profession, il exerce accessoirement le métier de forgeron. 
+					Une de ses grandes passions, outre la musique et le sauna d’appartement, c’est bien sûr la collection d’enclumes de différent gabarit, de différentes couleurs, qui c’est vrai, occupent un peu de place dans son loft de 14m2. C'est une de ses plus belles pièces qui lui sert d’oreiller. 
+					Forgeron est quasiment son seul défaut. D’ailleurs dès qu’il a un moment de libre, il s’adonne dans le plus grand secret aux lectures de Fonderie magazine et on l’aurait même surpris en train de méditer  un rapport de <a href="#simulation-jose">José del Rio</a> à l’ombre d’un chêne.
+					</p>					
+					
 					<br><p><a name="simulation-communique"></a><em><u>Communiqué NCIS du 7 mars 2017</u></em><br>
 					<img src="images/jeeve-barbu.jpg" class="ombre-image image-dans-texte" style="float: right" alt="Jeeve l'informaticien - 13 avril 2009" title="Jeeve l'informaticien - 13 avril 2009">
 					Cet informaticien vivait reclus dans son bureau depuis des mois.<br>
