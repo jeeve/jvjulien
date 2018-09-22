@@ -254,7 +254,136 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  <li>Les images sont issues de la caméra du Syndicat Mixte de la Base de Loisirs et Plein Air de Léry-Poses</li>
 				  </ul>
 				  </font></em></p>
-				  				  
+				  
+				  <br>
+				  <h2>Sessions en vidéo</h2>
+				  		
+				  <br><a name="lery-poses-21-09-18"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/JTd-HKdMfew?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=213684" target="_blank">
+				  Léry-Poses, vendredi 21 septembre 2018</a>
+				  </p>
+				  </div></div>
+				  
+				  <br><a name="lery-poses-26-05-18"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/fsDiueE3WYw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=205532" target="_blank">
+				  Léry-Poses, 26 mai 2018</a><br>
+				  La planche c'est cool !
+				  </p>
+				  </div></div>
+				  
+				  <br><a name="lery-poses-16-05-18"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/G1e040GygAU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=204994" target="_blank">
+				  Léry-Poses, 16 mai 2018</a><br>
+				  Ceci n'est pas un reportage animalier.
+				  </p>
+				  </div></div>
+				  
+				  <br><a name="lery-poses-10-05-18"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/aP1cxMEdWIM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=204412" target="_blank">
+				  Léry-Poses, jeudi 10 mai 2018</a><br>
+				  Le jour où j'ai filmé Phil95.
+				  </p>
+				  </div></div>					  
+				  
+				  <br><a name="lery-poses-22-04-18"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/I4K38qxT47c?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=202905" target="_blank">
+				  Léry-Poses, dimanche 22 avril 2018</a><br>
+				  Caméra embarqué sur le wishbone.
+				  </p>
+				  </div></div>				  
+				  
+				  <br><a name="lery-poses-24-06-17"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/NI9sRobneb8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=183014" target="_blank">
+				  Léry-Poses, samedi 24 juin 2017</a><br>
+				  Session sous le soleil mais le vent est resté très timide. Petits planning au début. Spéciale dédicace au teeshirt de Roger. Le canard qui m'avait doublé lors d'une précédente navigation est venu me narguer pendant que je gréais, mais une fois sur l'eau, il rigolait moins.
+				  </p>
+				  </div></div>				  
+
+				  <br><a name="lery-poses-26-05-17"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				 <iframe width="560" height="315" src="https://www.youtube.com/embed/oimKwqCOqWQ?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=180514" target="_blank">
+				  Léry-Poses, vendredi 26 mai 2017</a><br>
+				  Du soleil, du vent, du monde sur l'eau...
+				  </p>
+				  </div></div>
+				  
+				  <br><a name="lery-poses-16-04-17"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+				 <iframe src="https://player.vimeo.com/video/213436611?title=0&byline=0&portrait=0" width="425" height="319" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=177119" target="_blank">
+				  Léry-Poses, 16 avril 2017</a><br>
+				  Test de la V8 dans le vent léger
+				  </p>
+					</div></div>				  
 				  
 				  <a name="commentaires"></a>
 				  <h2>Commentaires</h2>

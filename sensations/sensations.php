@@ -48,8 +48,7 @@
 					
 					</p>
 					<p class="legende">
-					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=205532" target="_blank">
-					Léry-Poses - samedi 26 mai 2018</a></p>
+					<a href="lac-lery-poses.php">Léry-Poses</a> - samedi 26 mai 2018</p>
 					</div>
 					
 					<p>	
