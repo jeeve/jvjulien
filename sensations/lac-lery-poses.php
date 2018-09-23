@@ -167,8 +167,8 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 					<div class="hidden-xs col-sm-2" style="margin-left: 65px;">
 						<div class="fond-table encadrement-table" style="width: 150px;">
 							<p>	
-							<a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a><br><br>
 							<a href="https://www.ventusky.com/?p=49.39;0.90;8&l=wind-10m" target="_blank">Ventusky</a><br><br>
+							<a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a><br><br>
 							<a href="http://www.xcweather.co.uk/forecast/L%C3%A9ry_poses" target="_blank">XCWeather</a><br><br>
 							<a href="http://www.meteofrance.com/previsions-meteo-france/val-de-reuil/27100" target="_blank">Météo France</a>
 							</p>

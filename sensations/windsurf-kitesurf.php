@@ -181,24 +181,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  Le jour où j'ai filmé Phil95.
 				  </p>
 				  </div></div>	
-				  
-					
-				  <br><a name="lery-poses-16-04-17"></a>
-				  <div class="row">
-				  <div class="col-xs-12 col-sm-2 fond"></div>
-				  <div class="col-xs-12 col-sm-8 fond">
-				  <p align="center">
-				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
-				 <iframe src="https://player.vimeo.com/video/213436611?title=0&byline=0&portrait=0" width="425" height="319" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-				  </div>
-				  </p>
-				  <p class="legende">
-					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=177119" target="_blank">
-				  Léry-Poses, 16 avril 2017</a><br>
-				  Test de la V8 dans le vent léger
-				  </p>
-					</div></div>	
-					
+				  			
 				  <br><a name="kitesurf-crotoy-1-5-2009"></a>
 				  <div class="row">
 				  <div class="col-xs-12 col-sm-2 fond"></div>
