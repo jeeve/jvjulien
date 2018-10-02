@@ -258,7 +258,10 @@
                   <div class="row">
                      <div class="col-xs-1 col-sm-1 fond"></div>
 					  <div class="col-xs-10 col-sm-10 fond-table encadrement-table">
-									<img style="float:right" src="images/claude-imbert.jpg" alt="Claude Imbert par Eric Teyssie" title="Claude Imbert par Eric Teyssie" class="img-responsive" />
+									<div style="float:right;" >
+									<img src="images/claude-imbert.jpg" alt="Claude Imbert par Eric Teyssie" title="Claude Imbert par Eric Teyssie" class="img-responsive" />
+									<p style="text-align: center;"><font size=2><em>Claude Imbert par Eric Teyssie</em></font></p>
+									</div>
 
 						<a name="claude-imbert"></a><h2>Symptômes épidermiques après lecture d'un 
 			éditorial de 
