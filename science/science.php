@@ -28,9 +28,7 @@
                            territoire des connaissances de l'humanité. 
                            Merci pour votre
                            <a target="_blank" href="https://docs.google.com/forms/d/1gqrACtIwWh5YcNOX6Xx59YcppLNEZ0MtWFP3TAbFIug/viewform?entry.1000001&amp;entry.532531437&amp;entry.1000002">
-                           <span class="glyphicon glyphicon-edit" aria-hidden="true"></span> contribution</a><span class="hidden-xs"> et à
-                           <a target="_blank" href="https://twitter.com/plantu">@plantu</a> pour avoir 
-                           accepté gracieusement d'illustrer cette rubrique</span>.
+                           <span class="glyphicon glyphicon-edit" aria-hidden="true"></span> contribution</a>.
                         </p>
                         <br>
 						<ul class="sommaire">
