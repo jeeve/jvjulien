@@ -63,7 +63,7 @@
                                  <table class="table-interne">
                                     <tr>
                                        <td colspan="2">
-                                          <p><a name="hypothese-riemann-fin"></a>Le problème mathématique le plus difficile du monde ? Il parait que c'est l'hypothèse de Riemann... Récompense : 1 million de dollars.</p>
+                                          <p><a name="hypothese-riemann"></a>Le problème mathématique le plus difficile du monde ? Il parait que c'est l'hypothèse de Riemann... Récompense : 1 million de dollars.</p>
 														  <br>
 														  <p align="center">
 				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
@@ -88,6 +88,33 @@
                                  </table>
                               </td>
                            </tr>
+                           <tr>
+                              <td>
+                                 <table class="table-interne">
+                                    <tr>
+                                       <td colspan="2">
+                                          <p><a name="hypothese-riemann-fin"></a>1+2+3+4+5+6+7+… = -1/12 !</p>
+														  <br>
+														  <p>Explications de David Louapre dans ce <a href="https://sciencetonnante.wordpress.com/2013/05/27/1234567-112/" target="_blank">billet</a> 
+														  <br>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td class="colonne-lien">
+                                          <a href="#sommaire"><font size="1">Sommaire</font></a><font size="1"> 
+                                          - <a href="#hypothese-riemann">L'hypothèse de Riemann</a> -
+                                          </font>
+                                          <a href="#hypothese-riemann-fin"><font size="1">Fin</font></a>
+                                       </td>
+                                       <td class="colonne-auteur">
+                                          
+                                          <font size="1"><a target="_blank" href="https://twitter.com/dlouapre">@dlouapre</a></font><font size="1">, 
+                                          4/10/2018 16h45</font>
+										</td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>						   
                         </table>
                         
 						<a name="espace-temps"></a>
