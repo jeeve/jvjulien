@@ -25,6 +25,7 @@
 					<ul style="display: none;">
 						<li><a href="/sensations/windsurf-kitesurf.php">windsurf / kitesurf</a></li>
 						<li><a href="/sensations/lac-lery-poses.php">lac de Léry-Poses</a></li>
+						<li><a href="/sensations/grande-paroisse.php">la Grande-Paroisse</a></li>
 						<li><a href="/sensations/powerkite.php">powerkite</a></li>
 					</ul>
 				  </li>

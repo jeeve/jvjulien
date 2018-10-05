@@ -404,7 +404,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 							<p><a href="sensations.php">sensations</a> - <a id="page-precedente" href="windsurf-kitesurf.php">windsurf / kitesurf</a></p>
 						</div>
 						<div class="col-xs-7">
-							<p align="right"><a id="page-suivante" href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
+							<p align="right"><a id="page-suivante" href="grande-paroisse.php">la Grande-Paroisse</a> - <a href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
 						</div>
 					</div>
 					<div class="row">
