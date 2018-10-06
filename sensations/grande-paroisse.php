@@ -32,13 +32,15 @@
 					</div>
 						
 						<div class="col-xs-12 col-sm-6 fond">
-							
+							<a href="http://eauplate.com/Paroisse.html" target="_blank">
 							<img style="margin-left: auto; margin-right: auto;" src="images/grande-paroisse.gif" class="img-responsive ombre-image" alt="Les mises à l'eau" title="Les mises à l'eau">
-							
+							</a>
 					
 							<p class="legende">Les mises à l'eau</p>
 							<br>
 							<p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=928" target="_blank">My wind session</a></p>
+							<br>
+							<p class="legende">Le forum des <a href="http://tontons-windsurfers.forumprod.com/" target="_blank">Tontons Windsurfers</a></p>
 						</div>
                     
                   </div>
