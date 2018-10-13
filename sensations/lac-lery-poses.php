@@ -257,7 +257,37 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  
 				  <br>
 				  <h2>Sessions en vidéo</h2>
-				  		
+
+				  <br><a name="lery-poses-13-10-18"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/Zsfe4FsE9ZE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=215248" target="_blank">
+				  Balade, micro-plannings et autres gamelles, samedi 13 octobre 2018</a>
+				  </p>
+				  </div></div>
+				  
+				  <br><a name="lery-poses-11-10-18"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/dywEbCxmmi0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=215139" target="_blank">
+				  Un jeudi au soleil, 11 octobre 2018</a>
+				  </p>
+				  </div></div>
+				  
 				  <br><a name="lery-poses-21-09-18"></a>
 				  <div class="row">
 				  <div class="col-xs-12 col-sm-2 fond"></div>
