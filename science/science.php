@@ -239,7 +239,7 @@
                                  <table class="table-interne">
                                     <tr>
                                        <td colspan="2">
-                                          <p><a name="mouvement-perpetuel-fin"></a><a name="fractal"></a>Une autre illustration mais sans les cacahuètes. A regarder jusqu'à la fin...<br><br>
+                                          <p><a name="fractal"></a>Une autre illustration mais sans les cacahuètes. A regarder jusqu'à la fin...<br><br>
 										  <p align="center">
 											<img src="images/fractal.gif" width=250 height=250 class="ombre-image">	
 											</p>
@@ -261,6 +261,41 @@
                                  </table>
                               </td>
                            </tr>
+                           <tr>
+                              <td>
+                                 <table class="table-interne">
+                                    <tr>
+                                       <td colspan="2">
+                                          <p><a name="mouvement-perpetuel-fin"></a><a name="jeu-de-la-vie"></a>Une configuration du je de la vie génère... un jeu de la vie !<br><br>
+										  <p align="center">
+				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+				  <iframe width="200" height="112" src="https://www.youtube.com/embed/xP5-iIeKXE8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+											<br><br>
+											<p>
+											Pour en savoir plus, je vous conseille cette vidéo de David Louapre <a href="https://youtu.be/S-W0NX97DB0" target="_blank">https://youtu.be/S-W0NX97DB0</a>
+											</p>
+										</p><br>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td class="colonne-lien">
+                                          <a href="#sommaire"><font size="1">Sommaire</font></a><font size="1"> 
+                                          - <a href="#mouvement-perpetuel">Mouvement perpétuel</a> -
+                                          </font>
+                                          <a href="#mouvement-perpetuel-fin"><font size="1">Fin</font></a>
+                                       </td>
+                                       <td class="colonne-auteur">
+                                         <a target="_blank" href="https://twitter.com/jeeve">
+                                          <font size="1">@jeeve</font></a><font size="1">, 
+                                          21/10/2017 22h38</font>
+										</td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+						   
 						   <!--
                            <tr>
                               <td>
