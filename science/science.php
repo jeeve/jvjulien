@@ -266,7 +266,7 @@
                                  <table class="table-interne">
                                     <tr>
                                        <td colspan="2">
-                                          <p><a name="mouvement-perpetuel-fin"></a><a name="jeu-de-la-vie"></a>Une configuration du je de la vie génère... un jeu de la vie !<br><br>
+                                          <p><a name="mouvement-perpetuel-fin"></a><a name="jeu-de-la-vie"></a>Une configuration du jeu de la vie génère... un jeu de la vie !<br><br>
 										  <p align="center">
 				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
 				  <iframe width="200" height="112" src="https://www.youtube.com/embed/xP5-iIeKXE8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -274,7 +274,7 @@
 				  </p>
 											<br><br>
 											<p>
-											Pour en savoir plus, je vous conseille cette vidéo de David Louapre <a href="https://youtu.be/S-W0NX97DB0" target="_blank">https://youtu.be/S-W0NX97DB0</a>
+											Pour en savoir plus sur cet automate cellulaire, je vous conseille cette vidéo de David Louapre <a href="https://youtu.be/S-W0NX97DB0" target="_blank">https://youtu.be/S-W0NX97DB0</a>
 											</p>
 										</p><br>
                                        </td>
