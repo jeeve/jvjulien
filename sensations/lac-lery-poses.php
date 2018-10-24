@@ -264,12 +264,12 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  <div class="col-xs-12 col-sm-8 fond">
 				  <p align="center">
 				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
-				  <iframe width="560" height="315" src="https://www.youtube.com/embed/Zsfe4FsE9ZE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ihfz2P8uAJ4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 				  </div>
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=215248" target="_blank">
-				  Balade, micro-plannings et autres gamelles, samedi 13 octobre 2018</a>
+				  Balade, cygnes, micro-plannings et autres gamelles, samedi 13 octobre 2018</a>
 				  </p>
 				  </div></div>
 				  
@@ -299,7 +299,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=213684" target="_blank">
-				  Léry-Poses, vendredi 21 septembre 2018</a>
+				  vendredi 21 septembre 2018</a>
 				  </p>
 				  </div></div>
 				  
@@ -314,7 +314,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=205532" target="_blank">
-				  Léry-Poses, 26 mai 2018</a><br>
+				  26 mai 2018</a><br>
 				  La planche c'est cool !
 				  </p>
 				  </div></div>
@@ -330,7 +330,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=204994" target="_blank">
-				  Léry-Poses, 16 mai 2018</a><br>
+				  16 mai 2018</a><br>
 				  Ceci n'est pas un reportage animalier.
 				  </p>
 				  </div></div>
@@ -346,7 +346,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=204412" target="_blank">
-				  Léry-Poses, jeudi 10 mai 2018</a><br>
+				  jeudi 10 mai 2018</a><br>
 				  Le jour où j'ai filmé Phil95.
 				  </p>
 				  </div></div>					  
@@ -362,7 +362,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=202905" target="_blank">
-				  Léry-Poses, dimanche 22 avril 2018</a><br>
+				  dimanche 22 avril 2018</a><br>
 				  Caméra embarqué sur le wishbone.
 				  </p>
 				  </div></div>				  
@@ -378,7 +378,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=183014" target="_blank">
-				  Léry-Poses, samedi 24 juin 2017</a><br>
+				  samedi 24 juin 2017</a><br>
 				  Session sous le soleil mais le vent est resté très timide. Petits planning au début. Spéciale dédicace au teeshirt de Roger. Le canard qui m'avait doublé lors d'une précédente navigation est venu me narguer pendant que je gréais, mais une fois sur l'eau, il rigolait moins.
 				  </p>
 				  </div></div>				  
@@ -394,7 +394,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=180514" target="_blank">
-				  Léry-Poses, vendredi 26 mai 2017</a><br>
+				  vendredi 26 mai 2017</a><br>
 				  Du soleil, du vent, du monde sur l'eau...
 				  </p>
 				  </div></div>
@@ -410,7 +410,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </p>
 				  <p class="legende">
 					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?target=id_rider&id_rider=3185&id_session=177119" target="_blank">
-				  Léry-Poses, 16 avril 2017</a><br>
+				  16 avril 2017</a><br>
 				  Test de la V8 dans le vent léger
 				  </p>
 				  </div></div>				  		  
