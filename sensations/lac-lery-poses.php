@@ -454,7 +454,18 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 	  <script src="js/jquery-ui.min.js"></script>
 	  <script type="text/javascript" src="js/meteo.js"></script>	  
       <script> 
+		station = "troislacs";
+		var myVar =	setInterval(getMeteo, 30000);		
          $(document).ready(function($) {
+			 
+		getMeteo();
+		
+			if ($('#temperature-eau').html == "") {
+				$('#temperature-eau').html("cf Roger");			
+				$('#temperature-eau-s').html("cf Roger");				
+			} 
+			
+		 
 			 
 		 if ($('#webcam-image').innerHeight() == 0 || ($('#webcam-image').innerHeight() == $('#webcam-image').innerWidth())) { // la webcam ne marche pas
 			 $('#webcam-image').parent().html('<img id="webcam-image" src="images/mire.png" width="1024px" height="576px" class="img-responsive ombre-image">');

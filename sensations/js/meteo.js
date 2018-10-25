@@ -1,6 +1,8 @@
+var station;
+
 function getMeteo() {
 		$.ajax({
-			url: "https://meteo-station.herokuapp.com/temps-reel.php?station=troislacs",
+			url: "https://meteo-station.herokuapp.com/temps-reel.php?station=" + station,
 			type: 'GET',
 			crossDomain: true,
 			dataType: 'json'
@@ -19,19 +21,7 @@ function getMeteo() {
 			$('#orientation-vent-s').html(data.orientationVent);
 			$('#temperature-air').html(data.temperatureExterieure);
 			$('#temperature-air-s').html(data.temperatureExterieure);
-			if (data.temperatureInterieure == "") {
-				$('#temperature-eau').html("cf Roger");			
-				$('#temperature-eau-s').html("cf Roger");				
-			} else
-			{
-				$('#temperature-eau').html(data.temperatureInterieure);			
-				$('#temperature-eau-s').html(data.temperatureInterieure);
-			}
+			$('#temperature-eau').html(data.temperatureInterieure);			
+			$('#temperature-eau-s').html(data.temperatureInterieure);
 			});
 }
-
-var myVar =	setInterval(getMeteo, 30000);	
-
-$(document).ready(function() {
-	getMeteo();
-});
