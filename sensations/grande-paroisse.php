@@ -18,11 +18,12 @@
 			   
 			   
                <div class="row">
-				<div class="col-xs-8">
+				<div class="col-sm-8">
 				  <h1>La Grande-Paroisse</h1>
 				</div>
 				<br>
-				  <div class="col-xs-12 col-sm-3 fond-table encadrement-table">
+				  <div class="col-xs-1"></div>
+				  <div class="col-xs-10 col-sm-3 fond-table encadrement-table">
 				  <table id="meteo">
 					<tr>
 						<td><p>Vitesse vent </p></td>
@@ -43,7 +44,7 @@
 					</tr>
 -->					
 					<tr>
-						<td colspan=2><p style="text-align: right; font-size: 10px;"><em>Données temps réel Puisseaux</em></p></td>
+						<td colspan=2><p style="text-align: right; font-size: 10px;"><em>Données temps réel <a href="http://www.weatherlink.com/map.php?station=puiseauxip" target="_blank">Puiseaux</a></em></p></td>
 					</tr>						
 				</table>
 				</div>
