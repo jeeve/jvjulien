@@ -18,6 +18,40 @@
                <!-- main area -->
                <div class="col-xs-12 col-sm-12 col-md-9 fond">
 			   
+               <div class="row">
+				<div class="col-sm-8">
+				  <h1>Lac de Léry-Poses</h1>
+				</div>
+				<br>
+				  <div class="col-xs-1"></div>
+				  <div class="col-xs-10 col-sm-3 fond-table encadrement-table">
+				  <table>
+					<tr>
+						<td><p>Vitesse vent </p></td>
+						<td><p id="vitesse-vent"></p></td>
+					</tr>
+					<tr>
+						<td><p>Orientation </p></td>
+						<td><p id="orientation-vent"></p></td>
+					</tr>				
+					<tr>
+						<td><p>Air </p></td>
+						<td><p id="temperature-air"></p></td>
+					</tr>
+					<!--
+					<tr>
+						<td><p>Eau </p></td>
+						<td><p id="temperature-eau"></p></td>
+					</tr>
+-->					
+					<tr>
+						<td colspan=2><p style="text-align: right; font-size: 10px;"><em>Données temps réel <a href="http://www.weatherlink.com/map.php?station=gerardlh52" target="_blank">Le Mesnil Esnard</a></em></p></td>
+					</tr>						
+				</table>
+				</div>
+				</div>			   
+			   
+<!--			   
 			    <div class="row">
 				<div class="col-xs-4">
                   <h1>Lac de Léry-Poses</h1>
@@ -28,9 +62,9 @@
 				  </p>
 				 </div>
 				</div> 
-				 
+-->				 
                   <br>
-				  
+<!--				  
 <?php
 if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
     strpos($_SERVER['HTTP_USER_AGENT'], 'Trident') !== FALSE)) {				  
@@ -61,12 +95,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 						<td><p>Eau </p></td>
 						<td><p id="temperature-eau"></p></td>
 					</tr>					
-					<!--
-					<tr>
-						<td><p>Température de l'eau </p></td>
-						<td><p id="temperature-eau"></p></td>
-					</tr>			
-					-->
+
 				</table>
 				  </div>
 				  
@@ -109,12 +138,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 						<td><p>Température air </p></td>
 						<td><p id="temperature-air"></p></td>
 					</tr>
-					<!--
-					<tr>
-						<td><p>Température de l'eau </p></td>
-						<td><p id="temperature-eau"></p></td>
-					</tr>			
-					-->
+
 				</table>
 			  
 				  </div>
@@ -123,7 +147,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 <?php
 }
 ?>			  
-				  
+-->				  
                   <p class="legende">En direct du lac de Léry-Poses et <a href="http://windsurf-lery-poses.soforums.com" target="_blank">ses passionnés</a> - <a href="http://wlpa.e-monsite.com/" target="_blank">association WLPA <img src="images/logo-wlpa.png"></a> - <a href="http://www.kiffmembers.org/" target="_blank">le covoiturage <img  height="60" src="images/logo-kiffmembers.gif"></a>
                   </p>
                   
@@ -192,8 +216,9 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 						</div>		
 					</div>	
 				</div>	
-<br>
+
 	<!--
+	<br>
 					<div class="row">
 					<div class="visible-xs col-xs-12 fond" style="margin-left: 5px; margin-bottom:10px;">
 						<a href="http://www.windalert.com/map#49.299,2.002,9,1,!33126,2" target="_blank">
@@ -222,6 +247,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 					</div>
 					</div>	
 -->
+<!--
                   <h2>Historique</h2>
                   <form id="datetimeform">
                      
@@ -254,8 +280,9 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  <li>Les images sont issues de la caméra du Syndicat Mixte de la Base de Loisirs et Plein Air de Léry-Poses</li>
 				  </ul>
 				  </font></em></p>
-				  
 				  <br>
+-->				  
+				  
 				  <h2>Sessions en vidéo</h2>
 
 				  <br><a name="lery-poses-13-10-18"></a>
@@ -414,7 +441,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  Test de la V8 dans le vent léger
 				  </p>
 				  </div></div>				  		  
-				  
+<!--			  
 				  <a name="commentaires"></a>
 				  <h2>Commentaires</h2>
 				  <p>
@@ -426,8 +453,9 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 					<table id="tableCommentaires" class="table-commentaires"></table>
 					<br>
 				  </div>
+-->	
 				  <br>		  
-				  
+			 
 				  <div id="swipe">
 					<div class="row">
 						<div class="col-xs-5">
@@ -454,7 +482,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 	  <script src="js/jquery-ui.min.js"></script>
 	  <script type="text/javascript" src="js/meteo.js"></script>	  
       <script> 
-		station = "troislacs";
+		station = "gerardlh52";
 		var myVar =	setInterval(getMeteo, 30000);		
          $(document).ready(function($) {
 			 
