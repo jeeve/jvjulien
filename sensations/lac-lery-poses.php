@@ -280,9 +280,8 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  <li>Les images sont issues de la caméra du Syndicat Mixte de la Base de Loisirs et Plein Air de Léry-Poses</li>
 				  </ul>
 				  </font></em></p>
-				  <br>
 -->				  
-				  
+				  <br>
 				  <h2>Sessions en vidéo</h2>
 
 				  <br><a name="lery-poses-13-10-18"></a>
