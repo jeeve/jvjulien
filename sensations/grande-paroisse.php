@@ -127,7 +127,7 @@
 						<a href="https://www.windfinder.com/weatherforecast/la_grande_paroisse?utm_campaign=homepageweather" target="_blank"><img src="images/logo-windfinder.png" alt="superforecast" title="superforecast"></a>	
 						<a href="https://www.windguru.cz/90210" target="_blank"><img src="images/logo-windguru.gif"></a>
 						<a href="https://www.ventusky.com/?p=48.334;2.921;9&l=wind-10m" target="_blank"><img src="images/logo-ventusky.png"></a>
-						<a href="hhttps://www.xcweather.co.uk/forecast/grande-paroisse" target="_blank"><img src="images/logo-xcweather.png"></a>
+						<a href="https://www.xcweather.co.uk/forecast/grande-paroisse" target="_blank"><img src="images/logo-xcweather.png"></a>
 						<a href="http://www.meteofrance.com/previsions-meteo-france/la-grande-paroisse/77130" target="_blank"><img src="images/logo-meteofrance.png"></a>
 						</div>		
 					</div>	
