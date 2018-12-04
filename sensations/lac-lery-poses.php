@@ -45,7 +45,7 @@
 					</tr>
 -->					
 					<tr>
-						<td colspan=2><p style="text-align: right; font-size: 10px;"><em>Données temps réel <a href="https://www.weatherlink.com/map/33782285-df4e-4432-a3b3-06ddf1b3680a" target="_blank">Le Mesnil Esnard</a></em></p></td>
+						<td colspan=2><p style="text-align: right; font-size: 10px;"><em><a href="https://www.weatherlink.com/map/177f804a-47af-49bb-adfe-0f6a74cea4ad" target="_blank">Données temps réel</a></em></p></td>
 					</tr>						
 				</table>
 				</div>
@@ -284,6 +284,22 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  <br>
 				  <h2>Sessions en vidéo</h2>
 
+				  <br><a name="lery-poses-2-12-18"></a>
+				  <div class="row">
+				  <div class="col-xs-12 col-sm-2 fond"></div>
+				  <div class="col-xs-12 col-sm-8 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/oTTwy4dAZII?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				  </div>
+				  </p>
+				  <p class="legende">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=217931" target="_blank">
+				  De la pluie, de la douceur et 3 micro plannings</a><br>
+				  Bonne ambiance à terre avec chambrage en règle. Premier test de la caméra avec GPS : Verdict : Vmax à 21 noeuds...
+				  </p>
+				  </div></div>
+
 				  <br><a name="lery-poses-13-10-18"></a>
 				  <div class="row">
 				  <div class="col-xs-12 col-sm-2 fond"></div>
@@ -481,7 +497,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 	  <script src="js/jquery-ui.min.js"></script>
 	  <script type="text/javascript" src="js/meteo2.js"></script>	  
       <script> 
-		station = "33782285-df4e-4432-a3b3-06ddf1b3680a";
+		station = "177f804a-47af-49bb-adfe-0f6a74cea4ad";
 		var myVar =	setInterval(getMeteo, 30000);		
          $(document).ready(function($) {
 			 
