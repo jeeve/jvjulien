@@ -45,7 +45,7 @@
 					</tr>
 -->					
 					<tr>
-						<td colspan=2><p style="text-align: right; font-size: 10px;"><em><a href="https://www.weatherlink.com/map/177f804a-47af-49bb-adfe-0f6a74cea4ad" target="_blank">Données temps réel</a></em></p></td>
+						<td colspan=2><p style="text-align: right; font-size: 10px;">Données temps réel <em><a href="https://www.weatherlink.com/map/33782285-df4e-4432-a3b3-06ddf1b3680a" target="_blank">Le Mesnil Esnard</a></em></p></td>
 					</tr>						
 				</table>
 				</div>
@@ -497,7 +497,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 	  <script src="js/jquery-ui.min.js"></script>
 	  <script type="text/javascript" src="js/meteo2.js"></script>	  
       <script> 
-		station = "177f804a-47af-49bb-adfe-0f6a74cea4ad";
+		station = "33782285-df4e-4432-a3b3-06ddf1b3680a";
 		var myVar =	setInterval(getMeteo, 30000);		
          $(document).ready(function($) {
 			 
