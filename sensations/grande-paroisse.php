@@ -44,7 +44,7 @@
 					</tr>
 -->					
 					<tr>
-						<td colspan=2><p style="text-align: right; font-size: 10px;"><em>Données temps réel <a href="https://www.weatherlink.com/map/c788dd48-d3d9-4cdc-845f-0bf404360799" target="_blank">VP2SCF-77</a></em></p></td>
+						<td colspan=2><p style="text-align: right; font-size: 10px;"><em>Données temps réel <a id="nom-sation" href="https://www.weatherlink.com/map/c788dd48-d3d9-4cdc-845f-0bf404360799" target="_blank"></a></em></p></td>
 					</tr>						
 				</table>
 				</div>

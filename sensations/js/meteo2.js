@@ -11,6 +11,7 @@ function getMeteo() {
 			var vitesseVent = data.windSpeed;
 			var orientationVent = data.windDirection + ' °';
 			var temperatureInterieure = '';
+			var nomStation = data.sStation;
 			
 			if (vitesseVent != '') {
 				var vitesse = parseFloat(vitesseVent) * 0.868976; // conversion Mph en Noeuds
@@ -22,6 +23,8 @@ function getMeteo() {
 				$('#vitesse-vent').html('');
 				$('#vitesse-vent-s').html('');
 			}
+			
+			$('#nom-sation').html(nomStation);
 			$('#orientation-vent').html(orientationVent);
 			$('#orientation-vent-s').html(orientationVent);
 			$('#temperature-air').html(temperatureExterieure);
