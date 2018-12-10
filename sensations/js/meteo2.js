@@ -12,6 +12,8 @@ function getMeteo() {
 			var orientationVent = data.windDirection + ' °';
 			var temperatureInterieure = '';
 			var nomStation = data.sStation;
+			var directions = ["N","NNE","NE","ENE","E","ESE","SE","SSE","S","SSO","SO","OSO","O","ONO","NO","NNO","N"];
+			var direction = directions[Math.round((parseFloat(data.windDirection) % 360)/ 22.5,0) + 0];
 			
 			if (vitesseVent != '') {
 				var vitesse = parseFloat(vitesseVent) * 0.868976; // conversion Mph en Noeuds
@@ -25,8 +27,8 @@ function getMeteo() {
 			}
 			
 			$('#nom-sation').html(nomStation);
-			$('#orientation-vent').html(orientationVent);
-			$('#orientation-vent-s').html(orientationVent);
+			$('#orientation-vent').html(orientationVent + ' ' + direction);
+			$('#orientation-vent-s').html(orientationVent + ' ' + direction);
 			$('#temperature-air').html(temperatureExterieure);
 			$('#temperature-air-s').html(temperatureExterieure);
 			$('#temperature-eau').html(temperatureInterieure);			
