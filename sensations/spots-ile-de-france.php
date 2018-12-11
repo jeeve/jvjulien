@@ -106,7 +106,7 @@
                <div class="row">
 					<div class="col-sm-8">
 						<div class="fond-table encadrement-table">
-						
+					
 <script id="wg_fwdg_581_3_1544556198330">
 (function (window, document) {
   var loader = function () {
@@ -147,7 +147,7 @@
 		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a></p>		
 			<div id="item-1" class="collapse">
 							<a href="images/spots-lery-poses.jpg" target="_blank">
-							<img src="images/spots-lery-poses-2.jpg" width=300 class="img-responsive ombre-image" alt="Les mises à l'eau en fonction du vent" title="Les mises à l'eau en fonction du vent">
+							<img src="images/spots-lery-poses-2.jpg" width=400 class="img-responsive ombre-image" alt="Les mises à l'eau en fonction du vent" title="Les mises à l'eau en fonction du vent">
 							</a>
 					<br>		
 			</div>				
@@ -157,7 +157,6 @@
                <div class="row">
 					<div class="col-sm-8">
 						<div class="fond-table encadrement-table">
-
 <script id="wg_fwdg_4864_3_1544556530603">
 (function (window, document) {
   var loader = function () {
