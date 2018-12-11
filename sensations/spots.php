@@ -145,9 +145,12 @@
 			   <br><br>		   
 			    <h2>Léry-Poses</h2>			
 		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a></p>		
-							<a href="images/spots-lery-poses.jpg" target="_blank" id="item-1" class="collapse">
+			<div id="item-1" class="collapse">
+							<a href="images/spots-lery-poses.jpg" target="_blank">
 							<img src="images/spots-lery-poses-2.jpg" width=300 class="img-responsive ombre-image" alt="Les mises à l'eau en fonction du vent" title="Les mises à l'eau en fonction du vent">
 							</a>
+					<br>		
+			</div>				
 							
 						
 				

@@ -26,7 +26,7 @@
 						<li><a href="/sensations/windsurf-kitesurf.php">windsurf / kitesurf</a></li>
 						<li><a href="/sensations/lac-lery-poses.php">lac de Léry-Poses</a></li>
 						<li><a href="/sensations/grande-paroisse.php">la Grande-Paroisse</a></li>
-						<li><a href="/sensations/spots.php">Les spots de l'Ile de France</a></li>
+						<li><a href="/sensations/spots.php">Les spots d'Ile de France</a></li>
 						<li><a href="/sensations/powerkite.php">powerkite</a></li>
 					</ul>
 				  </li>
