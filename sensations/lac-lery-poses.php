@@ -473,15 +473,15 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 			 
 				  <div id="swipe">
 					<div class="row">
-						<div class="col-xs-5">
-							<p><a href="sensations.php">sensations</a> - <a id="page-precedente" href="windsurf-kitesurf.php">windsurf / kitesurf</a></p>
-						</div>
 						<div class="col-xs-7">
+							<p><a href="sensations.php">sensations</a> - <a href="windsurf-kitesurf.php">windsurf / kitesurf</a> - <a id="page-precedente" href="spots-ile-de-france.php">les spots d'Ile de France</a></p>
+						</div>
+						<div class="col-xs-5">
 							<p align="right"><a id="page-suivante" href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
 						</div>
 					</div>
 					<div class="row">
-						<p class="numero-page">page 14</p>
+						<p class="numero-page">page 14b</p>
 						
 					</div>
                   </div>
