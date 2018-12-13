@@ -14,7 +14,7 @@
    <body>
       <div class="page-container">
          <!-- top navbar -->
-         <?php include("../includes/navbar.php"); ?>	  
+         <?php include("./includes/navbar.php"); ?>	  
          <div class="container">
             <div class="row row-offcanvas row-offcanvas-left">
                <!-- sidebar -->
@@ -22,9 +22,11 @@
                <!-- main area -->
                <div class="col-xs-12 col-sm-12 col-md-9 fond">
 			   
+
 			   <h1>Les spots d'Ile de France</h1>
-			   
-			   <br><br>		   
+		
+			   <br><br>		
+				<a name="jablines"></a>
 			    <h2>Jablines</h2>
 				<p>Orientations favorables : S - N</p>			                								
                <div class="row">
@@ -65,7 +67,8 @@
 			</div>
 
 			
-			   <br>		   
+			   <br>	
+<a name="moisson"></a>			   
 			    <h2>Moisson Lavacourt</h2>
 				<p>Orientations favorables : SO - NE</p>			                								
                <div class="row">
@@ -107,6 +110,7 @@
 			
 
 			   <br>	   
+			   <a name="vaires"></a>
 			    <h2>Vaires sur Marne</h2>
 				<p>Orientations favorables : SE - NO</p>			                								
                <div class="row">
@@ -146,7 +150,8 @@
 </div>
 
 
-			   <br>	   
+			   <br>	
+				<a name="poses"></a>
 			    <h2><a href="lac-lery-poses.php">Léry-Poses</a></h2>
 		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a></p>		
 			<div id="item-1" class="collapse">
@@ -223,6 +228,11 @@
       </div>
       <!--/.page-container-->
       <?php include("../includes/footer.php"); ?>	
+	  <script>
+	          jQuery('#menu-destination').change(function(){
+				document.location.href = $(this).find('option:selected').attr('value');
+				});
+	</script>	
    </body>
 </html>
 
