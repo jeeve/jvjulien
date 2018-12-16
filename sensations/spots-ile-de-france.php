@@ -25,7 +25,7 @@
 
 			   <h1>Les spots d'Ile de France</h1>
 		
-			   <br><br>		
+			   <br>		
 				<a name="jablines"></a>
 			    <h2>Jablines</h2>
 				<p>Orientations favorables : S - N</p>			                								
