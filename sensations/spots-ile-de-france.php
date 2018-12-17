@@ -10,6 +10,64 @@
 			text-decoration-line: underline;
 		}
 	  </style>
+	  
+ <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Course",
+      "name": "Windsurf Ile de France",
+      "description": "Spots de windsurf (planche à voile)."
+     }
+ </script>	  
+<script type="application/ld+json">
+ {
+   "@context": "http://schema.org",
+   "@type": "Place",
+   "name": "Jablines",
+	"address": {
+		"@type": "PostalAddress",
+			"addressLocality": "Jablines",
+			"addressCountry": "France"
+		}
+ }
+ </script>	
+<script type="application/ld+json">
+ {
+   "@context": "http://schema.org",
+   "@type": "Place",
+   "name": "Moisson-Lavacourt",
+	"address": {
+		"@type": "PostalAddress",
+			"addressLocality": "Moisson",
+			"addressCountry": "France"
+		}
+ }
+ </script> 
+<script type="application/ld+json">
+ {
+   "@context": "http://schema.org",
+   "@type": "Place",
+   "name": "Vaires sur Marne",
+	"address": {
+		"@type": "PostalAddress",
+			"addressLocality": "Vaires sur Marne",
+			"addressCountry": "France"
+		}
+ }
+ </script>
+ <script type="application/ld+json">
+ {
+   "@context": "http://schema.org",
+   "@type": "Place",
+   "name": "Léry-Poses",
+	"address": {
+		"@type": "PostalAddress",
+			"addressLocality": "Val de Reuil",
+			"addressCountry": "France"
+		}
+ }
+ </script>
+ 
    </head>
    <body>
       <div class="page-container">
