@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
    <head>
-      <title>Les spots d'Ile de France</title>
+      <title>Les spots d'Ile-de-France</title>
       <META NAME="Description" CONTENT="Les spots de la région parisienne pour la planche à voile et le windsurf."/>
 	  <?php include("../includes/header.php"); ?>	
 	  <style type="text/css">
@@ -15,7 +15,7 @@
     {
       "@context": "http://schema.org/",
       "@type": "Course",
-      "name": "Windsurf Ile de France",
+      "name": "Windsurf Ile-de-France",
       "description": "Spots de windsurf (planche à voile)."
      }
  </script>	  
@@ -81,7 +81,7 @@
                <div class="col-xs-12 col-sm-12 col-md-9 fond">
 			   
 
-			   <h1>Les spots d'Ile de France</h1>
+			   <h1>Les spots d'Ile-de-France</h1>
 		
 			   <br>		
 				<a name="jablines"></a>

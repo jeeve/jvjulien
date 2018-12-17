@@ -218,7 +218,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 			<div id="swipe"><div class="row">
 <div class="col-xs-3"><p><a id="page-precedente" href="sensations.php">sensations</a></p></div>
 <div class="col-xs-9">
-			<p align="right"> <a id="page-suivante" href="spots-ile-de-france.php">les spots d'Ile de France</a> - <a href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
+			<p align="right"> <a id="page-suivante" href="spots-ile-de-france.php">les spots d'Ile-de-France</a> - <a href="powerkite.php">powerkite</a> - <a href="../emotions/emotions.php">émotions</a></p>
 			</div>
 			</div><div class="row"><p class="numero-page">page 13</p>	
 
