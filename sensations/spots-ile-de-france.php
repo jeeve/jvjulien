@@ -83,7 +83,58 @@
 
 			   <h1>Les spots d'Ile-de-France</h1>
 		
-			   <br>		
+			   <br>	
+				<a name="poses"></a>
+			    <h2><a href="lac-lery-poses.php">Léry-Poses</a></h2>
+		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a></p>		
+			<div id="item-1" class="collapse">
+							<a href="images/spots-lery-poses.jpg" target="_blank">
+							<img src="images/spots-lery-poses-2.jpg" width=400 class="img-responsive ombre-image" alt="Les mises à l'eau en fonction du vent" title="Les mises à l'eau en fonction du vent">
+							</a>
+					<br>		
+			</div>				
+							
+						
+				
+               <div class="row">
+					<div class="col-sm-8">
+						<div class="fond-table encadrement-table">
+<script id="wg_fwdg_4864_3_1544556530603">
+(function (window, document) {
+  var loader = function () {
+    var arg = ["s=4864","m=3","uid=wg_fwdg_4864_3_1544556530603","wj=knots","tj=c","odh=7","doh=21","fhours=240","vt=forecasts",
+   "p=WINDSPD,GUST,MWINDSPD,SMER,TMPE,FLHGT,CDC,APCPs,RATING"];
+    var script = document.createElement("script");
+    var tag = document.getElementsByTagName("script")[0];
+    script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
+    tag.parentNode.insertBefore(script, tag);
+  };
+  window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+})(window, document);
+</script>
+
+<!--
+						<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/lake_des_deux_amants?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&columns=2&days=4&show_day=1&show_pressure=0&show_waves=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/lake_des_deux_amants?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for Lac des deux Amants</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
+-->						
+					</div>	
+                  <p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=231" target="_blank">My wind session</a> - en direct du lac et <a href="http://windsurf-lery-poses.soforums.com" target="_blank">ses passionnés</a> - <a href="http://wlpa.e-monsite.com/" target="_blank">association WLPA <img src="images/logo-wlpa.png"></a> - <a href="http://www.kiffmembers.org/" target="_blank">le covoiturage <img  height="60" src="images/logo-kiffmembers.gif"></a>
+                  </p>
+					
+				</div>			
+				  <div class="visible-xs"><br></div>						
+				   <div class="col-sm-4">
+				   <div class="embed-responsive ombre-image fond-table encadrement-table" style="height:170px;">
+  					<iframe src="meteo-temps-reel.php?station=33782285-df4e-4432-a3b3-06ddf1b3680a" height=170></iframe>	
+					</div>
+					<br>
+					    <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d421188.1259875271!2d1.5370175529156327!3d49.028173071130745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis!3m2!1d48.856614!2d2.3522219!4m5!1s0x47e1289bac44658f%3A0xe940a5c757b0bf2a!2sL%C3%A9ry-Poses+en+Normandie%2C+Poses!3m2!1d49.302783!2d1.209404!5e1!3m2!1sfr!2sfr!4v1544558819114" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>				
+							</div>
+
+				 </div>		
+			</div>
+
+			<br>		
 				<a name="jablines"></a>
 			    <h2>Jablines</h2>
 				<p>Orientations favorables : S - N</p>			                								
@@ -208,56 +259,6 @@
 </div>
 
 
-			   <br>	
-				<a name="poses"></a>
-			    <h2><a href="lac-lery-poses.php">Léry-Poses</a></h2>
-		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a></p>		
-			<div id="item-1" class="collapse">
-							<a href="images/spots-lery-poses.jpg" target="_blank">
-							<img src="images/spots-lery-poses-2.jpg" width=400 class="img-responsive ombre-image" alt="Les mises à l'eau en fonction du vent" title="Les mises à l'eau en fonction du vent">
-							</a>
-					<br>		
-			</div>				
-							
-						
-				
-               <div class="row">
-					<div class="col-sm-8">
-						<div class="fond-table encadrement-table">
-<script id="wg_fwdg_4864_3_1544556530603">
-(function (window, document) {
-  var loader = function () {
-    var arg = ["s=4864","m=3","uid=wg_fwdg_4864_3_1544556530603","wj=knots","tj=c","odh=7","doh=21","fhours=240","vt=forecasts",
-   "p=WINDSPD,GUST,MWINDSPD,SMER,TMPE,FLHGT,CDC,APCPs,RATING"];
-    var script = document.createElement("script");
-    var tag = document.getElementsByTagName("script")[0];
-    script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
-    tag.parentNode.insertBefore(script, tag);
-  };
-  window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
-})(window, document);
-</script>
-
-<!--
-						<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/lake_des_deux_amants?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&columns=2&days=4&show_day=1&show_pressure=0&show_waves=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/lake_des_deux_amants?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for Lac des deux Amants</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
--->						
-					</div>	
-                  <p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=231" target="_blank">My wind session</a> - en direct du lac et <a href="http://windsurf-lery-poses.soforums.com" target="_blank">ses passionnés</a> - <a href="http://wlpa.e-monsite.com/" target="_blank">association WLPA <img src="images/logo-wlpa.png"></a> - <a href="http://www.kiffmembers.org/" target="_blank">le covoiturage <img  height="60" src="images/logo-kiffmembers.gif"></a>
-                  </p>
-					
-				</div>			
-				  <div class="visible-xs"><br></div>						
-				   <div class="col-sm-4">
-				   <div class="embed-responsive ombre-image fond-table encadrement-table" style="height:170px;">
-  					<iframe src="meteo-temps-reel.php?station=33782285-df4e-4432-a3b3-06ddf1b3680a" height=170></iframe>	
-					</div>
-					<br>
-					    <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d421188.1259875271!2d1.5370175529156327!3d49.028173071130745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis!3m2!1d48.856614!2d2.3522219!4m5!1s0x47e1289bac44658f%3A0xe940a5c757b0bf2a!2sL%C3%A9ry-Poses+en+Normandie%2C+Poses!3m2!1d49.302783!2d1.209404!5e1!3m2!1sfr!2sfr!4v1544558819114" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>				
-							</div>
-
-				 </div>		
-			</div>
 
 			
 <br>
