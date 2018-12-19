@@ -181,10 +181,12 @@
 				   </div></div>
 
 				  <br><br>
+				  <a name="biblio"></a>
                   <div class="row">
                      <div class="col-xs-1 col-sm-1 fond"></div>
 					  <div class="col-xs-10 col-sm-10 fond-table encadrement-table">
 					  <br>
+					 
 					  <h2 style="margin-bottom: 0px;">La bibliothèque   
         de monsieur S.</h2> <p>  
         <em><font size="2">(inspirée de « La bibliothèque de Babel » de <a href="http://fr.wikipedia.org/wiki/Jorge_Luis_Borges" target="_blank">Jorge   
