@@ -86,7 +86,7 @@
 			   <br>	
 				<a name="poses"></a>
 			    <h2><a href="lac-lery-poses.php">Léry-Poses</a></h2>
-		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a></p>		
+		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a> - <a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a></p>		
 			<div id="item-1" class="collapse">
 							<a href="images/spots-lery-poses.jpg" target="_blank">
 							<img src="images/spots-lery-poses-2.jpg" width=400 class="img-responsive ombre-image" alt="Les mises à l'eau en fonction du vent" title="Les mises à l'eau en fonction du vent">
@@ -137,7 +137,7 @@
 			<br>		
 				<a name="jablines"></a>
 			    <h2>Jablines</h2>
-				<p>Orientations favorables : S - N</p>			                								
+				<p>Orientations favorables : S - N - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
                <div class="row">
 					<div class="col-sm-8">
 						<div class="fond-table encadrement-table">
@@ -179,7 +179,7 @@
 			   <br>	
 <a name="moisson"></a>			   
 			    <h2>Moisson Lavacourt</h2>
-				<p>Orientations favorables : SO - NE</p>			                								
+				<p>Orientations favorables : SO - NE - <a href="https://fr.windfinder.com/weatherforecast/moisson_lavacourt" target="_blank">Superforecast</a></p>			                								
                <div class="row">
 					<div class="col-sm-8">
 						<div class="fond-table encadrement-table">
@@ -221,7 +221,7 @@
 			   <br>	   
 			   <a name="vaires"></a>
 			    <h2>Vaires sur Marne</h2>
-				<p>Orientations favorables : SE - NO</p>			                								
+				<p>Orientations favorables : SE - NO - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
                <div class="row">
 					<div class="col-sm-8">
 						<div class="fond-table encadrement-table">
