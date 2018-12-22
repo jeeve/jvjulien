@@ -308,7 +308,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  </div>
 				  </p>
 				  <p class="legende">
-					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=218850" target="_blank">
+					<a href="http://windsurf-sessions.eg2.fr/infos_session.php?id_session=218850" target="_blank">Un vendredi d'automne au Lac des Deux Amants, 21 décembre 2018</a>
 				  Session très physique. Gréé trop gros. Un rider carbure en 6m². Un autre en flotteur gonflable. Grosse risée pendant 30 minutes. Plus de force pour lever la voile. Je réussi à rejoindre le bord tant bien que mal.
 				  </p>
 				  </div></div>
