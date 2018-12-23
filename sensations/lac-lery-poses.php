@@ -581,7 +581,7 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 			});
 		}
 		
-		var myCam = setInterval(getWebCam, 120000);	
+		var myCam = setInterval(getWebCam, 300000);	// 5 minutes
 	  
 		station = "33782285-df4e-4432-a3b3-06ddf1b3680a";
 		var myVar =	setInterval(getMeteo, 30000);		
