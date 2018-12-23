@@ -50,7 +50,20 @@
 				</table>
 				</div>
 				</div>			   
-			   
+	
+<div class="row">
+  <div class="visible-xs"><br></div>
+<div class="col-sm-8">
+  <p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">Péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
+</div>  
+
+  <div class="col-sm-8">
+  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+	<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="">
+    </video>
+  </div>	
+  </div>  
+</div> 
 <!--			   
 			    <div class="row">
 				<div class="col-xs-4">
@@ -526,10 +539,25 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 	  <script src="js/jquery-ui.min.js"></script>
 	  <script type="text/javascript" src="js/meteo2.js"></script>	  
       <script> 
+	    function getWebCam() {
+			$.ajax({
+				url: 'https://meteo-station.herokuapp.com/webcam-heudebouville-src-video.php',
+				type: 'GET',
+				crossDomain: true,
+				dataType: 'json'
+			}).then(function(data) {
+				console.log(data.src);
+				$('#videojs-viewsurf_html5_api').replaceWith('<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="" src="' + data.src + '" ></video>');		
+			});
+		}
+		
+		var myCam = setInterval(getWebCam, 60000);	
+	  
 		station = "33782285-df4e-4432-a3b3-06ddf1b3680a";
 		var myVar =	setInterval(getMeteo, 30000);		
-         $(document).ready(function($) {
-			 
+        
+		$(document).ready(function($) {
+		getWebCam();	 
 		getMeteo();
 		
 			if ($('#temperature-eau').html == "") {
