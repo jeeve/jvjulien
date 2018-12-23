@@ -18,12 +18,26 @@
                <!-- main area -->
                <div class="col-xs-12 col-sm-12 col-md-9 fond">
 			   
+			   <h1>Lac de Léry-Poses</h1>
+
                <div class="row">
-				<div class="col-sm-8">
-				  <h1>Lac de Léry-Poses</h1>
-				</div>
-				<br>
-				  <div class="col-xs-1"></div>
+			   
+  <div class="col-xs-12 col-sm-8 fond">
+    <br>
+	<p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">Péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
+
+  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+	<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="">
+    </video>
+  </div>	
+  
+  <div class="visible-xs"><br></div>
+  </div> 
+  
+  
+  
+   <div class="col-xs-1"></div>
+
 				  <div class="col-xs-10 col-sm-3 fond-table encadrement-table">
 				  <table>
 					<tr>
@@ -49,21 +63,11 @@
 					</tr>						
 				</table>
 				</div>
+											
 				</div>			   
 	
-<div class="row">
-  <div class="visible-xs"><br></div>
-<div class="col-sm-8">
-  <p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">Péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
-</div>  
+ 
 
-  <div class="col-sm-8">
-  <div class="embed-responsive embed-responsive-16by9 ombre-image">
-	<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="">
-    </video>
-  </div>	
-  </div>  
-</div> 
 <!--			   
 			    <div class="row">
 				<div class="col-xs-4">
