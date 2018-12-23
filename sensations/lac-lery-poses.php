@@ -6,6 +6,19 @@
 	  <?php include("../includes/header.php"); ?>	
 	  <link rel="stylesheet" href="css/jquery-ui.min.css">
 	  <link href="css/lac-lery-poses.css" rel="stylesheet">
+	  <style>
+		#meteo-tems-reel {
+			position: absolute;
+			right: 0;
+			bottom: 0;
+			background-color: black;
+			opacity: 0.5
+		}
+		#meteo-tems-reel p {
+			color: white;
+			opacity 1;
+		}
+	  </style>
    </head>
    <body>
       <div class="page-container">
@@ -22,49 +35,62 @@
 
                <div class="row">
 			   
-  <div class="col-xs-12 col-sm-8 fond">
+  <div class="col-xs-12 col-sm-12 fond">
     <br>
 	<p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">Péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
 
   <div class="embed-responsive embed-responsive-16by9 ombre-image">
+    <div>
 	<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="">
     </video>
-  </div>	
+					  <div id="meteo-tems-reel" class="hidden-xs">
+				  <table>
+					<tr>
+						<td><p>Vitesse vent </p></td><td><p id="vitesse-vent" class="vitesse-vent"></p></td>
+					</tr>
+					<tr>
+						<td><p>Orientation </p></td><td><p id="orientation-vent" class="orientation-vent"></p></td>
+					</tr>				
+					<tr>
+						<td><p>Air </p></td><td><p id="temperature-air" class="temperature-air"></p></td>
+					</tr>
+					
+					<tr>
+						<td colspan=2><p style="text-align: right; font-size: 10px;">Données temps réel <em><a id="nom-sation" class="nom-sation" href="https://www.weatherlink.com/map/33782285-df4e-4432-a3b3-06ddf1b3680a" target="_blank"></a></em></p></td>
+					</tr>						
+				</table>
+				</div>
+  </div>
+</div>  
   
   <div class="visible-xs"><br></div>
   </div> 
   
   
-  
+  <div class="visible-xs">
    <div class="col-xs-1"></div>
 
 				  <div class="col-xs-10 col-sm-3 fond-table encadrement-table">
 				  <table>
 					<tr>
-						<td><p>Vitesse vent </p></td>
-						<td><p id="vitesse-vent"></p></td>
+						<td><p>Vitesse vent </p></td><td><p id="vitesse-vent" class="vitesse-vent"></p></td>
 					</tr>
 					<tr>
-						<td><p>Orientation </p></td>
-						<td><p id="orientation-vent"></p></td>
+						<td><p>Orientation </p></td><td><p id="orientation-vent" class="orientation-vent"></p></td>
 					</tr>				
 					<tr>
-						<td><p>Air </p></td>
-						<td><p id="temperature-air"></p></td>
+						<td><p>Air </p></td><td><p id="temperature-air" class="temperature-air"></p></td>
 					</tr>
-					<!--
+					
 					<tr>
-						<td><p>Eau </p></td>
-						<td><p id="temperature-eau"></p></td>
-					</tr>
--->					
-					<tr>
-						<td colspan=2><p style="text-align: right; font-size: 10px;">Données temps réel <em><a id="nom-sation" href="https://www.weatherlink.com/map/33782285-df4e-4432-a3b3-06ddf1b3680a" target="_blank"></a></em></p></td>
+						<td colspan=2><p style="text-align: right; font-size: 10px;">Données temps réel <em><a id="nom-sation" class="nom-sation" href="https://www.weatherlink.com/map/33782285-df4e-4432-a3b3-06ddf1b3680a" target="_blank"></a></em></p></td>
 					</tr>						
 				</table>
 				</div>
 											
-				</div>			   
+				</div>	
+
+</div>				
 	
  
 

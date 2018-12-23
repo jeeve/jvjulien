@@ -17,21 +17,21 @@ function getMeteo() {
 			
 			if (vitesseVent != '') {
 				var vitesse = parseFloat(vitesseVent) * 0.868976; // conversion Mph en Noeuds
-				$('#vitesse-vent').html(vitesse.toFixed(1) + ' n');
+				$('.vitesse-vent').html(vitesse.toFixed(1) + ' n');
 				$('#vitesse-vent-s').html(vitesse.toFixed(1) + ' n');
 			}
 			else
 			{
-				$('#vitesse-vent').html('');
+				$('.vitesse-vent').html('');
 				$('#vitesse-vent-s').html('');
 			}
 			
-			$('#nom-sation').html(nomStation);
-			$('#orientation-vent').html(orientationVent + ' ' + direction);
+			$('.nom-sation').html(nomStation);
+			$('.orientation-vent').html(orientationVent + ' ' + direction);
 			$('#orientation-vent-s').html(orientationVent + ' ' + direction);
-			$('#temperature-air').html(temperatureExterieure);
-			$('#temperature-air-s').html(temperatureExterieure);
-			$('#temperature-eau').html(temperatureInterieure);			
+			$('.temperature-air').html(temperatureExterieure);
+			$('.temperature-air-s').html(temperatureExterieure);
+			$('.temperature-eau').html(temperatureInterieure);			
 			$('#temperature-eau-s').html(temperatureInterieure);
 			});
 }
