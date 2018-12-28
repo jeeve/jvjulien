@@ -7,16 +7,20 @@
 	  <link rel="stylesheet" href="css/jquery-ui.min.css">
 	  <link href="css/lac-lery-poses.css" rel="stylesheet">
 	  <style>
+		#webcam {
+			position: absolute;
+			left: 0;
+			top: 0;
+			background: rgba(0, 0, 0, 0.5);
+		}	  
 		#meteo-tems-reel {
 			position: absolute;
 			right: 0;
 			bottom: 0;
-			background-color: black;
-			opacity: 0.5
+			background: rgba(0, 0, 0, 0.5);
 		}
-		#meteo-tems-reel p {
-			color: white;
-			opacity 1;
+		#meteo-tems-reel p, #webcam p {
+			color: silver;
 		}
 	  </style>
    </head>
@@ -37,12 +41,17 @@
 			   
   <div class="col-xs-12 col-sm-12 fond">
     <br>
+	<div class="visible-xs">
 	<p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
-
+	</div>
+	
   <div class="embed-responsive embed-responsive-16by9 ombre-image">
     <div>
 	<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="">
     </video>
+	<div id="webcam" class="hidden-xs">
+		<p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
+	</div>
 					  <div id="meteo-tems-reel" class="hidden-xs">
 				  <table>
 					<tr>
@@ -165,8 +174,8 @@
 					<div class="hidden-xs col-sm-2" style="margin-left: 65px;">
 						<div class="fond-table encadrement-table" style="width: 150px;">
 							<p>	
+							<a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a><br><br>							
 							<a href="https://www.ventusky.com/?p=49.39;0.90;8&l=wind-10m" target="_blank">Ventusky</a><br><br>
-							<a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a><br><br>
 							<a href="http://www.xcweather.co.uk/forecast/L%C3%A9ry_poses" target="_blank">XCWeather</a><br><br>
 							<a href="http://www.meteofrance.com/previsions-meteo-france/val-de-reuil/27100" target="_blank">Météo France</a>
 							</p>
@@ -196,8 +205,8 @@
 })(window, document);
 </script>
 						
-						<a href="http://www.windalert.com/map#49.299,2.002,9,1,!33126,2" target="_blank"><img src="images/logo-windalert.jpg"></a>								
 						<a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank"><img src="images/logo-windfinder.png" alt="superforecast" title="superforecast"></a>	
+						<a href="http://www.windalert.com/map#49.299,2.002,9,1,!33126,2" target="_blank"><img src="images/logo-windalert.jpg"></a>								
 						<a href="https://www.windguru.cz/4864" target="_blank"><img src="images/logo-windguru.gif"></a>
 						<a href="https://www.ventusky.com/?p=49.39;0.90;8&l=wind-10m" target="_blank"><img src="images/logo-ventusky.png"></a>
 						<a href="http://www.xcweather.co.uk/forecast/L%C3%A9ry_poses" target="_blank"><img src="images/logo-xcweather.png"></a>
