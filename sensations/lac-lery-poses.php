@@ -37,7 +37,7 @@
 			   
   <div class="col-xs-12 col-sm-12 fond">
     <br>
-	<p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">Péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
+	<p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
 
   <div class="embed-responsive embed-responsive-16by9 ombre-image">
     <div>
@@ -107,90 +107,7 @@
 				</div> 
 -->				 
                   <br>
-<!--				  
-<?php
-if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
-    strpos($_SERVER['HTTP_USER_AGENT'], 'Trident') !== FALSE)) {				  
-?>				  
-                  <div id="webcam">
-					<a href="http://meteocamtroislacs.dtdns.net/view/viewer_index.shtml?id=28442" target="_blank">
-                     <img id="webcam-image" src="http://meteocamtroislacs.dtdns.net/mjpg/video.mjpg" width="1024px" height="576px" class="img-responsive ombre-image">                  
-					</a> 
-					
-					<div class="hidden-xs">
 				  
-				  <div id="fond-meteo"></div>
-				  
-				  <table id="meteo">
-					<tr>
-						<td><p>Vitesse vent </p></td>
-						<td><p id="vitesse-vent"></p></td>
-					</tr>
-					<tr>
-						<td><p>Orientation </p></td>
-						<td><p id="orientation-vent"></p></td>
-					</tr>				
-					<tr>
-						<td><p>Air </p></td>
-						<td><p id="temperature-air"></p></td>
-					</tr>
-					<tr>
-						<td><p>Eau </p></td>
-						<td><p id="temperature-eau"></p></td>
-					</tr>					
-
-				</table>
-				  </div>
-				  
-				  <div class="visible-xs">
-				  <div id="fond-meteo-xs"></div>
-				  <table id="meteo-small">
-					<tr>
-						<td><p>Vent </p></td>
-						<td><p id="vitesse-vent-s"></p></td>
-						<td><p>Orientation </p></td>
-						<td><p id="orientation-vent-s"></p></td>
-						<td><p>Air </p></td>
-						<td><p id="temperature-air-s"></p></td>
-						<td><p>Eau </p></td>
-						<td><p id="temperature-eau-s"></p></td>						
-					</tr>
-				</table>				  
-				  </div>
-				  
-				  </div>
-<?php				  
-} else {
-?>				
-                
-				  <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
-                     <iframe id="WLPVantagePro" src="http://meteocamtroislacs.dtdns.net/axis-cgi/mjpg/video.cgi?resolution=1024x768&amp;compression=30&amp;camera=1" scrolling="no" width="1024" height="768" frameborder="0"></iframe>                  
-                  
-				  <div id="fond-meteo-ie"></div>
-				  
-				  <table id="meteo-ie">
-					<tr>
-						<td><p>Vitesse vent </p></td>
-						<td><p id="vitesse-vent"></p></td>
-					</tr>
-					<tr>
-						<td><p>Orientation vent </p></td>
-						<td><p id="orientation-vent"></p></td>
-					</tr>				
-					<tr>
-						<td><p>Température air </p></td>
-						<td><p id="temperature-air"></p></td>
-					</tr>
-
-				</table>
-			  
-				  </div>
-				
-			
-<?php
-}
-?>			  
--->				  
                   <p class="legende">En direct du lac de Léry-Poses et <a href="http://windsurf-lery-poses.soforums.com" target="_blank">ses passionnés</a> - <a href="http://wlpa.e-monsite.com/" target="_blank">association WLPA <img src="images/logo-wlpa.png"></a> - <a href="http://www.kiffmembers.org/" target="_blank">le covoiturage <img  height="60" src="images/logo-kiffmembers.gif"></a>
                   </p>
                   
@@ -264,6 +181,21 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				<div class="row">
 					<div class="visible-xs col-xs-12 fond">
 						<div class="fond-table encadrement-table">
+						
+<script id="wg_fwdg_4864_3_1546007481425">
+(function (window, document) {
+  var loader = function () {
+    var arg = ["s=4864","m=3","uid=wg_fwdg_4864_3_1546007481425","wj=knots","tj=c","odh=7","doh=21","fhours=240","vt=forecasts",
+   "p=WINDSPD,GUST,MWINDSPD,SMER,TMPE,FLHGT,CDC,APCPs,RATING"];
+    var script = document.createElement("script");
+    var tag = document.getElementsByTagName("script")[0];
+    script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
+    tag.parentNode.insertBefore(script, tag);
+  };
+  window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+})(window, document);
+</script>
+						
 						<a href="http://www.windalert.com/map#49.299,2.002,9,1,!33126,2" target="_blank"><img src="images/logo-windalert.jpg"></a>								
 						<a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank"><img src="images/logo-windfinder.png" alt="superforecast" title="superforecast"></a>	
 						<a href="https://www.windguru.cz/4864" target="_blank"><img src="images/logo-windguru.gif"></a>
@@ -272,6 +204,9 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 						<a href="http://www.meteofrance.com/previsions-meteo-france/val-de-reuil/27100" target="_blank"><img src="images/logo-meteofrance.png"></a>
 						</div>		
 					</div>	
+										<div class="col-xs-12 visible-xs fond">
+						<br><br>
+					</div>
 				</div>	
 
 	<!--
@@ -337,7 +272,9 @@ if (!(strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE ||
 				  <li>Les images sont issues de la caméra du Syndicat Mixte de la Base de Loisirs et Plein Air de Léry-Poses</li>
 				  </ul>
 				  </font></em></p>
--->				  
+-->	
+
+					
 				  <br>
 				  <h2>Sessions en vidéo</h2>
 
