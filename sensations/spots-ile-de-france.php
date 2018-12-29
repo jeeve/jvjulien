@@ -165,7 +165,7 @@
 			</div>	
 
 <div id="item-2" class="collapse">			
-  <div id="item-2" class="embed-responsive embed-responsive-16by9 ombre-image">
+  <div class="embed-responsive embed-responsive-16by9 ombre-image">
     
 	<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay=""></video>
 	<div id="webcam">
@@ -219,8 +219,17 @@
 			<br>		
 				<a name="jablines"></a>
 			    <h2>Jablines</h2>
-				<p>Orientations favorables : S - N - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
-               <div class="row">
+				<p><a data-toggle="collapse" data-target="#item-3" class="lien-collapse">Orientations favorables : S - N</a> - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
+               
+			<div id="item-3" class="collapse">
+			<div class="embed-responsive embed-responsive-4by3 ombre-image">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13272.819129650208!2d2.7189477352299387!3d48.91141958867993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1546124228312" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>					<br>		
+			</div>	
+			<br>
+			</div>
+			   
+			   
+			   <div class="row">
 					<div class="col-sm-8">
 						<div class="fond-table encadrement-table">
 
@@ -261,8 +270,16 @@
 			   <br>	
 <a name="moisson"></a>			   
 			    <h2>Moisson Lavacourt</h2>
-				<p>Orientations favorables : SO - NE - <a href="https://fr.windfinder.com/weatherforecast/moisson_lavacourt" target="_blank">Superforecast</a></p>			                								
-               <div class="row">
+				<p><a data-toggle="collapse" data-target="#item-4" class="lien-collapse">Orientations favorables : SO - NE</a> - <a href="https://fr.windfinder.com/weatherforecast/moisson_lavacourt" target="_blank">Superforecast</a></p>			                								
+               
+			<div id="item-4" class="collapse">
+			<div class="embed-responsive embed-responsive-4by3 ombre-image">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15691.154105754329!2d1.674180497185694!3d49.05563923112997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1546124769919" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>			</div>	
+			<br>
+			</div>
+			   
+			   
+			   <div class="row">
 					<div class="col-sm-8">
 						<div class="fond-table encadrement-table">
 					
@@ -303,8 +320,16 @@
 			   <br>	   
 			   <a name="vaires"></a>
 			    <h2>Vaires sur Marne</h2>
-				<p>Orientations favorables : SE - NO - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
-               <div class="row">
+				<p><a data-toggle="collapse" data-target="#item-5" class="lien-collapse">Orientations favorables : SE - NO</a> - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
+               
+			<div id="item-5" class="collapse">
+			<div class="embed-responsive embed-responsive-4by3 ombre-image">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11109.004540217287!2d2.619497111646004!3d48.864038185964624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1546124922241" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>		
+			</div>
+				<br>
+			   </div>
+			   
+			   <div class="row">
 					<div class="col-sm-8">
 						<div class="fond-table encadrement-table">
 
@@ -343,8 +368,18 @@
 			   <br>	   
 			   <a name="grande-paroisse"></a>
 			    <h2><a href="grande-paroisse.php">La Grande-Paroisse</a></h2>
-				<p>Orientations favorables : E - NE - <a href="https://www.windfinder.com/weatherforecast/la_grande_paroisse" target="_blank">Superforecast</a></p>			                								
-               <div class="row">
+				<p><a data-toggle="collapse" data-target="#item-6" class="lien-collapse">Orientations favorables : E - NE</a> - <a href="https://www.windfinder.com/weatherforecast/la_grande_paroisse" target="_blank">Superforecast</a></p>			                								
+
+			<div id="item-6" class="collapse">
+			<div class="embed-responsive embed-responsive-4by3 ombre-image">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11273.578551281074!2d2.8976667986773608!3d48.373243326464745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1546125059041" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>	
+			</div>
+			<br>
+			</div>
+				
+				
+
+				<div class="row">
 					<div class="col-sm-8">
 						<div class="fond-table encadrement-table">
 
