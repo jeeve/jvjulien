@@ -516,14 +516,15 @@
 	  <script type="text/javascript" src="js/meteo2.js"></script>	  
       <script> 
 	    function getWebCam() {
-			$.ajax({
+			jQuery.ajax({
 				url: 'https://meteo-station.herokuapp.com/webcam-heudebouville-src-video.php',
 				type: 'GET',
 				crossDomain: true,
 				dataType: 'json'
 			}).then(function(data) {
 				console.log(data.src);
-				$('#videojs-viewsurf_html5_api').replaceWith('<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="" src="' + data.src + '" ></video>');		
+				//$('#videojs-viewsurf_html5_api').replaceWith('<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="" src="' + data.src + '" ></video>');		
+			jQuery('#videojs-viewsurf_html5_api').attr('src', data.src);	
 			});
 		}
 		
@@ -532,7 +533,7 @@
 		station = "33782285-df4e-4432-a3b3-06ddf1b3680a";
 		var myVar =	setInterval(getMeteo, 30000);		
         
-		$(document).ready(function($) {
+		jQuery(document).ready(function($) {
 		getWebCam();	 
 		getMeteo();
 		

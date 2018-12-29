@@ -369,8 +369,10 @@
 				dataType: 'json'
 			}).then(function(data) {
 				console.log(data.src);
-				jQuery('#videojs-viewsurf_html5_api').replaceWith('<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="" src="' + data.src + '" ></video>');		
-			});
+//				jQuery('#videojs-viewsurf_html5_api').replaceWith('<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="" src="' + data.src + '" ></video>');		
+				jQuery('#videojs-viewsurf_html5_api').attr('src', data.src);		
+
+		});
 		}
 		
 		var myCam = setInterval(getWebCam, 30000);	// 30 s
