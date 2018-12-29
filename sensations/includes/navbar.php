@@ -26,7 +26,7 @@
     <option value="#vaires">NO</option>
     <option value="#jablines">N</option>	
 	<option value="#moisson">NE</option>
-	<option value="#poses">E</option>
+	<option value="#grande-paroisse">E</option>
 	<option value="#vaires">SE</option>
     </SELECT>
 

@@ -313,6 +313,46 @@
 			</div>		
 </div>
 
+			   <br>	   
+			   <a name="grande-paroisse"></a>
+			    <h2><a href="grande-paroisse.php">La Grande-Paroisse</a></h2>
+				<p>Orientations favorables : E - NE - <a href="https://www.windfinder.com/weatherforecast/la_grande_paroisse" target="_blank">Superforecast</a></p>			                								
+               <div class="row">
+					<div class="col-sm-8">
+						<div class="fond-table encadrement-table">
+
+<script id="wg_fwdg_90210_3_1546091535290">
+(function (window, document) {
+  var loader = function () {
+    var arg = ["s=90210","m=3","uid=wg_fwdg_90210_3_1546091535290","wj=knots","tj=c","odh=7","doh=21","fhours=240","vt=forecasts",
+   "p=WINDSPD,GUST,MWINDSPD,SMER,TMPE,FLHGT,CDC,APCPs,RATING"];
+    var script = document.createElement("script");
+    var tag = document.getElementsByTagName("script")[0];
+    script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
+    tag.parentNode.insertBefore(script, tag);
+  };
+  window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+})(window, document);
+</script>
+
+
+<!--
+						<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/lac-de-vaires-sur-Marne?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&days=4&show_day=1&show_pressure=0&show_waves=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/lac-de-vaires-sur-Marne?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for undefined</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
+-->
+					</div>	
+						<p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=928" target="_blank">My wind session</a> - Le forum des <a href="http://tontons-windsurfers.forumprod.com/" target="_blank">Tontons Windsurfers</a></p>						
+				</div>			
+				  <div class="visible-xs"><br></div>						
+				   <div class="col-sm-4">
+				   <div class="embed-responsive ombre-image fond-table encadrement-table" style="height:170px;">
+  					<iframe src="meteo-temps-reel.php?station=a14ba5bb-d3f8-4ef8-bb7f-54d3aba82a39" height=170></iframe>	
+					</div>
+					<br>
+					    <div class="embed-responsive embed-responsive-4by3 ombre-image" style="background-image: none; background-color: black;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d357010.49566299294!2d2.410506468175938!3d48.62537999052597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis!3m2!1d48.856614!2d2.3522219!4m5!1s0x47ef5da0654377a5%3A0xcc0ec2789c79926a!2sLa+Grande-Paroisse!3m2!1d48.386235!2d2.900735!5e1!3m2!1sfr!2sfr!4v1546091365802" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>				 </div>		
+			</div>		
+</div>
+
 <div class="row">
 <div class="col-xs-12 fond">
 				  <a name="commentaires"></a>
