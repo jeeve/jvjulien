@@ -23,7 +23,7 @@ function getCommentaires() {
 					ligneHtml = ligneHtml + "<td>" + dateheure + "</td>";
 					ligneHtml = ligneHtml + "<td>" + nom + "</td>";
 					ligneHtml = ligneHtml + "<td>" + commentaire + "</td>";	
-					ligneHtml = ligneHtml + "<td>" + reponse + "</td>";						
+					//ligneHtml = ligneHtml + "<td>" + reponse + "</td>";						
 					ligneHtml = ligneHtml + "</tr>";
 					html = html + ligneHtml;
 				}

@@ -19,26 +19,6 @@
 		#webcam p {
 			color: silver;
 		}
-
-@media screen and (max-width: 767px) {
-	.table-commentaires {
-		font-family: 'Raleway', sans-serif;
-		font-size: 80%;
-	}
-}
-
-@media screen and (minx-width: 768px) {	
-	.table-commentaires {
-		font-family: 'Raleway', sans-serif;
-		font-size: 100%;
-	}
-}
-
-.table-commentaires td {
-	padding-right: 5px; 
-	padding-bottom: 10px;
-	vertical-align: top;
-}
 	  </style>
 		  
 	  
@@ -112,22 +92,8 @@
                <div class="col-xs-12 col-sm-12 col-md-9 fond">
 			   
 
-			    <div class="row">
-				<div class="col-xs-7">
-                  <h1>Les spots d'Ile-de-France</h1>
-				</div>
-				<div class="col-xs-5">	
-				  <p style="text-align:right;">
-				  <a href="#commentaires">Un commentaire sur cette page, une suggestion, un problème... <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a>
-				  </p>
-				 </div>
-				</div> 
-
-
-
-<!--
 			   <h1>Les spots d'Ile-de-France</h1>
--->		
+		
 			   <br>	
 				<a name="poses"></a>
 			    <h2><a href="lac-lery-poses.php">Léry-Poses</a></h2>
@@ -315,24 +281,11 @@
 			</div>		
 </div>
 
-<div class="row">
-<div class="col-xs-12 fond">
-				  <a name="commentaires"></a>
-				  <h2>Commentaires</h2>
-				  <p>
-				  <a href="https://goo.gl/forms/ZlDIbV7DJhXjArND3" target="_blank">Poster un commentaire <span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a> 
-				  </p>
-				  
-				   <br>
-				 <div> 
-					<table id="tableCommentaires" class="table-commentaires"></table>
-					<br>
-				  </div>
-</div>
-</div>
-			
 
-<br><br>
+
+			
+<br>
+<br>
 
 
  				  <div id="swipe">
@@ -357,7 +310,6 @@
       </div>
       <!--/.page-container-->
       <?php include("../includes/footer.php"); ?>	
-	  <script type="text/javascript" src="js/commentaires.js"></script>	
 	  <script>
 	          jQuery('#menu-destination').change(function(){
 				document.location.href = $(this).find('option:selected').attr('value');

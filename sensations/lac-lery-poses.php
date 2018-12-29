@@ -511,7 +511,7 @@
       </div>
       <!--/.page-container-->
       <?php include("../includes/footer.php"); ?>	
-	  <script type="text/javascript" src="js/commentaires.js"></script>	
+	  	
 	  <script src="js/jquery-ui.min.js"></script>
 	  <script type="text/javascript" src="js/meteo2.js"></script>	  
       <script> 
