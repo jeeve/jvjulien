@@ -121,8 +121,14 @@
 				 </div>
 				</div> 
 
-
-
+<br>				
+ <div class="row">
+	<div class="col-sm-8">
+	<div class="embed-responsive embed-responsive-4by3 ombre-image">
+		<iframe src="https://www.google.com/maps/d/embed?mid=10cRXGDzFD6BHC2YczFYe2xv6EbqLJB-t" width="640" height="480"></iframe>	
+	</div>	
+  </div> 
+</div> 		
 <!--
 			   <h1>Les spots d'Ile-de-France</h1>
 -->		
