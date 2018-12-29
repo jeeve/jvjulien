@@ -9,7 +9,18 @@
 			cursor: pointer;
 			text-decoration-line: underline;
 		}
+
+		#webcam {
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			background: rgba(0, 0, 0, 0.5);
+		}	  
+		#webcam p {
+			color: silver;
+		}
 	  </style>
+		  
 	  
  <script type="application/ld+json">
     {
@@ -86,13 +97,25 @@
 			   <br>	
 				<a name="poses"></a>
 			    <h2><a href="lac-lery-poses.php">Léry-Poses</a></h2>
-		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a> - <a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a></p>		
+		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a> - <a data-toggle="collapse" data-target="#item-2" class="lien-collapse">Webcam</a> - <a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a></p>		
 			<div id="item-1" class="collapse">
 							<a href="images/spots-lery-poses.jpg" target="_blank">
 							<img src="images/spots-lery-poses-2.jpg" width=400 class="img-responsive ombre-image" alt="Les mises à l'eau en fonction du vent" title="Les mises à l'eau en fonction du vent">
 							</a>
 					<br>		
-			</div>				
+			</div>	
+
+<div id="item-2" class="collapse">			
+  <div id="item-2" class="embed-responsive embed-responsive-16by9 ombre-image">
+    
+	<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay=""></video>
+	<div id="webcam">
+		<p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
+	</div>
+	  
+  </div> 
+  <br>
+</div> 			
 							
 						
 				
@@ -291,6 +314,25 @@
 	          jQuery('#menu-destination').change(function(){
 				document.location.href = $(this).find('option:selected').attr('value');
 				});
+
+	    function getWebCam() {
+			$.ajax({
+				url: 'https://meteo-station.herokuapp.com/webcam-heudebouville-src-video.php',
+				type: 'GET',
+				crossDomain: true,
+				dataType: 'json'
+			}).then(function(data) {
+				console.log(data.src);
+				$('#videojs-viewsurf_html5_api').replaceWith('<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="" src="' + data.src + '" ></video>');		
+			});
+		}
+		
+		var myCam = setInterval(getWebCam, 30000);	// 30 s
+	  
+        
+		$(document).ready(function($) {
+		getWebCam();	 
+		});
 	</script>	
    </body>
 </html>
