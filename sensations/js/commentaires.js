@@ -20,9 +20,9 @@ function getCommentaires() {
 					nom = ligne.gsx$nompseudo.$t;
 					commentaire = ligne.gsx$commentaire.$t;
 					reponse = ligne.gsx$réponse.$t;
-					ligneHtml = ligneHtml + "<td>" + dateheure + "</td>";
-					ligneHtml = ligneHtml + "<td>" + nom + "</td>";
-					ligneHtml = ligneHtml + "<td>" + commentaire + "</td>";	
+					ligneHtml = ligneHtml + "<td><p>" + dateheure + "</p></td>";
+					ligneHtml = ligneHtml + "<td><p>" + nom + "</p></td>";
+					ligneHtml = ligneHtml + "<td><p>" + commentaire + "</p></td>";	
 					//ligneHtml = ligneHtml + "<td>" + reponse + "</td>";						
 					ligneHtml = ligneHtml + "</tr>";
 					html = html + ligneHtml;

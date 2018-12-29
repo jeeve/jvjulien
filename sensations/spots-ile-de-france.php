@@ -22,14 +22,12 @@
 
 @media screen and (max-width: 767px) {
 	.table-commentaires {
-		font-family: 'Raleway', sans-serif;
 		font-size: 80%;
 	}
 }
 
 @media screen and (minx-width: 768px) {	
 	.table-commentaires {
-		font-family: 'Raleway', sans-serif;
 		font-size: 100%;
 	}
 }
@@ -364,21 +362,21 @@
 				});
 
 	    function getWebCam() {
-			$.ajax({
+			jQuery.ajax({
 				url: 'https://meteo-station.herokuapp.com/webcam-heudebouville-src-video.php',
 				type: 'GET',
 				crossDomain: true,
 				dataType: 'json'
 			}).then(function(data) {
 				console.log(data.src);
-				$('#videojs-viewsurf_html5_api').replaceWith('<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="" src="' + data.src + '" ></video>');		
+				jQuery('#videojs-viewsurf_html5_api').replaceWith('<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="" src="' + data.src + '" ></video>');		
 			});
 		}
 		
 		var myCam = setInterval(getWebCam, 30000);	// 30 s
 	  
-		$(document).ready(function($) {
-		getWebCam();	 
+		jQuery(document).ready(function($) {
+			getWebCam();	 
 		});
 	</script>	
    </body>
