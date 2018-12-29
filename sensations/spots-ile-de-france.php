@@ -20,6 +20,14 @@
 			color: silver;
 		}
 
+		.liste-spots ul {
+			font-size: 120%;
+		}
+		.liste-spots li {
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+		
 @media screen and (max-width: 767px) {
 	.table-commentaires {
 		font-size: 80%;
@@ -124,10 +132,23 @@
 <br>				
  <div class="row">
 	<div class="col-sm-8">
-	<div class="embed-responsive embed-responsive-4by3 ombre-image">
-		<iframe src="https://www.google.com/maps/d/embed?mid=10cRXGDzFD6BHC2YczFYe2xv6EbqLJB-t" width="640" height="480"></iframe>	
-	</div>	
-  </div> 
+		<div class="embed-responsive embed-responsive-4by3 ombre-image">
+			<iframe src="https://www.google.com/maps/d/embed?mid=10cRXGDzFD6BHC2YczFYe2xv6EbqLJB-t" width="640" height="480"></iframe>	
+		</div>	
+  </div>
+					<div class="hidden-xs col-sm-4">
+						<div class="fond-table encadrement-table liste-spots">
+						    <h2>Spots</h2>
+							<ul>	
+							<li><a href="#poses">Léry-Poses</a></li>
+							<li><a href="#jablines">Jablines</a></li>
+							<li><a href="#moisson">Moisson Lavacourt</a></li>
+							<li><a href="#vaires">Vaires sur Marne</a></li>
+							<li><a href="#grande-paroisse">La Grande-Paroisse</a></li>
+							</ul>
+						</div>		
+					</div>
+  
 </div> 		
 <!--
 			   <h1>Les spots d'Ile-de-France</h1>
@@ -184,7 +205,7 @@
 				</div>			
 				  <div class="visible-xs"><br></div>						
 				   <div class="col-sm-4">
-				   <div class="embed-responsive ombre-image fond-table encadrement-table" style="height:170px;">
+				   <div class="embed-responsive fond-table encadrement-table" style="height:170px;">
   					<iframe src="meteo-temps-reel.php?station=33782285-df4e-4432-a3b3-06ddf1b3680a" height=170></iframe>	
 					</div>
 					<br>
@@ -226,7 +247,7 @@
 					</div>			
 				  <div class="visible-xs"><br></div>						
 				   <div class="col-sm-4">
-				   <div class="embed-responsive ombre-image fond-table encadrement-table" style="height:170px;">
+				   <div class="embed-responsive fond-table encadrement-table" style="height:170px;">
   					<iframe src="meteo-temps-reel.php?station=12d9760b-0b8e-4564-9537-13551756fd15" height=170></iframe>	
 					</div>
 					<br>
@@ -267,7 +288,7 @@
 				</div>			
 				  <div class="visible-xs"><br></div>						
 				   <div class="col-sm-4">
-				   <div class="embed-responsive ombre-image fond-table encadrement-table" style="height:170px;">
+				   <div class="embed-responsive fond-table encadrement-table" style="height:170px;">
   					<iframe src="meteo-temps-reel.php?station=64a25cf9-5156-425f-9706-e334dc0bc1d0" height=170></iframe>	
 					</div>
 					<br>
@@ -309,7 +330,7 @@
 				</div>			
 				  <div class="visible-xs"><br></div>						
 				   <div class="col-sm-4">
-				   <div class="embed-responsive ombre-image fond-table encadrement-table" style="height:170px;">
+				   <div class="embed-responsive fond-table encadrement-table" style="height:170px;">
   					<iframe src="meteo-temps-reel.php?station=12d9760b-0b8e-4564-9537-13551756fd15" height=170></iframe>	
 					</div>
 					<br>
@@ -350,7 +371,7 @@
 				</div>			
 				  <div class="visible-xs"><br></div>						
 				   <div class="col-sm-4">
-				   <div class="embed-responsive ombre-image fond-table encadrement-table" style="height:170px;">
+				   <div class="embed-responsive fond-table encadrement-table" style="height:170px;">
   					<iframe src="meteo-temps-reel.php?station=a14ba5bb-d3f8-4ef8-bb7f-54d3aba82a39" height=170></iframe>	
 					</div>
 					<br>
