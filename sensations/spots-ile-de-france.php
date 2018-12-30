@@ -252,7 +252,7 @@
 -->						
 
 						</div>
-						<p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=36" target="_blank">My wind session</a> - Le forum des <a href="http://tontons-windsurfers.forumprod.com/" target="_blank">Tontons Windsurfers</a></p>						
+						<p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=36" target="_blank">My wind session</a> - Le forum <a href="http://windsurfing77.forumactif.com/" target="_blank">Windsurfing 77</a></p>						
 					</div>			
 				  <div class="visible-xs"><br></div>						
 				   <div class="col-sm-4">
@@ -351,7 +351,7 @@
 						<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/lac-de-vaires-sur-Marne?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&days=4&show_day=1&show_pressure=0&show_waves=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/lac-de-vaires-sur-Marne?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for undefined</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
 -->
 					</div>	
-						<p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=254" target="_blank">My wind session</a> - Le forum des <a href="http://tontons-windsurfers.forumprod.com/" target="_blank">Tontons Windsurfers</a></p>						
+						<p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=254" target="_blank">My wind session</a> - Le forum <a href="http://windsurfing77.forumactif.com/" target="_blank">Windsurfing 77</a></p>						
 				</div>			
 				  <div class="visible-xs"><br></div>						
 				   <div class="col-sm-4">
@@ -402,7 +402,7 @@
 						<script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/lac-de-vaires-sur-Marne?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&days=4&show_day=1&show_pressure=0&show_waves=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/lac-de-vaires-sur-Marne?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for undefined</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
 -->
 					</div>	
-						<p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=928" target="_blank">My wind session</a> - Le forum des <a href="http://tontons-windsurfers.forumprod.com/" target="_blank">Tontons Windsurfers</a></p>						
+						<p class="legende">Le spot sur <a href="http://windsurf-sessions.eg2.fr/detail_spot.php?id_spot=928" target="_blank">My wind session</a> - Le forum des <a href="http://tontons-windsurfers.forumprod.com/" target="_blank">Tontons Windsurfers</a> - Le forum <a href="http://windsurfing77.forumactif.com/" target="_blank">Windsurfing 77</a></p>						
 				</div>			
 				  <div class="visible-xs"><br></div>						
 				   <div class="col-sm-4">
