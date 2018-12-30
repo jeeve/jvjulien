@@ -129,7 +129,7 @@
 				 </div>
 				</div> 
 
-<br>				
+<br><br>				
  <div class="row">
 	<div class="col-sm-8">
 		<div class="embed-responsive embed-responsive-4by3 ombre-image">
