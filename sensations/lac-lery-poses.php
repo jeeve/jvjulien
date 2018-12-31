@@ -11,6 +11,7 @@
 			position: absolute;
 			left: 0;
 			top: 0;
+			width: 100%;
 			background: rgba(0, 0, 0, 0.5);
 		}	  
 		#meteo-tems-reel {
