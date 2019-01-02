@@ -14,13 +14,13 @@ function getCommentaires() {
 					ligneHtml = "<tr>";
 					ligne = data.feed.entry[i];
 					dateheure = ligne.title.$t;
-					//laDate = dateheure.substring(0, dateheure.search(' '));
-					//res = laDate.split("/");
-					//laDate = res[1] + '/' + res[0] + '/' + res[2];
+					laDate = dateheure.substring(0, dateheure.search(' '));
+					res = laDate.split("/");
+					laDate = res[1] + '/' + res[0] + '/' + res[2];
 					nom = ligne.gsx$nompseudo.$t;
 					commentaire = ligne.gsx$commentaire.$t;
 					reponse = ligne.gsx$réponse.$t;
-					ligneHtml = ligneHtml + "<td><p>" + dateheure + "</p></td>";
+					ligneHtml = ligneHtml + "<td><p>" + laDate + "</p></td>";
 					ligneHtml = ligneHtml + "<td><p>" + nom + "</p></td>";
 					ligneHtml = ligneHtml + "<td><p>" + commentaire + "</p></td>";	
 					//ligneHtml = ligneHtml + "<td>" + reponse + "</td>";						
