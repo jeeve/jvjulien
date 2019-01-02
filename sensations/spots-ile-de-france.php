@@ -416,6 +416,22 @@
 			</div>		
 </div>
 
+					
+				  <br>
+				  <h2>Sessions en vidéo</h2>
+<div class="row">
+<div class="col-xs-12 col-sm-2 fond"></div>
+<div class="col-xs-12 fond">
+				  <p align="center">
+				  <div class="embed-responsive embed-responsive-4by3 ombre-image">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvp4urJ2GQfgRYjTU1YSO3oiQSjhBe7w0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				  </div>
+				  </p>
+</div>
+</div>
+
+<br>
+
+
 <div class="row">
 <div class="col-xs-12 fond">
 				  <a name="commentaires"></a>
