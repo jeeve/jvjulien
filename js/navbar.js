@@ -20,7 +20,9 @@ $(document).ready(function() {
 				{
 					url = document.location.href; 
 					dir = url.substring(url.lastIndexOf('/')+1, url.length); // .../loire
-					//dir = dir.substring(dir.lastIndexOf('/') + 1); // loire
+					if (dir.indexOf('#') >= 0) {
+						dir = dir.substring(0, dir.lastIndexOf('#')-1);						
+					}
 					href = $(this).children('a')[0].getAttribute('href');
 					return href.indexOf(dir) > 0; 
 				}
