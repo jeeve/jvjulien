@@ -10,15 +10,24 @@
 			text-decoration-line: underline;
 		}
 
-		#webcam {
+		.webcam {
+			position: relative;
+		}
+		.webcam img {
+			position: relative;
+			z-index: 1;
+		}
+		.webcam .webcam-texte {
 			position: absolute;
 			left: 0;
 			bottom: 0;
 			width: 100%;
 			background: rgba(0, 0, 0, 0.5);
+			z-index: 10;
 		}	  
-		#webcam p {
+		.webcam-texte p {
 			color: silver;
+			text-align: center;
 		}
 
 		.liste-spots ul {
@@ -157,19 +166,19 @@
 			   <br>	
 				<a name="poses"></a>
 			    <h2><a href="lac-lery-poses.php">Léry-Poses</a></h2>
-		<p><a data-toggle="collapse" data-target="#item-1" class="lien-collapse">Orientations</a> - <a data-toggle="collapse" data-target="#item-2" class="lien-collapse">Webcam</a> - <a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a></p>		
-			<div id="item-1" class="collapse">
+		<p><a data-toggle="collapse" data-target="#item-vue-poses" class="lien-collapse">Orientations</a> - <a data-toggle="collapse" data-target="#item-webcam-poses" class="lien-collapse">Webcam</a> - <a href="https://fr.windfinder.com/weatherforecast/lake_des_deux_amants" target="_blank">Superforecast</a></p>		
+			<div id="item-vue-poses" class="collapse">
 							<a href="images/spots-lery-poses.jpg" target="_blank">
 							<img src="images/spots-lery-poses-2.jpg" width=400 class="img-responsive ombre-image" alt="Les mises à l'eau en fonction du vent" title="Les mises à l'eau en fonction du vent">
 							</a>
 					<br>		
 			</div>	
 
-<div id="item-2" class="collapse">			
-  <div class="embed-responsive embed-responsive-16by9 ombre-image">
+<div id="item-webcam-poses" class="collapse">			
+  <div class="embed-responsive embed-responsive-16by9 ombre-image webcam">
     
 	<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay=""></video>
-	<div id="webcam">
+	<div class="webcam-texte">
 		<p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
 	</div>
 	  
@@ -220,15 +229,25 @@
 			<br>		
 				<a name="jablines"></a>
 			    <h2>Jablines</h2>
-				<p><a data-toggle="collapse" data-target="#item-3" class="lien-collapse">Orientations favorables : S - N</a> - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
+				<p><a data-toggle="collapse" data-target="#item-vue-jablines" class="lien-collapse">Orientations favorables : S - N</a>  - <a data-toggle="collapse" data-target="#item-webcam-jablines" class="lien-collapse">Webcam</a> - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
                
-			<div id="item-3" class="collapse">
+			<div id="item-vue-jablines" class="collapse">
 			<div class="embed-responsive embed-responsive-4by3 ombre-image">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13272.819129650208!2d2.7189477352299387!3d48.91141958867993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1546124228312" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>					<br>		
 			</div>	
 			<br>
 			</div>
 			   
+<div id="item-webcam-jablines" class="collapse">			
+    <div class="webcam">
+		<img id="webcam-jablines" class="img-responsive ombre-image" src="https://www.panoramagique.com/wp-content/uploads/webcam/webcampanoraMagique.jpg">
+		<div class="webcam-texte">
+			<p>Euro Disney, <a href='https://www.panoramagique.com/' target="_blank">le grand ballon</a></p>  
+		</div>
+	</div>
+	  
+  <br>
+</div> 		
 			   
 			   <div class="row">
 					<div class="col-sm-8">
@@ -271,9 +290,9 @@
 			   <br>	
 <a name="moisson"></a>			   
 			    <h2>Moisson Lavacourt</h2>
-				<p><a data-toggle="collapse" data-target="#item-4" class="lien-collapse">Orientations favorables : SO - NE</a> - <a href="https://fr.windfinder.com/weatherforecast/moisson_lavacourt" target="_blank">Superforecast</a></p>			                								
+				<p><a data-toggle="collapse" data-target="#item-vue-moisson" class="lien-collapse">Orientations favorables : SO - NE</a> - <a href="https://fr.windfinder.com/weatherforecast/moisson_lavacourt" target="_blank">Superforecast</a></p>			                								
                
-			<div id="item-4" class="collapse">
+			<div id="item-vue-moisson" class="collapse">
 			<div class="embed-responsive embed-responsive-4by3 ombre-image">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15691.154105754329!2d1.674180497185694!3d49.05563923112997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1546124769919" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>			</div>	
 			<br>
@@ -321,14 +340,27 @@
 			   <br>	   
 			   <a name="vaires"></a>
 			    <h2>Vaires sur Marne</h2>
-				<p><a data-toggle="collapse" data-target="#item-5" class="lien-collapse">Orientations favorables : SE - NO</a> - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
+				<p><a data-toggle="collapse" data-target="#item-vue-vaires" class="lien-collapse">Orientations favorables : SE - NO</a> - <a data-toggle="collapse" data-target="#item-webcam-vaires" class="lien-collapse">Webcam</a> - <a href="https://fr.windfinder.com/weatherforecast/lac-de-vaires-sur-Marne" target="_blank">Superforecast</a></p>			                								
                
-			<div id="item-5" class="collapse">
+			<div id="item-vue-vaires" class="collapse">
 			<div class="embed-responsive embed-responsive-4by3 ombre-image">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11109.004540217287!2d2.619497111646004!3d48.864038185964624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1546124922241" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>		
 			</div>
 				<br>
 			   </div>
+			   
+<div id="item-webcam-vaires" class="collapse">			
+  <div>
+    <div class="webcam">
+	<img id="webcam-vaires" class="img-responsive ombre-image" src="https://www.panoramagique.com/wp-content/uploads/webcam/webcampanoraMagique.jpg">
+	<div class="webcam-texte">
+		<p>Euro Disney, <a href='https://www.panoramagique.com/' target="_blank">le grand ballon</a></p>  
+	</div>
+	</div>  
+  </div> 
+  <br>
+</div> 		
+			   
 			   
 			   <div class="row">
 					<div class="col-sm-8">
@@ -369,9 +401,9 @@
 			   <br>	   
 			   <a name="grande-paroisse"></a>
 			    <h2><a href="grande-paroisse.php">La Grande-Paroisse</a></h2>
-				<p><a data-toggle="collapse" data-target="#item-6" class="lien-collapse">Orientations favorables : E - NE</a> - <a href="https://www.windfinder.com/weatherforecast/la_grande_paroisse" target="_blank">Superforecast</a></p>			                								
+				<p><a data-toggle="collapse" data-target="#item-vue-grande-paroisse" class="lien-collapse">Orientations favorables : E - NE</a> - <a href="https://www.windfinder.com/weatherforecast/la_grande_paroisse" target="_blank">Superforecast</a></p>			                								
 
-			<div id="item-6" class="collapse">
+			<div id="item-vue-grande-paroisse" class="collapse">
 			<div class="embed-responsive embed-responsive-4by3 ombre-image">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11273.578551281074!2d2.8976667986773608!3d48.373243326464745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1546125059041" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>	
 			</div>
@@ -480,7 +512,12 @@
 				document.location.href = $(this).find('option:selected').attr('value');
 				});
 
-	    function getWebCam() {
+	    function getWebCams() {
+			getWebCamPoses();
+			getWebCamEuroDisney();
+		}
+		
+		function getWebCamPoses() {
 			jQuery.ajax({
 				url: 'https://meteo-station.herokuapp.com/webcam-heudebouville-src-video.php',
 				type: 'GET',
@@ -488,16 +525,21 @@
 				dataType: 'json'
 			}).then(function(data) {
 				console.log(data.src);
-//				jQuery('#videojs-viewsurf_html5_api').replaceWith('<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay="" src="' + data.src + '" ></video>');		
-				jQuery('#videojs-viewsurf_html5_api').attr('src', data.src);		
+				jQuery('#videojs-viewsurf_html5_api').attr('src', data.src);
 
 		});
 		}
 		
-		var myCam = setInterval(getWebCam, 30000);	// 30 s
+		function getWebCamEuroDisney() {
+			d = new Date();
+			jQuery('#webcam-jablines').attr('src', 'https://www.panoramagique.com/wp-content/uploads/webcam/webcampanoraMagique.jpg?'+d.getTime());			
+			jQuery('#webcam-vaires').attr('src', 'https://www.panoramagique.com/wp-content/uploads/webcam/webcampanoraMagique.jpg?'+d.getTime());			
+		}
+		
+		var myCam = setInterval(getWebCams, 30000);	// 30 s
 	  
 		jQuery(document).ready(function($) {
-			getWebCam();	 
+			getWebCams();	 
 		});
 	</script>	
    </body>
