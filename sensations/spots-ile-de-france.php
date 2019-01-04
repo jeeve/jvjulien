@@ -177,7 +177,7 @@
 <div id="item-webcam-poses" class="collapse">			
   <div class="embed-responsive embed-responsive-16by9 ombre-image webcam">
     
-	<video id="videojs-viewsurf_html5_api" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay=""></video>
+	<video id="video-poses" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay=""></video>
 	<div class="webcam-texte">
 		<p>A13 près de Louviers, <a href='https://www.viewsurf.com/univers/trafic/vue/3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen' target="_blank">péage de Heudebouville</a>, vue orientée vers Le Havre ou Caen</p>  
 	</div>
@@ -290,13 +290,26 @@
 			   <br>	
 <a name="moisson"></a>			   
 			    <h2>Moisson Lavacourt</h2>
-				<p><a data-toggle="collapse" data-target="#item-vue-moisson" class="lien-collapse">Orientations favorables : SO - NE</a> - <a href="https://fr.windfinder.com/weatherforecast/moisson_lavacourt" target="_blank">Superforecast</a></p>			                								
+				<p><a data-toggle="collapse" data-target="#item-vue-moisson" class="lien-collapse">Orientations favorables : SO - NE</a> - <a data-toggle="collapse" data-target="#item-webcam-moisson" class="lien-collapse">Webcam</a> - <a href="https://fr.windfinder.com/weatherforecast/moisson_lavacourt" target="_blank">Superforecast</a></p>			                								
                
 			<div id="item-vue-moisson" class="collapse">
 			<div class="embed-responsive embed-responsive-4by3 ombre-image">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15691.154105754329!2d1.674180497185694!3d49.05563923112997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1546124769919" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>			</div>	
 			<br>
 			</div>
+			
+<div id="item-webcam-moisson" class="collapse">			
+  <div class="embed-responsive embed-responsive-16by9 ombre-image webcam">
+    
+	<video id="video-moisson" class="vjs-tech" tabindex="-1" preload="auto" loop="" muted="muted" playsinline="playsinline" autoplay=""></video>
+	<div class="webcam-texte">
+		<p>A13 près de Mantes la Ville, <a href='https://www.viewsurf.com/univers/trafic/vue/3246-france-ile-de-france-buchelay-a13-pres-de-mantes-la-ville-peage-de-buchelay-vue-orientee-vers-paris' target="_blank">péage de Buchelay</a>, vue orientée vers Paris</p>  
+	</div>
+	  
+  </div> 
+  <br>
+</div> 			
+			
 			   
 			   
 			   <div class="row">
@@ -514,21 +527,36 @@
 
 	    function getWebCams() {
 			getWebCamPoses();
+			getWebCamMoisson();
 			getWebCamEuroDisney();
 		}
 		
 		function getWebCamPoses() {
 			jQuery.ajax({
-				url: 'https://meteo-station.herokuapp.com/webcam-heudebouville-src-video.php',
+				url: 'https://meteo-station.herokuapp.com/webcam-viewsurf-src-video.php?station=HEUDEBOUVILLE&url=3254-france-haute-normandie-heudebouville-a13-pres-de-louviers-peage-de-heudebouville-vue-orientee-vers-le-havre-ou-caen',
 				type: 'GET',
 				crossDomain: true,
 				dataType: 'json'
 			}).then(function(data) {
 				console.log(data.src);
-				jQuery('#videojs-viewsurf_html5_api').attr('src', data.src);
+				jQuery('#video-poses').attr('src', data.src);
 
 		});
 		}
+		
+		function getWebCamMoisson() {
+			jQuery.ajax({
+				url: 'https://meteo-station.herokuapp.com/webcam-viewsurf-src-video.php?station=BUCHELAY&url=3246-france-ile-de-france-buchelay-a13-pres-de-mantes-la-ville-peage-de-buchelay-vue-orientee-vers-paris',
+				type: 'GET',
+				crossDomain: true,
+				dataType: 'json'
+			}).then(function(data) {
+				console.log(data.src);
+				jQuery('#video-moisson').attr('src', data.src);
+
+		});
+		}
+		
 		
 		function getWebCamEuroDisney() {
 			d = new Date();
