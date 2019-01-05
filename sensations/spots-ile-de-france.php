@@ -461,7 +461,7 @@
 			</div>		
 </div>
 
-					
+<!--					
 				  <br>
 				  <h2>Sessions en vidéo</h2>
 <div class="row">
@@ -473,7 +473,7 @@
 				  </p>
 </div>
 </div>
-
+-->
 <br>
 
 
