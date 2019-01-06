@@ -569,6 +569,7 @@
 		jQuery(document).ready(function($) {
 			getWebCams();	 
 		});
+		
 	</script>	
    </body>
 </html>
